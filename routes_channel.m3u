@@ -1,16 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="GLOBO.br" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title=" TV ABERTA ",REDE GLOBO SP
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="TV ABERTA",REDE GLOBO SP
 http://15.235.15.230:14488/AFDTV
-#EXTINF:-1 tvg-id="GLOBO.br" description="Programação TV Globo" tvg-logo="http://i.imgur.com/sGlWS38.png" group-title=" TV ABERTA ",REDE GLOBO OPCAO 2
+#EXTINF:-1 description="Programação TV Globo" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="TV ABERTA",REDE GLOBO OPCAO 2
 https://8mwx.short.gy/NSCTVSC/index.m3u8
-#EXTINF:-1 tvg-id="GLOBO.br" tvg-logo="http://i.imgur.com/Jyh2wWJ.png" group-title=" TV ABERTA ",REDE GLOBO SANTOS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="TV ABERTA",REDE GLOBO SANTOS
 http://15.235.15.230:14513/AFDTV
-#EXTINF:-1 tvg-id="BandRede.br" description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND 
+#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND 
 https://live-stream.gsnoticias.net.br/live/live-all-day.flv
-#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND OPCAO 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND OPCAO 2
 https://cdn-2.nxplay.com.br/BAND_HD_PFZ/index.m3u8
-#EXTINF:-1 tvg-id="Band.br" description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND OPCAO 3
+#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND OPCAO 3
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="TV ABERTA",SBT OPCAO 1
+https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="TV ABERTA",SBT OPCAO 2
+https://cdn-2.nxplay.com.br/SBT_HD_TK/index.m3u8
+#EXTINF:-1 tvg-id="SBT.Rio.HD.br" tvg-logo="http://i.imgur.com/mDzJgZJ.png" group-title="TV ABERTA",SBT OPCAO 3
+https://livestream.zazerconer.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 #EXTINF:-1 tvg-logo="http:" group-title="  TV ABERTA ", HH3
 http://trust.tetraplex.shop.global.prod.fastly.net/live/homehealth/l_51532_24128471_6005.ts
 #EXTINF:-1 tvg-logo="http:" group-title="  TV ABERTA ", SBT
