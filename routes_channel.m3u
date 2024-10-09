@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http:" group-title="  TV ABERTA ", REDE GLOBO
-http://saturno.bucarestshop.online:2095/live/globo/chunks.m3u8?token=1726928706_c2fa613ff87beec5c3ef4958afc90e4c1f025c06
-#EXTINF:-1 tvg-logo="http:" group-title="  TV ABERTA ", REDE GLOBO2
-http://saturno.bucarestshop.online:2095/live/homehealth/chunks.m3u8?token=1727030392_dbd55d35fdff7dd6045025d3622bb6c52ba4df55
+#EXTINF:-1 tvg-id="GLOBO.br" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title=" TV ABERTA ",REDE GLOBO SP
+http://15.235.15.230:14488/AFDTV
+#EXTINF:-1 tvg-id="GLOBO.br" description="Programação TV Globo" tvg-logo="http://i.imgur.com/sGlWS38.png" group-title=" TV ABERTA ",REDE GLOBO OPCAO 2
+https://8mwx.short.gy/NSCTVSC/index.m3u8
+#EXTINF:-1 tvg-id="GLOBO.br" tvg-logo="http://i.imgur.com/Jyh2wWJ.png" group-title=" TV ABERTA ",REDE GLOBO SANTOS
+http://15.235.15.230:14513/AFDTV
 #EXTINF:-1 tvg-logo="http:" group-title="  TV ABERTA ", HH3
 http://trust.tetraplex.shop.global.prod.fastly.net/live/homehealth/l_51532_24128471_6005.ts
 #EXTINF:-1 tvg-logo="http:" group-title="  TV ABERTA ", SBT
