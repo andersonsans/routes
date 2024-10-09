@@ -5,6 +5,12 @@ http://15.235.15.230:14488/AFDTV
 https://8mwx.short.gy/NSCTVSC/index.m3u8
 #EXTINF:-1 tvg-id="GLOBO.br" tvg-logo="http://i.imgur.com/Jyh2wWJ.png" group-title=" TV ABERTA ",REDE GLOBO SANTOS
 http://15.235.15.230:14513/AFDTV
+#EXTINF:-1 tvg-id="BandRede.br" description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND 
+https://live-stream.gsnoticias.net.br/live/live-all-day.flv
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND OPCAO 2
+https://cdn-2.nxplay.com.br/BAND_HD_PFZ/index.m3u8
+#EXTINF:-1 tvg-id="Band.br" description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND OPCAO 3
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http:" group-title="  TV ABERTA ", HH3
 http://trust.tetraplex.shop.global.prod.fastly.net/live/homehealth/l_51532_24128471_6005.ts
 #EXTINF:-1 tvg-logo="http:" group-title="  TV ABERTA ", SBT
