@@ -3,39 +3,57 @@
 http://15.235.15.230:14488/AFDTV
 #EXTINF:-1 description="Programação TV Globo" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="TV ABERTA",REDE GLOBO OPCAO 2
 https://8mwx.short.gy/NSCTVSC/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="TV ABERTA",REDE GLOBO SANTOS
-http://15.235.15.230:14513/AFDTV
-#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND 
-https://live-stream.gsnoticias.net.br/live/live-all-day.flv
+#EXTINF:-1 tvg-name="Rede Globo TV Bahia" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="TV ABERTA",REDE GLOBO TV BAHIA
+http://acessopremium.site:80/6345487266/5753263850/1082903
+#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND SP
+http://acessopremium.site:80/6345487266/5753263850/1252504
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND OPCAO 2
-https://cdn-2.nxplay.com.br/BAND_HD_PFZ/index.m3u8
-#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND OPCAO 3
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="TV ABERTA",SBT OPCAO 1
-https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="TV ABERTA",SBT OPCAO 2
-https://cdn-2.nxplay.com.br/SBT_HD_TK/index.m3u8
-#EXTINF:-1 tvg-id="SBT.Rio.HD.br" tvg-logo="http://i.imgur.com/mDzJgZJ.png" group-title="TV ABERTA",SBT OPCAO 3
-https://livestream.zazerconer.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
-#EXTINF:-1 tvg-logo="http:" group-title="  TV ABERTA ", HH3
-http://trust.tetraplex.shop.global.prod.fastly.net/live/homehealth/l_51532_24128471_6005.ts
-#EXTINF:-1 tvg-logo="http:" group-title="  TV ABERTA ", SBT
-http://saturno.bucarestshop.online:2095/live/afazenda9/chunks.m3u8?token=1726929037_93e344786c1e88b1aaad4e34127cc7d592787acd
-#EXTINF:-1 tvg-logo="http:" group-title="  TV ABERTA ", BAND
-http://saturno.bucarestshop.online:2095/live/band/chunks.m3u8?token=1726929037_7068fb367307535c465fb5bd1aefcb8cdeb9f1b6
-#EXTINF:-1 tvg-logo="http:" group-title="  TV ABERTA ", RECORD
-http://saturno.bucarestshop.online:2095/live/record/chunks.m3u8?token=1726929037_f536a6ed47843344cc8ebcc7e6cab3013d13979c
+http://acessopremium.site:80/6345487266/5753263850/1087980
+#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND BAHIA
+http://acessopremium.site:80/6345487266/5753263850/1087971
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="TV ABERTA",SBT RIO
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="TV ABERTA",SBT SP
+http://acessopremium.site:80/6345487266/5753263850/1088009
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mDzJgZJ.png" group-title="TV ABERTA",SBT BAHIA
+http://acessopremium.site:80/6345487266/5753263850/1088012
+#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/recordtv.png" group-title="TV ABERTA", RECORD SP
+http://acessopremium.site:80/6345487266/5753263850/1086660
+#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/recordtv.png" group-title="TV ABERTA", RECORD RIO
+http://acessopremium.site:80/6345487266/5753263850/1086653
+#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/recordtv.png" group-title="TV ABERTA", RECORD BAHIA
+http://acessopremium.site:80/6345487266/5753263850/1086646
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD³
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/556.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 2 HD³
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/557.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 HD³
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/558.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS | PREMIERE CLUBES HD [ALT]" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE CLUBES HD³
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/537.ts
+#EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 2 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 2 HD³
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/531.ts
+#EXTINF:-1 tvg-id="PR3UBE" tvg-name="CANAIS | PREMIERE 3 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 3 HD³
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/532.ts
+#EXTINF:-1 tvg-id="PRMR4" tvg-name="CANAIS | PREMIERE 4 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 4 HD³
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/533.ts
+#EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 5 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 5 HD³
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/534.ts
+#EXTINF:-1 tvg-id="PRM6BR" tvg-name="CANAIS | PREMIERE 6 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 6 HD³
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/535.ts
+#EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 7 HD³
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/536.ts
 #EXTINF:-1 tvg-logo="http:" group-title="  DOCUMENTÁRIOS ", DISCOVERY HOME E HEALTH
 http://cartatv.es:8080/UeYFU3bduW/24nYjH8eMe/646156
-#EXTINF:-1 tvg-id="br#discovery-home-health-hd" tvg-name="Discovery H&H 4K" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryhome11.png" group-title="  DOCUMENTÁRIOS ",Discovery H&H 4K
+#EXTINF:-1 tvg-name="Discovery H&H 4K" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryhome11.png" group-title="  DOCUMENTÁRIOS ",Discovery H&H 4K
 http://acessopremium.site:80/6345487266/5753263850/239926
-#EXTINF:-1 tvg-id="br#discovery-home-health-hd" tvg-name="Discovery H&H FHD" tvg-logo="https://meuplayer.tv.br/lgs_btv/heh.png" group-title="  DOCUMENTÁRIOS ",Discovery H&H FHD
+#EXTINF:-1 tvg-name="Discovery H&H FHD" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryhome11.png" group-title="  DOCUMENTÁRIOS ",Discovery H&H FHD
 http://acessopremium.site:80/6345487266/5753263850/239589
-#EXTINF:-1 tvg-id="br#discovery-home-health-hd" tvg-name="Discovery H&H HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/heh.png" group-title="  DOCUMENTÁRIOS ",Discovery H&H HD
+#EXTINF:-1 tvg-name="Discovery H&H HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryhome11.png" group-title="  DOCUMENTÁRIOS ",Discovery H&H HD
 http://acessopremium.site:80/6345487266/5753263850/239590
-#EXTINF:-1 tvg-id="br#discovery-home-health-hd" tvg-name="Discovery H&H SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/heh.png" group-title="  DOCUMENTÁRIOS ",Discovery H&H SD
+#EXTINF:-1 tvg-name="Discovery H&H SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryhome11.png" group-title="  DOCUMENTÁRIOS ",Discovery H&H SD
 http://acessopremium.site:80/6345487266/5753263850/239591
-#EXTINF:-1 tvg-id="br#discovery-home-health-hd" tvg-name="Discovery Home and Health H265" tvg-logo="http://gestor.fontedecanais.pro/portal/misc/logos/240/1637.png" group-title="  DOCUMENTÁRIOS ",Discovery Home and Health H265
+#EXTINF:-1 tvg-name="Discovery Home and Health H265" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryhome11.png" group-title="  DOCUMENTÁRIOS ",Discovery Home and Health H265
 http://acessopremium.site:80/6345487266/5753263850/1092405
 #EXTINF:-1 group-title="CANAIS | PLUTO",🎬.Cine Comédia 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -69,25 +87,3 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 #EXTINF:-1 group-title="CANAIS | PLUTO",🎬.Filmes Nacionais HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 01³" tvg-logo="https://prostore.app/logos/nossofutebol.png" group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 01³
-https://cdn-4.nxplay.com.br/NOSSO_FUTEBOL/index.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD³
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/556.ts
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 2 HD³
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/557.ts
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="CANAIS | SPORTV",SPORTV 3 HD³
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/558.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAIS | PREMIERE CLUBES HD [ALT]" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE CLUBES HD³
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/537.ts
-#EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 2 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 2 HD³
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/531.ts
-#EXTINF:-1 tvg-id="PR3UBE" tvg-name="CANAIS | PREMIERE 3 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 3 HD³
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/532.ts
-#EXTINF:-1 tvg-id="PRMR4" tvg-name="CANAIS | PREMIERE 4 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 4 HD³
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/533.ts
-#EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 5 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 5 HD³
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/534.ts
-#EXTINF:-1 tvg-id="PRM6BR" tvg-name="CANAIS | PREMIERE 6 FHD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 6 HD³
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/535.ts
-#EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="http://logo.trendhd.xyz/images/Esportes/CANAIS | PREMIERE.png" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 7 HD³
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/536.ts
