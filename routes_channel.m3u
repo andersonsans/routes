@@ -65,6 +65,34 @@ http://acessopremium.site:80/6345487266/5753263850/240349
 http://acessopremium.site:80/6345487266/5753263850/240352
 #EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinetouch.png" group-title="Filmes & Series", 🎬 Telecine Touch
 http://acessopremium.site:80/6345487266/5753263850/240358
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo-1.png" group-title="Filmes & Series",HBO
+http://acessopremium.site:80/6345487266/5753263850/239640
+#EXTINF:-1 tvg-name="HBO 2 SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo2-1.png" group-title="Filmes & Series",HBO 2
+http://acessopremium.site:80/6345487266/5753263850/239628
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbofamily-1.png" group-title="Filmes & Series",HBO Family
+http://acessopremium.site:80/6345487266/5753263850/239631
+#EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbopop-1.png" group-title="Filmes & Series",HBO Pop
+http://acessopremium.site:80/6345487266/5753263850/239639
+#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://meuplayer.tv.br/lgs_btv/hboxtreme-1.png" group-title="Filmes & Series",HBO Xtreme
+http://acessopremium.site:80/6345487266/5753263850/239646
+#EXTINF:-1 tvg-name="HBO+" tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus-1.png" group-title="Filmes & Series",HBO+
+http://acessopremium.site:80/6345487266/5753263850/239649
+#EXTINF:-1 tvg-name="Megapix" tvg-logo="https://meuplayer.tv.br/lgs_btv/megapix.png" group-title="Filmes & Series",Megapix
+http://acessopremium.site:80/6345487266/5753263850/239493
+#EXTINF:-1 tvg-name="Space" tvg-logo="https://meuplayer.tv.br/lgs_btv/space.png" group-title="Filmes & Series",Space
+http://acessopremium.site:80/6345487266/5753263850/239502
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://meuplayer.tv.br/lgs_btv/tnt.png" group-title="Filmes & Series",TNT
+http://acessopremium.site:80/6345487266/5753263850/239523
+#EXTINF:-1 tvg-name="TNT Séries" tvg-logo="https://meuplayer.tv.br/lgs_btv/tntseries.png" group-title="Filmes & Series",TNT Séries
+http://acessopremium.site:80/6345487266/5753263850/239526
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://meuplayer.tv.br/lgs_btv/fx.png" group-title="Filmes & Series",FX
+http://acessopremium.site:80/6345487266/5753263850/239487
+#EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://meuplayer.tv.br/lgs_btv/warner.png" group-title="Filmes & Series",Warner Channel
+http://acessopremium.site:80/6345487266/5753263850/239534
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="http://meuplayer.tv.br/lgs_btv/disneychannel.png" group-title="Filmes & Series",Disney Channel
+http://acessopremium.site:80/6345487266/5753263850/1805959
+#EXTINF:-1 tvg-name="A&E" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="Filmes & Series",A&E
+http://acessopremium.site:80/6345487266/5753263850/239472
 #EXTINF:-1 group-title="CANAIS | PLUTO",🎬.Cine Comédia 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 #EXTINF:-1 group-title="CANAIS | PLUTO",🎬.Cine Comédia Romantica
