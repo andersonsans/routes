@@ -55,6 +55,16 @@ http://acessopremium.site:80/6345487266/5753263850/239590
 http://acessopremium.site:80/6345487266/5753263850/239591
 #EXTINF:-1 tvg-name="Discovery Home and Health H265" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryhome11.png" group-title="  DOCUMENTÁRIOS ",Discovery Home and Health H265
 http://acessopremium.site:80/6345487266/5753263850/1092405
+#EXTINF:-1 tvg-name="Telecine Action" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecineaction.png" group-title="Filmes & Series", 🎬 Telecine Action
+http://acessopremium.site:80/6345487266/5753263850/240343
+#EXTINF:-1 tvg-name="Telecine Cult" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinecult.png" group-title="Filmes & Series", 🎬 Telecine Cult
+http://acessopremium.site:80/6345487266/5753263850/240346
+#EXTINF:-1 tvg-name="Telecine Fun" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinefun.png" group-title="Filmes & Series", 🎬 Telecine Fun 
+http://acessopremium.site:80/6345487266/5753263850/240349
+#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinepipoca.png" group-title="Filmes & Series", 🎬 Telecine Pipoca
+http://acessopremium.site:80/6345487266/5753263850/240352
+#EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinetouch.png" group-title="Filmes & Series", 🎬 Telecine Touch
+http://acessopremium.site:80/6345487266/5753263850/240358
 #EXTINF:-1 group-title="CANAIS | PLUTO",🎬.Cine Comédia 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 #EXTINF:-1 group-title="CANAIS | PLUTO",🎬.Cine Comédia Romantica
