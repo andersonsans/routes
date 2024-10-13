@@ -65,6 +65,12 @@ http://acessopremium.site:80/6345487266/5753263850/240349
 http://acessopremium.site:80/6345487266/5753263850/240352
 #EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinetouch.png" group-title="Filmes & Series", 🎬 Telecine Touch
 http://acessopremium.site:80/6345487266/5753263850/240358
+#EXTINF:-1 tvg-name="TELECINE ACTION [ALT]" tvg-logo="https://i.imgur.com/85w1DuC.png" group-title="Filmes & Series",TELECINE ACTION [ALT]
+http://130.51.20.56:80/freeFormigatv/offilinetv2211/1154044.m3u8
+#EXTINF:-1 tvg-name="TELECINE TOUCH [ALT]" tvg-logo="https://i.imgur.com/85w1DuC.png" group-title="Filmes & Series",TELECINE TOUCH [ALT]
+http://130.51.20.56:80/freeFormigatv/offilinetv2211/14971.m3u8
+#EXTINF:-1 tvg-name="TELECINE PIPOCA HD [ALT]" tvg-logo="https://i.imgur.com/85w1DuC.png" group-title="Filmes & Series",TELECINE PIPOCA HD [ALT]
+http://130.51.20.56:80/freeFormigatv/offilinetv2211/14957.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo-1.png" group-title="Filmes & Series",HBO
 http://acessopremium.site:80/6345487266/5753263850/239640
 #EXTINF:-1 tvg-name="HBO 2 SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo2-1.png" group-title="Filmes & Series",HBO 2
@@ -77,6 +83,20 @@ http://acessopremium.site:80/6345487266/5753263850/239639
 http://acessopremium.site:80/6345487266/5753263850/239646
 #EXTINF:-1 tvg-name="HBO+" tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus-1.png" group-title="Filmes & Series",HBO+
 http://acessopremium.site:80/6345487266/5753263850/239649
+#EXTINF:-1 tvg-name="HBO [ALT]" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="Filmes & Series",HBO [ALT]
+http://130.51.20.56:80/freeFormigatv/offilinetv2211/1542358.m3u8
+#EXTINF:-1 tvg-name="HBO 2 HD [ALT]" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="Filmes & Series",HBO 2 HD [ALT]
+http://130.51.20.56:80/freeFormigatv/offilinetv2211/1542348.m3u8
+#EXTINF:-1 tvg-name="HBO PLUS [ALT]" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="Filmes & Series",HBO PLUS [ALT]
+http://130.51.20.56:80/freeFormigatv/offilinetv2211/1542368.m3u8
+#EXTINF:-1 tvg-name="MEGAPIX [ALT]" tvg-logo="https://i.imgur.com/A447m0E.png" group-title="✔️ Filmes & Series",MEGAPIX [ALT]
+http://130.51.20.56:80/freeFormigatv/offilinetv2211/1154042.m3u8
+#EXTINF:-1 tvg-name="SPACE [ALT]" tvg-logo="https://i.imgur.com/igxmydO.png" group-title="✔️ Filmes & Series",SPACE [ALT]
+http://130.51.20.56:80/freeFormigatv/offilinetv2211/1154047.m3u8
+#EXTINF:-1 tvg-name="A&E HD [ALT]" tvg-logo="https://i.imgur.com/oEo3tyD.png" group-title="✔️ Filmes & Series",A&E HD [ALT]
+http://130.51.20.56:80/freeFormigatv/offilinetv2211/1542096.m3u8
+#EXTINF:-1 tvg-name="TNT [ALT]" tvg-logo="https://i.imgur.com/qXcFmLZ.png" group-title="✔️ Filmes & Series",TNT [ALT]
+http://130.51.20.56:80/freeFormigatv/offilinetv2211/8911.m3u8
 #EXTINF:-1 tvg-name="Megapix" tvg-logo="https://meuplayer.tv.br/lgs_btv/megapix.png" group-title="Filmes & Series",Megapix
 http://acessopremium.site:80/6345487266/5753263850/239493
 #EXTINF:-1 tvg-name="Space" tvg-logo="https://meuplayer.tv.br/lgs_btv/space.png" group-title="Filmes & Series",Space
