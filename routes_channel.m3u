@@ -43,6 +43,8 @@ http://cdn33.cc:80/live/ELISIO6854/SZ7343/534.ts
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/535.ts
 #EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 7 HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/536.ts
+#EXTINF:-1 tvg-logo="http:" group-title="  DOCUMENTÁRIOS ", DISCOVERY HOME E HEALTH STL
+https://raw.githubusercontent.com/andersonsans/routes/refs/heads/main/H_H.m3u8
 #EXTINF:-1 tvg-logo="http:" group-title="  DOCUMENTÁRIOS ", DISCOVERY HOME E HEALTH
 http://cartatv.es:8080/UeYFU3bduW/24nYjH8eMe/646156
 #EXTINF:-1 tvg-name="Discovery H&H 4K" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryhome11.png" group-title="  DOCUMENTÁRIOS ",Discovery H&H 4K
