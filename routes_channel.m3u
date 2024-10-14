@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="TV ABERTA",REDE GLOBO SP
 http://15.235.15.230:14488/AFDTV
 #EXTINF:-1 description="Programação TV Globo" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="TV ABERTA",REDE GLOBO OPCAO 2
-https://8mwx.short.gy/NSCTVSC/index.m3u8
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/432.ts
 #EXTINF:-1 tvg-name="Rede Globo TV Bahia" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="TV ABERTA",REDE GLOBO TV BAHIA
 http://acessopremium.site:80/6345487266/5753263850/1082903
 #EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND SP
@@ -47,8 +47,10 @@ http://cdn33.cc:80/live/ELISIO6854/SZ7343/534.ts
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/535.ts
 #EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 7 HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/536.ts
-#EXTINF:-1 tvg-logo="http:" group-title="NOTICAS", ESPN
+#EXTINF:-1 tvg-logo="http:" group-title="ESPORTES", ESPN
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/586.ts
+#EXTINF:-1 tvg-logo="http:" group-title="ESPORTES", ESPN 4
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/595.ts
 #EXTINF:-1 tvg-logo="http:" group-title="NOTICAS", BAND NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/520.ts
 #EXTINF:-1 tvg-logo="http:" group-title="NOTICAS", RECORD NEWS
@@ -63,10 +65,10 @@ http://cdn33.cc:80/live/ELISIO6854/SZ7343/516.ts
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/585.ts
 #EXTINF:-1 tvg-logo="http:" group-title="DOCUMENTÁRIOS", ANIMAL PLANET
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/588.ts
-#EXTINF:-1 tvg-logo="http:" group-title="  DOCUMENTÁRIOS ", DISCOVERY HOME E HEALTH
-http://cartatv.es:8080/UeYFU3bduW/24nYjH8eMe/646156
-#EXTINF:-1 tvg-name="Discovery H&H 4K" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryhome11.png" group-title="  DOCUMENTÁRIOS ",Discovery H&H 4K
-http://acessopremium.site:80/6345487266/5753263850/239926
+#EXTINF:-1 tvg-logo="http:" group-title="DOCUMENTÁRIOS", TLC
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/314.ts
+#EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryhome11.png" group-title="  DOCUMENTÁRIOS ",Discovery H&H
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/198.ts
 #EXTINF:-1 tvg-name="Discovery H&H FHD" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryhome11.png" group-title="  DOCUMENTÁRIOS ",Discovery H&H FHD
 http://acessopremium.site:80/6345487266/5753263850/239589
 #EXTINF:-1 tvg-name="Discovery H&H HD" tvg-logo="https://meuplayer.tv.br/lgs_btv/discoveryhome11.png" group-title="  DOCUMENTÁRIOS ",Discovery H&H HD
@@ -88,47 +90,59 @@ http://cdn33.cc:80/live/ELISIO6854/SZ7343/566.ts
 #EXTINF:-1 tvg-name="Telecine Premium" tvg-logo="https://meuplayer.tv.br/lgs_btv/telecinetouch.png" group-title="Filmes & Series", 🎬 Telecine Premium
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/565.ts
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo-1.png" group-title="Filmes & Series",HBO
-http://acessopremium.site:80/6345487266/5753263850/239640
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/470.ts
 #EXTINF:-1 tvg-name="HBO 2 SD" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbo2-1.png" group-title="Filmes & Series",HBO 2
-http://acessopremium.site:80/6345487266/5753263850/239628
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/471.ts
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbofamily-1.png" group-title="Filmes & Series",HBO Family
-http://acessopremium.site:80/6345487266/5753263850/239631
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/464.ts
 #EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbopop-1.png" group-title="Filmes & Series",HBO Pop
-http://acessopremium.site:80/6345487266/5753263850/239639
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/469.ts
 #EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://meuplayer.tv.br/lgs_btv/hboxtreme-1.png" group-title="Filmes & Series",HBO Xtreme
-http://acessopremium.site:80/6345487266/5753263850/239646
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/468.ts
 #EXTINF:-1 tvg-name="HBO+" tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus-1.png" group-title="Filmes & Series",HBO+
-http://acessopremium.site:80/6345487266/5753263850/239649
-#EXTINF:-1 tvg-name="HBO [ALT]" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="Filmes & Series",HBO [ALT]
-http://130.51.20.56:80/freeFormigatv/offilinetv2211/1542358.m3u8
-#EXTINF:-1 tvg-name="HBO 2 HD [ALT]" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="Filmes & Series",HBO 2 HD [ALT]
-http://130.51.20.56:80/freeFormigatv/offilinetv2211/1542348.m3u8
-#EXTINF:-1 tvg-name="HBO PLUS [ALT]" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="Filmes & Series",HBO PLUS [ALT]
-http://130.51.20.56:80/freeFormigatv/offilinetv2211/1542368.m3u8
-#EXTINF:-1 tvg-name="MEGAPIX [ALT]" tvg-logo="https://i.imgur.com/A447m0E.png" group-title="✔️ Filmes & Series",MEGAPIX [ALT]
-http://130.51.20.56:80/freeFormigatv/offilinetv2211/1154042.m3u8
-#EXTINF:-1 tvg-name="SPACE [ALT]" tvg-logo="https://i.imgur.com/igxmydO.png" group-title="✔️ Filmes & Series",SPACE [ALT]
-http://130.51.20.56:80/freeFormigatv/offilinetv2211/1154047.m3u8
-#EXTINF:-1 tvg-name="A&E HD [ALT]" tvg-logo="https://i.imgur.com/oEo3tyD.png" group-title="✔️ Filmes & Series",A&E HD [ALT]
-http://130.51.20.56:80/freeFormigatv/offilinetv2211/1542096.m3u8
-#EXTINF:-1 tvg-name="TNT [ALT]" tvg-logo="https://i.imgur.com/qXcFmLZ.png" group-title="✔️ Filmes & Series",TNT [ALT]
-http://130.51.20.56:80/freeFormigatv/offilinetv2211/8911.m3u8
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/465.ts
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus-1.png" group-title="Filmes & Series",HBO Signature
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/466.ts
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus-1.png" group-title="Filmes & Series",HBO Mundi
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/467.ts
 #EXTINF:-1 tvg-name="Megapix" tvg-logo="https://meuplayer.tv.br/lgs_btv/megapix.png" group-title="Filmes & Series",Megapix
-http://acessopremium.site:80/6345487266/5753263850/239493
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/310.ts
 #EXTINF:-1 tvg-name="Space" tvg-logo="https://meuplayer.tv.br/lgs_btv/space.png" group-title="Filmes & Series",Space
-http://acessopremium.site:80/6345487266/5753263850/239502
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/313.ts
 #EXTINF:-1 tvg-name="TNT" tvg-logo="https://meuplayer.tv.br/lgs_btv/tnt.png" group-title="Filmes & Series",TNT
-http://acessopremium.site:80/6345487266/5753263850/239523
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/315.ts
 #EXTINF:-1 tvg-name="TNT Séries" tvg-logo="https://meuplayer.tv.br/lgs_btv/tntseries.png" group-title="Filmes & Series",TNT Séries
-http://acessopremium.site:80/6345487266/5753263850/239526
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/316.ts
 #EXTINF:-1 tvg-name="FX" tvg-logo="https://meuplayer.tv.br/lgs_btv/fx.png" group-title="Filmes & Series",FX
-http://acessopremium.site:80/6345487266/5753263850/239487
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/308.ts
 #EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://meuplayer.tv.br/lgs_btv/warner.png" group-title="Filmes & Series",Warner Channel
-http://acessopremium.site:80/6345487266/5753263850/239534
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/319.ts
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="http://meuplayer.tv.br/lgs_btv/disneychannel.png" group-title="Filmes & Series",Disney Channel
 http://acessopremium.site:80/6345487266/5753263850/1805959
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="Filmes & Series",A&E
-http://acessopremium.site:80/6345487266/5753263850/239472
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/324.ts
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="Filmes & Series",AMC
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/300.ts
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="Filmes & Series",AXN
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/301.ts
+#EXTINF:-1 tvg-name="Sony" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="Filmes & Series",Sony
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/302.ts
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="Filmes & Series",Cinemax
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/303.ts
+#EXTINF:-1 tvg-name="Star Channel" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="Filmes & Series",Star Channel
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/304.ts
+#EXTINF:-1 tvg-name="LifeTime" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="Filmes & Series",LifeTime
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/309.ts
+#EXTINF:-1 tvg-name="Paramount" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="Filmes & Series",Paramount
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/311.ts
+#EXTINF:-1 tvg-name="USA" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="Filmes & Series",USA
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/312.ts
+#EXTINF:-1 tvg-name="Universal Channel" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="Filmes & Series",Universal Channel
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/319.ts
+#EXTINF:-1 tvg-name="Universal Studio" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="Filmes & Series",Universal Studio
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/320.ts
+#EXTINF:-1 tvg-logo="http:" group-title="INFANTIL", CARTOON NETWORK
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/591.ts
 #EXTINF:-1 group-title="CANAIS | PLUTO",🎬.Cine Comédia 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 #EXTINF:-1 group-title="CANAIS | PLUTO",🎬.Cine Comédia Romantica
