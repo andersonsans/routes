@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2747248,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2"
+https://raw.githubusercontent.com/andersonsans/routes/refs/heads/main/H_H.m3u8
