@@ -47,10 +47,12 @@ http://cdn33.cc:80/live/ELISIO6854/SZ7343/534.ts
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/535.ts
 #EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 7 HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/536.ts
-#EXTINF:-1 tvg-logo="http:" group-title="ESPORTES", ESPN
+#EXTINF:-1 tvg-logo="http:" group-title="▶️   ESPORTES", ESPN
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/586.ts
-#EXTINF:-1 tvg-logo="http:" group-title="ESPORTES", ESPN 4
+#EXTINF:-1 tvg-logo="http:" group-title="▶️   ESPORTES", ESPN 4
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/595.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cazé TV  ᴴᴰ" tvg-logo="https://meuplayer.tv.br/lgs_btv/cazetv.png" group-title="▶️   ESPORTES",Cazé TV  ᴴᴰ
+http://acessopremium.site:80/6345487266/5753263850/471276
 #EXTINF:-1 tvg-logo="http:" group-title="NOTICAS", BAND NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/520.ts
 #EXTINF:-1 tvg-logo="http:" group-title="NOTICAS", RECORD NEWS
@@ -175,3 +177,33 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 #EXTINF:-1 group-title="CANAIS | PLUTO",🎬.Filmes Nacionais HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+#EXTINF:-1 tvg-id="" tvg-name="24H Todo Mundo Odeia o Chris" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="▶️   24 Horas",24H Todo Mundo Odeia o Chris
+http://acessopremium.site:80/6345487266/5753263850/1254734
+#EXTINF:-1 tvg-id="" tvg-name="24H Chaves" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="▶️   24 Horas",24H Chaves
+http://acessopremium.site:80/6345487266/5753263850/1254721
+#EXTINF:-1 tvg-id="" tvg-name="24H Familia Dinoussauros" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="▶️   24 Horas",24H Familia Dinoussauros
+http://acessopremium.site:80/6345487266/5753263850/1254745
+#EXTINF:-1 tvg-id="" tvg-name="24H Aeroporto Area Restrita" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="▶️   24 Horas",24H Aeroporto Area Restrita
+http://acessopremium.site:80/6345487266/5753263850/1254746
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 1 - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIMCfztNwx2rA6XWGaJhcqdG7Wt.jpg" group-title="Filmes | Ação",Velozes e Furiosos 1 - 2001
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 2 - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmhFOjy47UqrOafl0oQiygcJ7oT.jpg" group-title="Filmes | Ação",Velozes e Furiosos 2 - 2003
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 3 - Desafio em Toquio - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yItFvcLOC470J9S2dsRoUypfmnK.jpg" group-title="Filmes | Ação",Velozes e Furiosos 3 - Desafio em Toquio - 2006
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 4 - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg" group-title="Filmes | Ação",Velozes e Furiosos 4 - 2009
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 5 - Operacao Rio - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3u5RexOOAJuwm5JtNmxT9P0CdLG.jpg" group-title="Filmes | Ação",Velozes e Furiosos 5 - Operacao Rio - 2011
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 6 - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/870V0yMDOEAKAv45WPLe7LzcMcL.jpg" group-title="Filmes | Ação",Velozes e Furiosos 6 - 2013
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 7 - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPbKWpt3eRsDOYlWKohr2kIRxsT.jpg" group-title="Filmes | Ação",Velozes e Furiosos 7 - 2015
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 8 - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5L2IpMfGFfwOmxNdIJeJtdlz03.jpg" group-title="Filmes | Ação",Velozes e Furiosos 8 - 2017
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos: Hobbs e Shaw - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg" group-title="Filmes | Ação",Velozes e Furiosos: Hobbs e Shaw - 2019
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 9 - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnAzaxRSiveFafudJtByxA7I2xT.jpg" group-title="Filmes | Ação",Velozes e Furiosos 9 - 2021
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 10 - 2023 " tvg-logo="http://5ce.co:80/images/wDWAA5QApz5L5BKfFaaj8HJCAQM_big.jpg" group-title="Filmes | Lançamentos 2023",Velozes e Furiosos 10 - 2023 
+http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/30312.mp4
