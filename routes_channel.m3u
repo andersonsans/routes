@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="TV ABERTA",REDE GLOBO SP
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="📺 TV ABERTA",REDE GLOBO SP
 http://15.235.15.230:14488/AFDTV
-#EXTINF:-1 description="Programação TV Globo" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="TV ABERTA",REDE GLOBO OPCAO 2
+#EXTINF:-1 description="Programação TV Globo" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="📺 TV ABERTA",REDE GLOBO OPCAO 2
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/432.ts
-#EXTINF:-1 tvg-name="Rede Globo TV Bahia" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="TV ABERTA",REDE GLOBO TV BAHIA
+#EXTINF:-1 tvg-name="Rede Globo TV Bahia" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="📺 TV ABERTA",REDE GLOBO TV BAHIA
 http://acessopremium.site:80/6345487266/5753263850/1082903
-#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND SP
+#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="📺 TV ABERTA",REDE BAND SP
 http://acessopremium.site:80/6345487266/5753263850/1252504
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND OPCAO 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="📺 TV ABERTA",REDE BAND OPCAO 2
 http://acessopremium.site:80/6345487266/5753263850/1087980
-#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="TV ABERTA",REDE BAND BAHIA
+#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="📺 TV ABERTA",REDE BAND BAHIA
 http://acessopremium.site:80/6345487266/5753263850/1087971
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="TV ABERTA",SBT RIO
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="📺 TV ABERTA",SBT RIO
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="TV ABERTA",SBT SP
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="📺 TV ABERTA",SBT SP
 http://acessopremium.site:80/6345487266/5753263850/1088009
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mDzJgZJ.png" group-title="TV ABERTA",SBT BAHIA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mDzJgZJ.png" group-title="📺 TV ABERTA",SBT BAHIA
 http://acessopremium.site:80/6345487266/5753263850/1088012
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/recordtv.png" group-title="TV ABERTA", RECORD SP
+#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/recordtv.png" group-title="📺 TV ABERTA", RECORD SP
 http://acessopremium.site:80/6345487266/5753263850/1086660
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/recordtv.png" group-title="TV ABERTA", RECORD RIO
+#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/recordtv.png" group-title="📺 TV ABERTA", RECORD RIO
 http://acessopremium.site:80/6345487266/5753263850/1086653
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/recordtv.png" group-title="TV ABERTA", RECORD BAHIA
+#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/recordtv.png" group-title="📺 TV ABERTA", RECORD BAHIA
 http://acessopremium.site:80/6345487266/5753263850/1086646
-#EXTINF:-1 tvg-logo="http:" group-title="TV ABERTA", REDE VIDA
+#EXTINF:-1 tvg-logo="http:" group-title="📺 TV ABERTA", REDE VIDA
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/545.ts
-#EXTINF:-1 tvg-logo="http:" group-title="TV ABERTA", TV APARECIDA
+#EXTINF:-1 tvg-logo="http:" group-title="📺 TV ABERTA", TV APARECIDA
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/548.ts
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://prostore.app/logos/sportv.png" group-title="⚽   ESPORTES",SPORTV HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/556.ts
