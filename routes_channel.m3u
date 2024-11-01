@@ -15,18 +15,20 @@ http://acessopremium.site:80/6345487266/5753263850/1087971
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="📺 TV ABERTA",SBT SP
 http://acessopremium.site:80/6345487266/5753263850/1088009
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mDzJgZJ.png" group-title="📺 TV ABERTA",SBT BAHIA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="📺 TV ABERTA",SBT BAHIA
 http://acessopremium.site:80/6345487266/5753263850/1088012
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/recordtv.png" group-title="📺 TV ABERTA", RECORD SP
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="📺 TV ABERTA", RECORD SP
 http://acessopremium.site:80/6345487266/5753263850/1086660
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/recordtv.png" group-title="📺 TV ABERTA", RECORD RIO
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="📺 TV ABERTA", RECORD RIO
 http://acessopremium.site:80/6345487266/5753263850/1086653
-#EXTINF:-1 tvg-logo="https://meuplayer.tv.br/lgs_btv/recordtv.png" group-title="📺 TV ABERTA", RECORD BAHIA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="📺 TV ABERTA", RECORD BAHIA
 http://acessopremium.site:80/6345487266/5753263850/1086646
-#EXTINF:-1 tvg-logo="http:" group-title="📺 TV ABERTA", REDE VIDA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3oI8p3.png" group-title="📺 TV ABERTA", REDE VIDA
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/545.ts
-#EXTINF:-1 tvg-logo="http:" group-title="📺 TV ABERTA", TV APARECIDA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/egU0jsZ.png" group-title="📺 TV ABERTA", TV APARECIDA
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/548.ts
+#EXTINF:-1 tvg-id="Rede.Brasil.HD.br" description="Programação Rede Brasil" tvg-logo="http://i.imgur.com/f7FvEEO.png" group-title="📺 TV ABERTA", REDE BRASIL
+http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://prostore.app/logos/sportv.png" group-title="⚽   ESPORTES",SPORTV HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/556.ts
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="⚽   ESPORTES",SPORTV 2 HD³
@@ -55,11 +57,11 @@ http://cdn33.cc:80/live/ELISIO6854/SZ7343/595.ts
 http://acessopremium.site:80/6345487266/5753263850/471276
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="🗞️ NOTICIAS 24H", BAND NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/520.ts
-#EXTINF:-1 tvg-logo="https://goplay.tv.br/logos/recordnews.png" group-title="🗞️ NOTICIAS 24H", RECORD NEWS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FBfKyIn.png" group-title="🗞️ NOTICIAS 24H", RECORD NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/511.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="🗞️ NOTICIAS 24H", GLOBO NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/512.ts
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/yvn5yE3HZJJsx3vxT5g4eGlvo9ofpLuOu9o9cFmF.png" group-title="📰 NOTICIAS 24H", CNN NEWS
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/yvn5yE3HZJJsx3vxT5g4eGlvo9ofpLuOu9o9cFmF.png" group-title="🗞️ NOTICIAS 24H", CNN NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/513.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="🗞️ NOTICIAS 24H", G1 NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/516.ts
