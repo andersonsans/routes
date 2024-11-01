@@ -103,7 +103,7 @@ http://cdn33.cc:80/live/ELISIO6854/SZ7343/464.ts
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/469.ts
 #EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://images2.imgbox.com/09/90/O7jlBA1I_o.png" group-title="🎬 Filmes & Series",HBO Xtreme
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/468.ts
-#EXTINF:-1 tvg-name="HBO+" tvg-logo="https://meuplayer.tv.br/lgs_btv/hboplus-1.png" group-title="🎬 Filmes & Series",HBO+
+#EXTINF:-1 tvg-name="HBO+" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="🎬 Filmes & Series",HBO+
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/465.ts
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://images2.imgbox.com/33/3e/0IDs4wcG_o.png" group-title="🎬 Filmes & Series",HBO Signature
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/466.ts
@@ -183,10 +183,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c094
 http://acessopremium.site:80/6345487266/5753263850/1254734
 #EXTINF:-1 tvg-id="" tvg-name="24H Chaves" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="▶️   24 Horas",24H Chaves
 http://acessopremium.site:80/6345487266/5753263850/1254721
-#EXTINF:-1 tvg-id="" tvg-name="24H Familia Dinoussauros" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="▶️   24 Horas",24H Familia Dinoussauros
-http://acessopremium.site:80/6345487266/5753263850/1254745
 #EXTINF:-1 tvg-id="" tvg-name="24H Aeroporto Area Restrita" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="▶️   24 Horas",24H Aeroporto Area Restrita
 http://acessopremium.site:80/6345487266/5753263850/1254746
+#EXTINF:-1 tvg-id="" tvg-name="24H Familia Dinoussauros" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="▶️   24 Horas",24H Familia Dinoussauros
+http://acessopremium.site:80/6345487266/5753263850/1254745
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sydBue3.png" group-title="▶️   24 Horas",24H RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w318448940.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 1 - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIMCfztNwx2rA6XWGaJhcqdG7Wt.jpg" group-title="Filmes | Ação",Velozes e Furiosos 1 - 2001
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32977.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 2 - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmhFOjy47UqrOafl0oQiygcJ7oT.jpg" group-title="Filmes | Ação",Velozes e Furiosos 2 - 2003
