@@ -53,15 +53,15 @@ http://cdn33.cc:80/live/ELISIO6854/SZ7343/586.ts
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/595.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cazé TV  ᴴᴰ" tvg-logo="https://meuplayer.tv.br/lgs_btv/cazetv.png" group-title="⚽   ESPORTES",Cazé TV  ᴴᴰ
 http://acessopremium.site:80/6345487266/5753263850/471276
-#EXTINF:-1 tvg-logo="http:" group-title="NOTICAS", BAND NEWS
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="📰 NOTICIAS 24H", BAND NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/520.ts
-#EXTINF:-1 tvg-logo="http:" group-title="NOTICAS", RECORD NEWS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/programacao/images/9/99/Record-news.jpg/revision/latest?cb=20220206234207&path-prefix=pt-br" group-title="📰 NOTICIAS 24H", RECORD NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/511.ts
-#EXTINF:-1 tvg-logo="http:" group-title="NOTICAS", GLOBO NEWS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/programacao/images/2/20/GloboNews_Logo.jpg/revision/latest?cb=20220207235814&path-prefix=pt-br" group-title="📰 NOTICIAS 24H", GLOBO NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/512.ts
-#EXTINF:-1 tvg-logo="http:" group-title="NOTICAS", CNN NEWS
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/yvn5yE3HZJJsx3vxT5g4eGlvo9ofpLuOu9o9cFmF.png" group-title="📰 NOTICIAS 24H", CNN NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/513.ts
-#EXTINF:-1 tvg-logo="http:" group-title="NOTICAS", G1 NEWS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/programacao/images/2/20/GloboNews_Logo.jpg/revision/latest?cb=20220207235814&path-prefix=pt-br" group-title="📰 NOTICIAS 24H", G1 NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/516.ts
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="▶️   DOCUMENTÁRIOS", DISCOVERY
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/585.ts
@@ -123,7 +123,7 @@ http://cdn33.cc:80/live/ELISIO6854/SZ7343/319.ts
 http://acessopremium.site:80/6345487266/5753263850/1805959
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="🎬 Filmes & Series",A&E
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/324.ts
-#EXTINF:-1 tvg-name="AMC" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="🎬Filmes & Series",AMC
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="🎬 Filmes & Series",AMC
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/300.ts
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="🎬 Filmes & Series",AXN
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/301.ts
@@ -135,7 +135,7 @@ http://cdn33.cc:80/live/ELISIO6854/SZ7343/303.ts
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/304.ts
 #EXTINF:-1 tvg-name="LifeTime" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="🎬 Filmes & Series",LifeTime
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/309.ts
-#EXTINF:-1 tvg-name="Paramount" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="🎬Filmes & Series",Paramount
+#EXTINF:-1 tvg-name="Paramount" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="🎬 Filmes & Series",Paramount
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/311.ts
 #EXTINF:-1 tvg-name="USA" tvg-logo="https://meuplayer.tv.br/lgs_btv/ae.png" group-title="🎬 Filmes & Series",USA
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/312.ts
