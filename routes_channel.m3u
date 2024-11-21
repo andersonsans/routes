@@ -439,6 +439,8 @@ http://acessopremium.site:80/6345487266/5753263850/1254745
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7n6ZXjb.png" group-title="▶️   24 Horas",24H Os Jetsons
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h Mortal Kombat [Desenho]" tvg-logo="http://021stream.xyz:80/images/9b3e6ad1f7e70aaa51febaff61f42a0e.jpg" group-title="▶️   24 Horas",24H Mortal Kombat 
+http://dns.idealtv.xyz/live/zaqueu/zaqueu123/877707.ts
 #EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 1 - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIMCfztNwx2rA6XWGaJhcqdG7Wt.jpg" group-title="Filmes | Ação",Velozes e Furiosos 1 - 2001
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32977.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 2 - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmhFOjy47UqrOafl0oQiygcJ7oT.jpg" group-title="Filmes | Ação",Velozes e Furiosos 2 - 2003
@@ -836,4 +838,6 @@ http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/359697.mp4
 #EXTINF:-1 tvg-id="" tvg-name="DOM S03 E05" tvg-logo="https://image.tmdb.org/t/p/w780/70HC9Nl6JH3tuT64xw6yOHXHzJ5.jpg" group-title="Series | Outras Produtoras",DOM S03 E05
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/359698.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Coringa Delirio a Dois - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNttwl5CYgnxNwQ8157BxyYJqu2.jpg" group-title="Filmes | Lancamentos 2024",Coringa Delirio a Dois - 2024
-http://hubby.bz:80/movie/Styles-vods/kO81YOCBvb/52465.mp4
+http://hubby.bz/movie/Pdsrv-vods/kb6zityGEg/52465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool e Wolverine - 2024" tvg-logo="http://makeatake.live:80/images/53YWSo75mSaw1vd2YEeX5kwkRos_big.jpg" group-title="Filmes | Lancamentos 2024",Deadpool e Wolverine - 2024
+http://hubby.bz/movie/Pdsrv-vods/kb6zityGEg/52503.mp4
