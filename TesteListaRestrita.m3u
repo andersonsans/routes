@@ -1,5 +1,6 @@
 #EXTM3U  url="https://raw.githubusercontent.com/tirimosqui/iconnos/main/STAR%20MARRANO%20PARA%20ADULTOS.m3u" 
-
+#EXTINF:-1 tvg-logo="http:" group-title="Sin Categoria", 21SEXTURY
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/12205/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="LISTA STAR-MARRANO SOLO MAY18" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif" group-title="",##LISTA STAR-MARRANO SOLO MAY18 ## lista gratis y libre
 http://hlsliveamdgl1-lh.akamaihd.net//hlsdvrlive_1@584096/master
 
