@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="📺 TV ABERTA",REDE GLOBO SP
 http://15.235.15.230:14488/AFDTV
 #EXTINF:-1 description="Programação TV Globo" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="📺 TV ABERTA",REDE GLOBO OPCAO 2
