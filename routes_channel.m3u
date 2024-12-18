@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="📺 TV ABERTA",REDE GLOBO SP
 http://15.235.15.230:14488/AFDTV
 #EXTINF:-1 description="Programação TV Globo" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="📺 TV ABERTA",REDE GLOBO OPCAO 2
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/432.ts
-#EXTINF:-1 tvg-name="Rede Globo TV Bahia" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="📺 TV ABERTA",REDE GLOBO TV BAHIA
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/440.ts
+#EXTINF:-1 tvg-name="Rede Globo TV Bahia" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="📺 TV ABERTA",REDE GLOBO OPÇÃO 3
 http://acessopremium.site:80/6345487266/5753263850/1082903
 #EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="📺 TV ABERTA",REDE BAND SP
 http://acessopremium.site:80/6345487266/5753263850/1252504
@@ -11,24 +11,24 @@ http://acessopremium.site:80/6345487266/5753263850/1252504
 http://acessopremium.site:80/6345487266/5753263850/1087980
 #EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="📺 TV ABERTA",REDE BAND BAHIA
 http://acessopremium.site:80/6345487266/5753263850/1087971
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="📺 TV ABERTA",SBT RIO
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="📺 TV ABERTA",SBT SP
-http://acessopremium.site:80/6345487266/5753263850/1088009
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/46.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="📺 TV ABERTA",SBT OPÇÃO 2
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/55.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="📺 TV ABERTA",SBT BAHIA
-http://acessopremium.site:80/6345487266/5753263850/1088012
+https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="📺 TV ABERTA", RECORD SP
-http://acessopremium.site:80/6345487266/5753263850/1086660
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="📺 TV ABERTA", RECORD RIO
-http://acessopremium.site:80/6345487266/5753263850/1086653
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="📺 TV ABERTA", RECORD BAHIA
-http://acessopremium.site:80/6345487266/5753263850/1086646
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/45.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="📺 TV ABERTA", RECORD OPÇÃO 2
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/57.ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="📺 TV ABERTA", RECORD OPÇÃO 3
+http://cdn33.cc:80/live/ELISIO6854/SZ7343/52.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W3oI8p3.png" group-title="📺 TV ABERTA", REDE VIDA
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/545.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/egU0jsZ.png" group-title="📺 TV ABERTA", TV APARECIDA
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/548.ts
-#EXTINF:-1 tvg-id="Rede.Brasil.HD.br" description="Programação Rede Brasil" tvg-logo="http://i.imgur.com/f7FvEEO.png" group-title="📺 TV ABERTA", REDE BRASIL
-http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
+#EXTINF:-1 tvg-id="Rede.Brasil.HD.br" description="Programação Rede Brasil" tvg-logo="https://images2.imgbox.com/8c/35/6pGNBtM1_o.png" group-title="📺 TV ABERTA", REDE BRASIL
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://prostore.app/logos/sportv.png" group-title="⚽   ESPORTES",SPORTV HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/556.ts
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="⚽   ESPORTES",SPORTV 2 HD³
