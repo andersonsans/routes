@@ -5,12 +5,16 @@ http://15.235.15.230:14488/AFDTV
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/440.ts
 #EXTINF:-1 tvg-name="Rede Globo TV Bahia" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="📺 TV ABERTA",REDE GLOBO OPÇÃO 3
 http://acessopremium.site:80/6345487266/5753263850/1082903
+#EXTINF:-1 tvg-id="" tvg-name="Globo BA Rede Bahia FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="📺 TV ABERTA",Globo BA Rede Bahia FHD
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/1010777.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo BA Rede Bahia SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="📺 TV ABERTA",Globo BA Rede Bahia SD
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/1010779.ts
 #EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="📺 TV ABERTA",REDE BAND SP
-http://acessopremium.site:80/6345487266/5753263850/1252504
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712059.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="📺 TV ABERTA",REDE BAND OPCAO 2
-http://acessopremium.site:80/6345487266/5753263850/1087980
-#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="📺 TV ABERTA",REDE BAND BAHIA
-http://acessopremium.site:80/6345487266/5753263850/1087971
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712060.ts
+#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="📺 TV ABERTA",REDE BAND OPÇÃO 3
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712056.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="📺 TV ABERTA",SBT SP
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/46.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="📺 TV ABERTA",SBT OPÇÃO 2
