@@ -32,7 +32,7 @@ http://cdn33.cc:80/live/ELISIO6854/SZ7343/545.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/egU0jsZ.png" group-title="📺 TV ABERTA", TV APARECIDA
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/548.ts
 #EXTINF:-1 tvg-id="Rede.Brasil.HD.br" description="Programação Rede Brasil" tvg-logo="https://images2.imgbox.com/8c/35/6pGNBtM1_o.png" group-title="📺 TV ABERTA", REDE BRASIL
-https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
+http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://prostore.app/logos/sportv.png" group-title="⚽   ESPORTES",SPORTV HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/556.ts
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="⚽   ESPORTES",SPORTV 2 HD³
