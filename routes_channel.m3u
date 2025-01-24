@@ -438,15 +438,15 @@ http://vdk10.life:80/737850302/324769305/23329?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="24H Chaves" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="▶️   24 Horas",24H Chaves
 http://acessopremium.site:80/6345487266/5753263850/1254721
 #EXTINF:-1 tvg-id="" tvg-name="24H Chaves Opção 2" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="▶️   24 Horas",24H Chaves Opção 2
-http://vdk10.life:80/737850302/324769305/21236?PlaylistM3UCL
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu/123/877789.ts
 #EXTINF:-1 tvg-id="" tvg-name="24H Aeroporto Area Restrita" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="▶️   24 Horas",24H Aeroporto Area Restrita
 http://acessopremium.site:80/6345487266/5753263850/1254746
 #EXTINF:-1 tvg-id="" tvg-name="24H Familia Dinoussauros" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="▶️   24 Horas",24H Familia Dinoussauros
 http://acessopremium.site:80/6345487266/5753263850/1254745
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sydBue3.png" group-title="▶️   24 Horas",24H RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/sydBue3.png" group-title="▶️   24 Horas",24H RETRO CARTOON Opção 2
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1759800973.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sydBue3.png" group-title="▶️   24 Horas",24H Desenho
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877782.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7n6ZXjb.png" group-title="▶️   24 Horas",24H Os Jetsons
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7n6ZXjb.png" group-title="▶️   24 Horas",24H Os Jetsons Opção 2
@@ -460,7 +460,519 @@ http://vdk10.life:80/737850302/324769305/56500?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http:" group-title="▶️   24 Horas", DOUG 2
 http://vdk10.life:80/737850302/324769305/23315?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http:" group-title="▶️   24 Horas", Caverna do dragao 
-http://vdk10.life:80/737850302/324769305/22035?PlaylistM3UCL
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877788.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin" tvg-logo="https://picfiles.alphacoders.com/712/71289.png" group-title="☘️CANAIS | DESENHOS 24H",Aladdin
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877622.ts
+#EXTINF:-1 tvg-id="" tvg-name="Andy Panda" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/921/fkd2xG.png" group-title="☘️CANAIS | DESENHOS 24H",Andy Panda
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877623.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animaniacs" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/twswzA.png" group-title="☘️CANAIS | DESENHOS 24H",Animaniacs
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877624.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan" tvg-logo="http://appcliente.com:8880/images/c1666d95c6e82c452ae8207bb384ebcb.png" group-title="☘️CANAIS | DESENHOS 24H",As Aventuras de Jackie Chan
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877625.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Ladybug" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/dDff8P.png" group-title="☘️CANAIS | DESENHOS 24H",As Aventuras de Ladybug
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877626.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tintim" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/7OCsQd.png" group-title="☘️CANAIS | DESENHOS 24H",As Aventuras de Tintim
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877627.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Panteras (Clássico)" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/Amo2qq.png" group-title="☘️CANAIS | DESENHOS 24H",As Panteras (Clássico)
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877628.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/YgZwHu.png" group-title="☘️CANAIS | DESENHOS 24H",As Tartarugas Ninja
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877629.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/qqCw0I.png" group-title="☘️CANAIS | DESENHOS 24H",Baby Looney Tunes
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877630.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bacamarte e Chumbinho" tvg-logo="https://imagizer.imageshack.com/img922/9797/kME6OB.gif" group-title="☘️CANAIS | DESENHOS 24H",Bacamarte e Chumbinho
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877631.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bakugan" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/GwELog.png" group-title="☘️CANAIS | DESENHOS 24H",Bakugan
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877632.ts
+#EXTINF:-1 tvg-id="" tvg-name="Barbie" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/X2fNEQ.png" group-title="☘️CANAIS | DESENHOS 24H",Barbie
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877633.ts
+#EXTINF:-1 tvg-id="" tvg-name="Batfino" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/MKPFDU.png" group-title="☘️CANAIS | DESENHOS 24H",Batfino
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877634.ts
+#EXTINF:-1 tvg-id="" tvg-name="Batman Animated Serie" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/ikWxSX.png" group-title="☘️CANAIS | DESENHOS 24H",Batman Animated Serie
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877635.ts
+#EXTINF:-1 tvg-id="" tvg-name="Batman do Futuro" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/tOpq8k.png" group-title="☘️CANAIS | DESENHOS 24H",Batman do Futuro
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877636.ts
+#EXTINF:-1 tvg-id="" tvg-name="Batman e Robin (Clássico)" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/cgTdHe.png" group-title="☘️CANAIS | DESENHOS 24H",Batman e Robin (Clássico)
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877637.ts
+#EXTINF:-1 tvg-id="" tvg-name="Batwheels" tvg-logo="https://imagizer.imageshack.com/v2/320x240q70/922/7ccKwD.png" group-title="☘️CANAIS | DESENHOS 24H",Batwheels
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877638.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/4h2FRG.png" group-title="☘️CANAIS | DESENHOS 24H",Ben 10
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877639.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bicudo o Lobisomen" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/NVCq8R.png" group-title="☘️CANAIS | DESENHOS 24H",Bicudo o Lobisomen
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877640.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/XBs0GS.png" group-title="☘️CANAIS | DESENHOS 24H",Bob Esponja
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877641.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yhOGXx.png" group-title="☘️CANAIS | DESENHOS 24H",Bob Zoom
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877642.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cadilac & Dinossauros" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/ZrWQ7s.png" group-title="☘️CANAIS | DESENHOS 24H",Cadilac & Dinossauros
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877643.ts
+#EXTINF:-1 tvg-id="" tvg-name="Capitão Caverna" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/IN8Ktl.png" group-title="☘️CANAIS | DESENHOS 24H",Capitão Caverna
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877644.ts
+#EXTINF:-1 tvg-id="" tvg-name="Capitão Harlock" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/AI0jHf.png" group-title="☘️CANAIS | DESENHOS 24H",Capitão Harlock
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877645.ts
+#EXTINF:-1 tvg-id="" tvg-name="Capitão Planeta" tvg-logo="https://imagizer.imageshack.com/img924/9238/NBlvuN.gif" group-title="☘️CANAIS | DESENHOS 24H",Capitão Planeta
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877646.ts
+#EXTINF:-1 tvg-id="" tvg-name="Careta e Mutreta" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/9PXliM.png" group-title="☘️CANAIS | DESENHOS 24H",Careta e Mutreta
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877647.ts
+#EXTINF:-1 tvg-id="" tvg-name="Castores Pirados" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/if8pF8.png" group-title="☘️CANAIS | DESENHOS 24H",Castores Pirados
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877648.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros do Zodiaco" tvg-logo="https://imagizer.imageshack.com/img921/1162/jnF1ZM.png" group-title="☘️CANAIS | DESENHOS 24H",Cavaleiros do Zodiaco
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877649.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cavalo de Fogo" tvg-logo="https://i.pinimg.com/originals/60/96/35/60963558bc1dcc21357ae9eab5f68468.png" group-title="☘️CANAIS | DESENHOS 24H",Cavalo de Fogo
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877650.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/xjaGR4.png" group-title="☘️CANAIS | DESENHOS 24H",Caverna do Dragão
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877651.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Animado" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/10rTPW.png" group-title="☘️CANAIS | DESENHOS 24H",Chaves Animado
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877652.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comandos em Ação" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/BHFeNm.png" group-title="☘️CANAIS | DESENHOS 24H",Comandos em Ação
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877653.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comichão e coçadinha" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/GOLKXX.png" group-title="☘️CANAIS | DESENHOS 24H",Comichão e coçadinha
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877654.ts
+#EXTINF:-1 tvg-id="" tvg-name="Coragem o Cão Covarde" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/Ic3Tar.png" group-title="☘️CANAIS | DESENHOS 24H",Coragem o Cão Covarde
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877655.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cosmo Warrior Zero" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/GoZxs9.png" group-title="☘️CANAIS | DESENHOS 24H",Cosmo Warrior Zero
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877656.ts
+#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Futuro" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/WGU85K.png" group-title="☘️CANAIS | DESENHOS 24H",De Volta para o Futuro
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877657.ts
+#EXTINF:-1 tvg-id="" tvg-name="Death" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/BH4Zqz.png" group-title="☘️CANAIS | DESENHOS 24H",Death
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877658.ts
+#EXTINF:-1 tvg-id="" tvg-name="Debi & Loide" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qsGTik.png" group-title="☘️CANAIS | DESENHOS 24H",Debi & Loide
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877659.ts
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/Xr04xC.png" group-title="☘️CANAIS | DESENHOS 24H",Desenhos Biblicos
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877660.ts
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Novo testamento" tvg-logo="" group-title="☘️CANAIS | DESENHOS 24H",Desenhos Novo testamento
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877661.ts
+#EXTINF:-1 tvg-id="" tvg-name="Di-Gata Defenders" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/korkeT.png" group-title="☘️CANAIS | DESENHOS 24H",Di-Gata Defenders
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877662.ts
+#EXTINF:-1 tvg-id="" tvg-name="Digimon" tvg-logo="http://appcliente.com:8880/images/df3b932e814b096428caf3e9c04992a2.png" group-title="☘️CANAIS | DESENHOS 24H",Digimon
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877663.ts
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/OkLi7v.png" group-title="☘️CANAIS | DESENHOS 24H",Digimon Adventure
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877664.ts
+#EXTINF:-1 tvg-id="" tvg-name="Doug Funnie" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/Jy8DAH.png" group-title="☘️CANAIS | DESENHOS 24H",Doug Funnie
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877665.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/dUaSis.png" group-title="☘️CANAIS | DESENHOS 24H",Dragon Ball Z
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877666.ts
+#EXTINF:-1 tvg-id="" tvg-name="Du Dudu e Edu" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/iotwTZ.png" group-title="☘️CANAIS | DESENHOS 24H",Du Dudu e Edu
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877667.ts
+#EXTINF:-1 tvg-id="" tvg-name="Duck Dodges" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/G4qUjp.png" group-title="☘️CANAIS | DESENHOS 24H",Duck Dodges
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877668.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ducktales" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/vkMF8I.png" group-title="☘️CANAIS | DESENHOS 24H",Ducktales
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877669.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fabulas da Disney" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/xuzbns.png" group-title="☘️CANAIS | DESENHOS 24H",Fabulas da Disney
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877670.ts
+#EXTINF:-1 tvg-id="" tvg-name="Falcão Azul e Bionicão" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcnd8D.png" group-title="☘️CANAIS | DESENHOS 24H",Falcão Azul e Bionicão
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877671.ts
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/uXmXEU.png" group-title="☘️CANAIS | DESENHOS 24H",Família Dinossauros
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877672.ts
+#EXTINF:-1 tvg-id="" tvg-name="Formiga Atômica" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/3pJNkj.png" group-title="☘️CANAIS | DESENHOS 24H",Formiga Atômica
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877673.ts
+#EXTINF:-1 tvg-id="" tvg-name="Frango Kung Fu" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/1bYhXD.png" group-title="☘️CANAIS | DESENHOS 24H",Frango Kung Fu
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877674.ts
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/T9y6lM.png" group-title="☘️CANAIS | DESENHOS 24H",Futurama
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877675.ts
+#EXTINF:-1 tvg-id="" tvg-name="G.I Joe Sigma 6" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/lMSeyH.png" group-title="☘️CANAIS | DESENHOS 24H",G.I Joe Sigma 6
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877676.ts
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Rangers" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/iBgRWv.png" group-title="☘️CANAIS | DESENHOS 24H",Galaxy Rangers
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877677.ts
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Baby" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/BHvslI.png" group-title="☘️CANAIS | DESENHOS 24H",Galinha Baby
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877678.ts
+#EXTINF:-1 tvg-id="" tvg-name="Garfield" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/5YOyCe.png" group-title="☘️CANAIS | DESENHOS 24H",Garfield
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877679.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gasparzinho e seus amigos" tvg-logo="https://imagizer.imageshack.com/img922/7264/v9U7Ta.gif" group-title="☘️CANAIS | DESENHOS 24H",Gasparzinho e seus amigos
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877680.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gato Felix" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/UqbOeB.png" group-title="☘️CANAIS | DESENHOS 24H",Gato Felix
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877681.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gormeti" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/1QfUKC.png" group-title="☘️CANAIS | DESENHOS 24H",Gormeti
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877682.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hellsing" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/1FSqlr.png" group-title="☘️CANAIS | DESENHOS 24H",Hellsing
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877683.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/F7Apes.png" group-title="☘️CANAIS | DESENHOS 24H",Hey Arnold
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877684.ts
+#EXTINF:-1 tvg-id="" tvg-name="Homem Aranha" tvg-logo="https://imagizer.imageshack.com/img924/6775/MQcPCr.png" group-title="☘️CANAIS | DESENHOS 24H",Homem Aranha
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877685.ts
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/hDsAxW.png" group-title="☘️CANAIS | DESENHOS 24H",Homem de Ferro
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877686.ts
+#EXTINF:-1 tvg-id="" tvg-name="Homem Pássaro" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/jV7ro7.png" group-title="☘️CANAIS | DESENHOS 24H",Homem Pássaro
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877687.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hot Wheels Battle Force 5" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/R6XbOn.png" group-title="☘️CANAIS | DESENHOS 24H",Hot Wheels Battle Force 5
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877688.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hulk" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/gUrzDV.png" group-title="☘️CANAIS | DESENHOS 24H",Hulk
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877689.ts
+#EXTINF:-1 tvg-id="" tvg-name="Invasor Zim" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/3aCPlx.png" group-title="☘️CANAIS | DESENHOS 24H",Invasor Zim
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877690.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jonny Quest" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/oXObmA.png" group-title="☘️CANAIS | DESENHOS 24H",Jonny Quest
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877691.ts
+#EXTINF:-1 tvg-id="" tvg-name="Josie e as Gatinhas no Espaço" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/LGEeZR.png" group-title="☘️CANAIS | DESENHOS 24H",Josie e as Gatinhas no Espaço
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877692.ts
+#EXTINF:-1 tvg-id="" tvg-name="Krypto O Supercão" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/GXeULu.png" group-title="☘️CANAIS | DESENHOS 24H",Krypto O Supercão
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877693.ts
+#EXTINF:-1 tvg-id="" tvg-name="Legião dos Super Heróis" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/PlN7LP.png" group-title="☘️CANAIS | DESENHOS 24H",Legião dos Super Heróis
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877694.ts
+#EXTINF:-1 tvg-id="" tvg-name="Leão da Montanha" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/xB4dkQ.png" group-title="☘️CANAIS | DESENHOS 24H",Leão da Montanha
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877695.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ligeirinho" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/82arbB.png" group-title="☘️CANAIS | DESENHOS 24H",Ligeirinho
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877696.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lilo e Stitch" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/Yt3ZIe.png" group-title="☘️CANAIS | DESENHOS 24H",Lilo e Stitch
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877697.ts
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/VlnhQA.png" group-title="☘️CANAIS | DESENHOS 24H",Looney Tunes
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877698.ts
+#EXTINF:-1 tvg-id="" tvg-name="Luluzinha" tvg-logo="http://2.bp.blogspot.com/--hbv5tZnx6I/TlkLV2K_sqI/AAAAAAAAF0o/TZsL3fLlngQ/s400/luluzinha.png" group-title="☘️CANAIS | DESENHOS 24H",Luluzinha
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877699.ts
+#EXTINF:-1 tvg-id="" tvg-name="Maguila o Gorila" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/TgaAdm.png" group-title="☘️CANAIS | DESENHOS 24H",Maguila o Gorila
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877700.ts
+#EXTINF:-1 tvg-id="" tvg-name="Masha e o Urso" tvg-logo="https://imagizer.imageshack.com/img924/1707/g0Htxb.png" group-title="☘️CANAIS | DESENHOS 24H",Masha e o Urso
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877701.ts
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo da Escola e um Macaco" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/uuKYZV.png" group-title="☘️CANAIS | DESENHOS 24H",Meu Amigo da Escola e um Macaco
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877702.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mickey e Donald" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Vaehef.png" group-title="☘️CANAIS | DESENHOS 24H",Mickey e Donald
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877703.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/xRLBZr.png" group-title="☘️CANAIS | DESENHOS 24H",Mickey Mouse
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877704.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse - Clássico" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/RrIc0A.png" group-title="☘️CANAIS | DESENHOS 24H",Mickey Mouse - Clássico
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877705.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mister Magoo" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/MpMPrb.png" group-title="☘️CANAIS | DESENHOS 24H",Mister Magoo
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877706.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/WEB3bJ.png" group-title="☘️CANAIS | DESENHOS 24H",Mortal Kombat
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877707.ts
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://imgur.com/046zDW4.png" group-title="☘️CANAIS | DESENHOS 24H",Naruto
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877708.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Fantástico Mundo de Bobby" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/AX7ijA.png" group-title="☘️CANAIS | DESENHOS 24H",O Fantástico Mundo de Bobby
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877709.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Máskara" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/WUPyfJ.png" group-title="☘️CANAIS | DESENHOS 24H",O Máskara
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877710.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Pirata do Espaço" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/i5VSoe.png" group-title="☘️CANAIS | DESENHOS 24H",O Pirata do Espaço
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877711.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Rei do Pedaço" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/rBXhe1.png" group-title="☘️CANAIS | DESENHOS 24H",O Rei do Pedaço
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877712.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Flintstones" tvg-logo="https://imagizer.imageshack.com/v2/280x200q90/922/qZrBpA.png" group-title="☘️CANAIS | DESENHOS 24H",Os Flintstones
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877713.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Jetsons" tvg-logo="https://imagizer.imageshack.com/v2/280x200q90/923/Zs2XD0.png" group-title="☘️CANAIS | DESENHOS 24H",Os Jetsons
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877714.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Jovens Titans" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/VBMZ98.png" group-title="☘️CANAIS | DESENHOS 24H",Os Jovens Titans
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877715.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Mágicos" tvg-logo="https://imagizer.imageshack.com/img923/8383/Q8xd4y.png" group-title="☘️CANAIS | DESENHOS 24H",Os Padrinhos Mágicos
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877716.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Pinguins de Madagascar" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/6Xx6Lh.png" group-title="☘️CANAIS | DESENHOS 24H",Os Pinguins de Madagascar
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877717.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/R7HHdp.png" group-title="☘️CANAIS | DESENHOS 24H",Os Simpsons
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877718.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/i5bLF8.png" group-title="☘️CANAIS | DESENHOS 24H",Os Smurfs
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877719.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Três Patetas" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/P4t7Xv.png" group-title="☘️CANAIS | DESENHOS 24H",Os Três Patetas
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877720.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Ursinhos Gummi" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/1bCiJi.png" group-title="☘️CANAIS | DESENHOS 24H",Os Ursinhos Gummi
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877721.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores" tvg-logo="https://imagizer.imageshack.com/img922/9453/6wZGO0.png" group-title="☘️CANAIS | DESENHOS 24H",Os Vingadores
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877722.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Cor de Rosa" tvg-logo="https://4.bp.blogspot.com/-wMxtQXyabR0/VzJGNPP__YI/AAAAAAABLMU/_TFkz1XeDpcc5-EO6jqxbXuxLByX3tqIQCLcB/s1600/pantera-cor-de-rosa-colorir-pintar-imprimir-desenho-imagem-molde-risco-pink-panther-coloring-pages-dibujos-www.espacoeducar-colorir.com%2B%25281%2529.png" group-title="☘️CANAIS | DESENHOS 24H",Pantera Cor de Rosa
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877723.ts
+#EXTINF:-1 tvg-id="" tvg-name="Papa Léguas" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/unQUTw.png" group-title="☘️CANAIS | DESENHOS 24H",Papa Léguas
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877724.ts
+#EXTINF:-1 tvg-id="" tvg-name="Patati Patata" tvg-logo="https://imagizer.imageshack.com/img921/9915/tNFkhE.png" group-title="☘️CANAIS | DESENHOS 24H",Patati Patata
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877725.ts
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/ko9inv.png" group-title="☘️CANAIS | DESENHOS 24H",Patrulha Canina
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877726.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pepe Legal" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/aGGCSD.png" group-title="☘️CANAIS | DESENHOS 24H",Pepe Legal
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877727.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/sFTjbn.png" group-title="☘️CANAIS | DESENHOS 24H",Peppa Pig
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877728.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pernalonga e sua Turma" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/EIdbLB.png" group-title="☘️CANAIS | DESENHOS 24H",Pernalonga e sua Turma
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877729.ts
+#EXTINF:-1 tvg-id="" tvg-name="Picolino" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/bYguqo.png" group-title="☘️CANAIS | DESENHOS 24H",Picolino
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877730.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pinky e Cérebro" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/GOQQ9s.png" group-title="☘️CANAIS | DESENHOS 24H",Pinky e Cérebro
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877731.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/gc7cT9.png" group-title="☘️CANAIS | DESENHOS 24H",Pokemon
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877732.ts
+#EXTINF:-1 tvg-id="" tvg-name="Popeye" tvg-logo="https://imagizer.imageshack.com/img924/7897/2Iivjh.png" group-title="☘️CANAIS | DESENHOS 24H",Popeye
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877733.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rabugento" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/MWc3uK.png" group-title="☘️CANAIS | DESENHOS 24H",Rabugento
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877734.ts
+#EXTINF:-1 tvg-id="" tvg-name="Recruta Zero e Hagar o Terrível" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/903EM1.png" group-title="☘️CANAIS | DESENHOS 24H",Recruta Zero e Hagar o Terrível
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877735.ts
+#EXTINF:-1 tvg-id="" tvg-name="Riquinho Rico" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/LBvJ9w.png" group-title="☘️CANAIS | DESENHOS 24H",Riquinho Rico
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877736.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sabrina - A Bruxinha Adolescente" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/HRce4i.png" group-title="☘️CANAIS | DESENHOS 24H",Sabrina - A Bruxinha Adolescente
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877737.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sakura Card Captors" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/ZRg2Sd.png" group-title="☘️CANAIS | DESENHOS 24H",Sakura Card Captors
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877738.ts
+#EXTINF:-1 tvg-id="" tvg-name="Samurai Jack" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/1z4I4p.png" group-title="☘️CANAIS | DESENHOS 24H",Samurai Jack
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877739.ts
+#EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="http://imageshack.com/a/img922/7168/9FBTC5.png" group-title="☘️CANAIS | DESENHOS 24H",Scooby Doo
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877740.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shazzan" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/df4CNd.png" group-title="☘️CANAIS | DESENHOS 24H",Shazzan
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877741.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shurato" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/fHvBrk.png" group-title="☘️CANAIS | DESENHOS 24H",Shurato
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877742.ts
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/LtOKv1.png" group-title="☘️CANAIS | DESENHOS 24H",Snoopy
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877743.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sonic-X" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Ukx38F.png" group-title="☘️CANAIS | DESENHOS 24H",Sonic-X
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877744.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space Goofs" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/zRzDhy.png" group-title="☘️CANAIS | DESENHOS 24H",Space Goofs
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877745.ts
+#EXTINF:-1 tvg-id="" tvg-name="Speed Racer" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/tItxbg.png" group-title="☘️CANAIS | DESENHOS 24H",Speed Racer
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877746.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars - The Clone Wars" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/31ePLp.png" group-title="☘️CANAIS | DESENHOS 24H",Star Wars - The Clone Wars
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877747.ts
+#EXTINF:-1 tvg-id="" tvg-name="Street Fighter" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/UoZBcq.png" group-title="☘️CANAIS | DESENHOS 24H",Street Fighter
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877748.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Amigos" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/oy7b0w.png" group-title="☘️CANAIS | DESENHOS 24H",Super Amigos
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877749.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Homem" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/hwwN1U.png" group-title="☘️CANAIS | DESENHOS 24H",Super Homem
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877750.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Shock" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/uZvxoy.png" group-title="☘️CANAIS | DESENHOS 24H",Super Shock
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877751.ts
+#EXTINF:-1 tvg-id="" tvg-name="Surfista Prateado" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/optSlM.png" group-title="☘️CANAIS | DESENHOS 24H",Surfista Prateado
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877752.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tartaruga Touche" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/uLraje.png" group-title="☘️CANAIS | DESENHOS 24H",Tartaruga Touche
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877753.ts
+#EXTINF:-1 tvg-id="" tvg-name="Taz Mania" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/Q0stVV.png" group-title="☘️CANAIS | DESENHOS 24H",Taz Mania
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877754.ts
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats" tvg-logo="https://imagizer.imageshack.com/img921/322/sMQof0.png" group-title="☘️CANAIS | DESENHOS 24H",Thundercats
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877755.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tico e Teco" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/WZDsMi.png" group-title="☘️CANAIS | DESENHOS 24H",Tico e Teco
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877756.ts
+#EXTINF:-1 tvg-id="" tvg-name="Timão e Pumba" tvg-logo="https://imagizer.imageshack.com/img922/8126/z1Zw6K.gif" group-title="☘️CANAIS | DESENHOS 24H",Timão e Pumba
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877757.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/5k2iQk.png" group-title="☘️CANAIS | DESENHOS 24H",Tom & Jerry
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877758.ts
+#EXTINF:-1 tvg-id="" tvg-name="Toro e Pancho" tvg-logo="https://imagizer.imageshack.com/img923/7039/TrGVLD.gif" group-title="☘️CANAIS | DESENHOS 24H",Toro e Pancho
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877759.ts
+#EXTINF:-1 tvg-id="" tvg-name="Transformers" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/YXAz95.png" group-title="☘️CANAIS | DESENHOS 24H",Transformers
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877760.ts
+#EXTINF:-1 tvg-id="" tvg-name="Transformers Beast Machines" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/iSh7kn.png" group-title="☘️CANAIS | DESENHOS 24H",Transformers Beast Machines
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877761.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tres Espias Demais" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BUn2Dx.png" group-title="☘️CANAIS | DESENHOS 24H",Tres Espias Demais
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877762.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uma Família da Pesada" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/fUNMlu.png" group-title="☘️CANAIS | DESENHOS 24H",Uma Família da Pesada
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877763.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ursinho Pooh e Seus Amigos" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/LEmdI3.png" group-title="☘️CANAIS | DESENHOS 24H",Ursinho Pooh e Seus Amigos
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877764.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ursinhos Carinhosos" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/ek2223.png" group-title="☘️CANAIS | DESENHOS 24H",Ursinhos Carinhosos
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877765.ts
+#EXTINF:-1 tvg-id="" tvg-name="X-Men" tvg-logo="https://i.pinimg.com/originals/cf/b0/06/cfb006d76a5ff03cb23c08d8831a4ce3.png" group-title="☘️CANAIS | DESENHOS 24H",X-Men
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877766.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zé Buscapé" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/8eC2rw.png" group-title="☘️CANAIS | DESENHOS 24H",Zé Buscapé
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877767.ts
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="http://appcliente.com:8880/images/1d6568c4d1167a00410efd579474580c.png" group-title="☘️CANAIS | DESENHOS 24H",3 Palavrinhas
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877768.ts
+#EXTINF:-1 tvg-id="" tvg-name="44 Gatos" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/sLDGHP.png" group-title="☘️CANAIS | DESENHOS 24H",44 Gatos
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877769.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Magica da Gabby" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/QSAGhR.png" group-title="☘️CANAIS | DESENHOS 24H",A Casa Magica da Gabby
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877770.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Familia Adams" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/XNdCuz.png" group-title="☘️CANAIS | DESENHOS 24H",A Familia Adams
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877771.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Formiga e o Tamanduá" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/kNabMF.png" group-title="☘️CANAIS | DESENHOS 24H",A Formiga e o Tamanduá
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877772.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Galinha Pintadinha" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/923/w95jle.png" group-title="☘️CANAIS | DESENHOS 24H",A Galinha Pintadinha
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877773.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher Biônica (Clássico)" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/83Zxeq.png" group-title="☘️CANAIS | DESENHOS 24H",A Mulher Biônica (Clássico)
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877774.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher Maravilha" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/GAVyKf.png" group-title="☘️CANAIS | DESENHOS 24H",A Mulher Maravilha
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877775.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia" tvg-logo="https://imagizer.imageshack.com/img924/5528/NoVrRE.png" group-title="☘️CANAIS | DESENHOS 24H",A Pequena Sereia
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877776.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Turma da Mônica" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/921/tbJ0NA.png" group-title="☘️CANAIS | DESENHOS 24H",A Turma da Mônica
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877777.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Turma do Bairro" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/921/QNLR06.png" group-title="☘️CANAIS | DESENHOS 24H",A Turma do Bairro
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877778.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Turma do Manda-Chuva" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/uow6Mh.png" group-title="☘️CANAIS | DESENHOS 24H",A Turma do Manda-Chuva
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877779.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Vaca e o Frango" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/9wFrz1.png" group-title="☘️CANAIS | DESENHOS 24H",A Vaca e o Frango
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877780.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Árvore Familiar dos Croods" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/oDn5rU.png" group-title="☘️CANAIS | DESENHOS 24H",A Árvore Familiar dos Croods
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877781.ts
+#EXTINF:-1 tvg-id="" tvg-name="DESENHO 24H" tvg-logo="" group-title="☘️CANAIS | DESENHOS 24H",DESENHO 24H
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877782.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Aladdin" tvg-logo="http://021stream.xyz:80/images/5d455dc0cc211ec7b1d4e37f08e3540e.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Aladdin
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877783.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h As Meninas Super Poderosas" tvg-logo="http://021stream.xyz:80/images/437783a78e459b48f6de262bb7e37f84.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h As Meninas Super Poderosas
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877784.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24HS" tvg-logo="http://021stream.xyz:80/images/f8c244b55c782ae414bd819b34327063.jpg" group-title="☘️CANAIS | DESENHOS 24H",BEN 10 24HS
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877785.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Bob Esponja" tvg-logo="http://021stream.xyz:80/images/36ee09dd5b7455e7efe00b31c110f0de.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Bob Esponja
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877786.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Coragem, o cão covarde" tvg-logo="http://021stream.xyz:80/images/b5f5c3c48b16453623286977cf077ef9.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Coragem, o cão covarde
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877787.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Caverna do Dragão" tvg-logo="http://021stream.xyz:80/images/2b32436899b82b4c2ef6fd4d42ea3edb.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Caverna do Dragão
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877788.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Chaves - Desenho animado" tvg-logo="http://021stream.xyz:80/images/ed9e26647e9d13556e21f307d24bd6ce.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Chaves - Desenho animado
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu/123/877789.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Denis o Pimentinnha" tvg-logo="http://021stream.xyz:80/images/3727326c8ad84b6d12304aa6a6aace24.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Denis o Pimentinnha
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877790.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Digimon" tvg-logo="http://021stream.xyz:80/images/325761c9f3309a0fa76d735fb123462d.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Digimon
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877791.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Doug" tvg-logo="http://021stream.xyz:80/images/3d526882dfc2c6be16b4c5e71068d4ec.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Doug
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877792.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Dragon Ball Z" tvg-logo="http://021stream.xyz:80/images/232217569ba28e0639c98e72fa008f03.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Dragon Ball Z
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877793.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Dragon Ball Super" tvg-logo="http://021stream.xyz:80/images/c8cf07fbd9a113364dfcfca4d370449e.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Dragon Ball Super
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877794.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Dragon Ball Z" tvg-logo="http://021stream.xyz:80/images/dafda3d62ecd7003b78f16b15c4e1cd4.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Dragon Ball Z
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877795.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Formiga Atômica" tvg-logo="http://021stream.xyz:80/images/1b8b67ec7ed0ead72b3cf5b0b97d0a61.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Formiga Atômica
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877796.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Homem Aranha" tvg-logo="http://021stream.xyz:80/images/837a10ca52555459d3ffcae35f487b38.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Homem Aranha
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877797.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Jackie Chan" tvg-logo="http://021stream.xyz:80/images/924c207fbf24c92661d3821ec537ff8a.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Jackie Chan
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877798.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Luluzinha" tvg-logo="http://021stream.xyz:80/images/fdc00d65c8b1a1c42061fe33149d6087.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Luluzinha
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877799.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Mortal Kombat [Desenho]" tvg-logo="http://021stream.xyz:80/images/9b3e6ad1f7e70aaa51febaff61f42a0e.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Mortal Kombat [Desenho]
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877800.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Naruto Shippuden" tvg-logo="http://021stream.xyz:80/images/2a7e0e6b748ed27ae07da4cf7b7407b3.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Naruto Shippuden
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877801.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h O Inspetor" tvg-logo="" group-title="☘️CANAIS | DESENHOS 24H",24h O Inspetor
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877802.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Os Flinstones" tvg-logo="" group-title="☘️CANAIS | DESENHOS 24H",24h Os Flinstones
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877803.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Pernalonga" tvg-logo="http://021stream.xyz:80/images/4836d6b305c5c56e8f1fd932ceca8992.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Pernalonga
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877804.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Pica-Pau" tvg-logo="http://021stream.xyz:80/images/72eba48fc43867009d654b25fdae7db4.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Pica-Pau
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877805.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Marinheiro Popeye" tvg-logo="http://021stream.xyz:80/images/404cc9c1ec6e241f67e4cc21c8ab75c3.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Marinheiro Popeye
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877806.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Scooby-Doo" tvg-logo="http://021stream.xyz:80/images/6bb8b001e9dd6a8d4a39d7f26418a713.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Scooby-Doo
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877807.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h South Park" tvg-logo="http://021stream.xyz:80/images/df46ce903653a066795b0ccc318789fe.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h South Park
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877808.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Tartatugas Ninjas" tvg-logo="http://021stream.xyz:80/images/6e48cf50d0f14cd22e7b1be6751309d0.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Tartatugas Ninjas
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877809.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Thundercats" tvg-logo="http://021stream.xyz:80/images/5417dfecbb8bbc69aa095b383fab722e.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Thundercats
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877810.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Timão e Pumba" tvg-logo="http://021stream.xyz:80/images/b534b2add1fa549193b00346408398f3.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Timão e Pumba
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877811.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Tom & Jerry" tvg-logo="http://021stream.xyz:80/images/e9193d4446b38dc555120d3e632c187b.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Tom & Jerry
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877812.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Três Espias Demais T01" tvg-logo="" group-title="☘️CANAIS | DESENHOS 24H",24h Três Espias Demais T01
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877813.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Mundo Bita" tvg-logo="http://021stream.xyz:80/images/d762654d79853092fab93cddd124d67f.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Mundo Bita
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877814.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Liga da Justicça: Sem Limites" tvg-logo="http://021stream.xyz:80/images/450a3f18b8d2bd184f16885e6e791a06.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Liga da Justicça: Sem Limites
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877815.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Vai Que Cola" tvg-logo="http://021stream.xyz:80/images/5fbf277f6c9e7f71f90832b1dde03762.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Vai Que Cola
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877816.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Central Kids" tvg-logo="" group-title="☘️CANAIS | DESENHOS 24H",24h Central Kids
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877817.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Barbie" tvg-logo="http://021stream.xyz:80/images/ba93ae669c03b65ce5801dd8d2f99096.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Barbie
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877818.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Cine Kids" tvg-logo="http://dstr.ddns.net:80/aVGBwsDEbA/sanS9Nf6GZ/5684.ts" group-title="☘️CANAIS | DESENHOS 24H",24h Cine Kids
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877819.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h (Des)encanto" tvg-logo="http://021stream.xyz:80/images/1e0006ce106923acc97ce462aa3e6094.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h (Des)encanto
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877820.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h 3 Palavrinhas" tvg-logo="http://021stream.xyz:80/images/46ca8ab6e3cdf1d1e8424fc95fd8f404.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h 3 Palavrinhas
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877821.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h American Dad! 01" tvg-logo="http://021stream.xyz:80/images/137de3e78f5c98acba772d2ff569a031.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h American Dad! 01
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877822.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h American Dad! 02" tvg-logo="http://021stream.xyz:80/images/137de3e78f5c98acba772d2ff569a031.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h American Dad! 02
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877823.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h American Dad! 03" tvg-logo="http://021stream.xyz:80/images/137de3e78f5c98acba772d2ff569a031.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h American Dad! 03
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877824.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h American Dad! 04" tvg-logo="http://021stream.xyz:80/images/137de3e78f5c98acba772d2ff569a031.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h American Dad! 04
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877825.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h ANIMANIACS" tvg-logo="http://021stream.xyz:80/images/9adb80fc1810b5139c6dab6e8be707b1.png" group-title="☘️CANAIS | DESENHOS 24H",24h ANIMANIACS
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877826.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h As Aventuras de Arquibaldo" tvg-logo="http://021stream.xyz:80/images/58473c320b299e13605168eb14eee22b.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h As Aventuras de Arquibaldo
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877827.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Baby Looney Tunes 01" tvg-logo="http://021stream.xyz:80/images/81025a1efa42bc55e8a05a8a22b8d696.png" group-title="☘️CANAIS | DESENHOS 24H",24h Baby Looney Tunes 01
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877828.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Baby Looney Tunes 02" tvg-logo="http://021stream.xyz:80/images/81025a1efa42bc55e8a05a8a22b8d696.png" group-title="☘️CANAIS | DESENHOS 24H",24h Baby Looney Tunes 02
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877829.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Batman: Os Bravos e Destemidos 01" tvg-logo="https://www.themoviedb.org/t/p/w500/fXmbjubRwOH8NmPBnx9ZYNSRb29.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Batman: Os Bravos e Destemidos 01
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877830.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Batman: Os Bravos e Destemidos 02" tvg-logo="https://www.themoviedb.org/t/p/w500/fXmbjubRwOH8NmPBnx9ZYNSRb29.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Batman: Os Bravos e Destemidos 02
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877831.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Batman: Os Bravos e Destemidos 03" tvg-logo="https://www.themoviedb.org/t/p/w500/fXmbjubRwOH8NmPBnx9ZYNSRb29.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Batman: Os Bravos e Destemidos 03
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877832.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Bunnicula" tvg-logo="http://021stream.xyz:80/images/08474ad3910b77a72a7f4f8a3dd4ea5c.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Bunnicula
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877833.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Carmen Sandiego" tvg-logo="http://021stream.xyz:80/images/5d758dd2499c55736e6dc51d339da5c0.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Carmen Sandiego
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877834.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Castlevania" tvg-logo="http://021stream.xyz:80/images/a2755428f388a16090853deabe5fb78b.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Castlevania
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877835.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Caçadores de Trolls" tvg-logo="http://021stream.xyz:80/images/f4194c7cc99cfb375801e3419c716b4d.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Caçadores de Trolls
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877836.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Corta Essa, Ninjin" tvg-logo="http://021stream.xyz:80/images/3a597d3b40f91b4c97652f7b5a07918d.png" group-title="☘️CANAIS | DESENHOS 24H",24h Corta Essa, Ninjin
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877837.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Croods" tvg-logo="http://021stream.xyz:80/images/90ef88cf8b0306869259182f6e380330.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Croods
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877838.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Dorothy e o Mágico de Oz" tvg-logo="http://021stream.xyz:80/images/90436570c8e55e40f51112bfe029a7c4.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Dorothy e o Mágico de Oz
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877839.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h DOTA: Dragon’s Blood" tvg-logo="http://021stream.xyz:80/images/7fd58ec3900658d6f25d5d28f8d8e942.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h DOTA: Dragon’s Blood
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877840.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Elliott, O Terráqueo" tvg-logo="http://021stream.xyz:80/images/4ee591807ab1042d88dc8862199bfb16.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Elliott, O Terráqueo
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877841.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Espiões do Asfalto" tvg-logo="http://021stream.xyz:80/images/4395f9d22cfef9d663560dc7035bc227.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Espiões do Asfalto
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877842.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Final Space" tvg-logo="http://021stream.xyz:80/images/818e355213e22d71ac50102c72ec4f09.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Final Space
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877843.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Harley Quinn" tvg-logo="http://021stream.xyz:80/images/c76c0b41dc73b428a3ebc5d9de2e13a0.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Harley Quinn
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877844.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h He-Man e os Mestres do Universo" tvg-logo="http://021stream.xyz:80/images/c041a8ee5a76680718a8024e7eb1ef94.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h He-Man e os Mestres do Universo
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877845.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Hotel Transylvania" tvg-logo="http://021stream.xyz:80/images/6c99aaa592ac8fa54c1356d9d0a1b442.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Hotel Transylvania
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877846.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Justiça Jovem 01" tvg-logo="http://021stream.xyz:80/images/3ee24fb5f34556277c853a00150cd170.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Justiça Jovem 01
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877847.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Justiça Jovem 02" tvg-logo="http://021stream.xyz:80/images/3ee24fb5f34556277c853a00150cd170.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Justiça Jovem 02
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877848.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Ladybug 01" tvg-logo="http://021stream.xyz:80/images/efc58a357723274a49fa9c5e8af61f46.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Ladybug 01
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877849.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Ladybug 02" tvg-logo="http://021stream.xyz:80/images/efc58a357723274a49fa9c5e8af61f46.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Ladybug 02
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877850.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Lanterna Verde: A Série Animada" tvg-logo="http://021stream.xyz:80/images/4ea94965d5a1c1807e167d9e53141dad.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Lanterna Verde: A Série Animada
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877851.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Legião dos Super Heróis" tvg-logo="http://021stream.xyz:80/images/20e5707479a273a675de9ceedb84e415.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Legião dos Super Heróis
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877852.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Mega Man" tvg-logo="http://021stream.xyz:80/images/fbeced3ceaf833a8f4b3ee7e1f01e139.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Mega Man
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877853.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Naturo Clássico" tvg-logo="http://021stream.xyz:80/images/3866430a515a06777021ef99ff0a98d3.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Naturo Clássico
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877854.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h O Incrível Mundo de Gumball 01" tvg-logo="http://021stream.xyz:80/images/626bf5f8f29ca86cb3ee8af2fe682209.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h O Incrível Mundo de Gumball 01
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877855.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h O Incrível Mundo de Gumball 02" tvg-logo="http://021stream.xyz:80/images/626bf5f8f29ca86cb3ee8af2fe682209.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h O Incrível Mundo de Gumball 02
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877856.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h O Incrível Mundo de Gumball 03" tvg-logo="http://021stream.xyz:80/images/626bf5f8f29ca86cb3ee8af2fe682209.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h O Incrível Mundo de Gumball 03
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877857.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h O Incrível Mundo de Gumball 04" tvg-logo="http://021stream.xyz:80/images/626bf5f8f29ca86cb3ee8af2fe682209.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h O Incrível Mundo de Gumball 04
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877858.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h O Incrível Mundo de Gumball 05" tvg-logo="http://021stream.xyz:80/images/626bf5f8f29ca86cb3ee8af2fe682209.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h O Incrível Mundo de Gumball 05
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877859.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h O Príncipe Dragão" tvg-logo="http://021stream.xyz:80/images/1b265bdd18f32e7c7d84dec692ba5b24.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h O Príncipe Dragão
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877860.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Os Simpsons 1989 até 1997" tvg-logo="http://021stream.xyz:80/images/0df649b151eb74137d0e4a9efc6c9363.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Os Simpsons 1989 até 1997
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877861.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Os Simpsons 1997 até 2012" tvg-logo="http://021stream.xyz:80/images/0df649b151eb74137d0e4a9efc6c9363.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Os Simpsons 1997 até 2012
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877862.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Os Simpsons 2012 até 2016" tvg-logo="http://021stream.xyz:80/images/0df649b151eb74137d0e4a9efc6c9363.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Os Simpsons 2012 até 2016
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877863.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Os Simpsons Novos Eps" tvg-logo="http://021stream.xyz:80/images/0df649b151eb74137d0e4a9efc6c9363.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Os Simpsons Novos Eps
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877864.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Peppa Pig" tvg-logo="http://021stream.xyz:80/images/632979eff0df81c9de75efeebb997723.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Peppa Pig
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877865.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Pequenos Espiões" tvg-logo="http://021stream.xyz:80/images/fee06e4e431f449157a5d5f35bd02153.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Pequenos Espiões
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877866.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Poderoso Chefinho" tvg-logo="http://021stream.xyz:80/images/abaaa8f2c494756271ce3934d4f07ce1.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Poderoso Chefinho
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877867.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Pokémon Journeys" tvg-logo="http://021stream.xyz:80/images/fcfda5b0b480a636a586e8c1f3340894.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Pokémon Journeys
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877868.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h She-Ra e as Princesas do Poder" tvg-logo="http://021stream.xyz:80/images/9a966fcf0f5ee782df5e597e615e1093.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h She-Ra e as Princesas do Poder
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877869.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Sonic Boom" tvg-logo="http://021stream.xyz:80/images/48de80772f392cfc82ad85c73f85a311.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Sonic Boom
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877870.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Super Choque" tvg-logo="http://021stream.xyz:80/images/203116eb2bdef198a5074eb46999b3e7.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Super Choque
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877871.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Superman" tvg-logo="http://021stream.xyz:80/images/8be170f22e6379e305e98a6083254c18.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Superman
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877872.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Trem Infinito" tvg-logo="http://021stream.xyz:80/images/cb24e01d628d5acf3a6be9ab048965ca.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Trem Infinito
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877873.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Uma Família da Pesada 01" tvg-logo="http://021stream.xyz:80/images/f08e1aa30f14754f5121147f06bbb15f.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Uma Família da Pesada 01
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877874.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Uma Família da Pesada 02" tvg-logo="http://021stream.xyz:80/images/f08e1aa30f14754f5121147f06bbb15f.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Uma Família da Pesada 02
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877875.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h X-Men: Evolution" tvg-logo="http://021stream.xyz:80/images/6f71bad8d0e6d6acdb8dcaf5529e5396.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h X-Men: Evolution
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877876.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Steven Universo" tvg-logo="http://021stream.xyz:80/images/dff367e8d4f7fdc20ffc56c105bde6ef.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Steven Universo
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877877.ts
 #EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 1 - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIMCfztNwx2rA6XWGaJhcqdG7Wt.jpg" group-title="Filmes | Ação",Velozes e Furiosos 1 - 2001
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32977.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 2 - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmhFOjy47UqrOafl0oQiygcJ7oT.jpg" group-title="Filmes | Ação",Velozes e Furiosos 2 - 2003
