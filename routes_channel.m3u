@@ -1,153 +1,153 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="📺 TV ABERTA",REDE GLOBO SP
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="1 - 📺 TV ABERTA",REDE GLOBO SP
 http://15.235.15.230:14488/AFDTV
-#EXTINF:-1 description="Programação TV Globo" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="📺 TV ABERTA",REDE GLOBO OPCAO 2
+#EXTINF:-1 description="Programação TV Globo" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="1 - 📺 TV ABERTA",REDE GLOBO OPCAO 2
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/440.ts
-#EXTINF:-1 tvg-name="Rede Globo TV Bahia" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="📺 TV ABERTA",REDE GLOBO OPÇÃO 3
+#EXTINF:-1 tvg-name="Rede Globo TV Bahia" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="1 - 📺 TV ABERTA",REDE GLOBO OPÇÃO 3
 http://acessopremium.site:80/6345487266/5753263850/1082903
-#EXTINF:-1 tvg-id="" tvg-name="Globo BA Rede Bahia FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="📺 TV ABERTA",Globo BA Rede Bahia FHD
+#EXTINF:-1 tvg-id="" tvg-name="Globo BA Rede Bahia FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="1 - 📺 TV ABERTA",Globo BA Rede Bahia FHD
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/1010777.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo BA Rede Bahia SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="📺 TV ABERTA",Globo BA Rede Bahia SD
+#EXTINF:-1 tvg-id="" tvg-name="Globo BA Rede Bahia SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="1 - 📺 TV ABERTA",Globo BA Rede Bahia SD
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/1010779.ts
-#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="📺 TV ABERTA",REDE BAND SP
+#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="1 - 📺 TV ABERTA",REDE BAND SP
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712059.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="📺 TV ABERTA",REDE BAND OPCAO 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="1 - 📺 TV ABERTA",REDE BAND OPCAO 2
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712060.ts
-#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="📺 TV ABERTA",REDE BAND OPÇÃO 3
+#EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="1 - 📺 TV ABERTA",REDE BAND OPÇÃO 3
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712056.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="📺 TV ABERTA",SBT SP
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="1 - 📺 TV ABERTA",SBT SP
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/46.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="📺 TV ABERTA",SBT OPÇÃO 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="1 - 📺 TV ABERTA",SBT OPÇÃO 2
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/55.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="📺 TV ABERTA",SBT BAHIA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9POMYYK.png" group-title="1 - 📺 TV ABERTA",SBT BAHIA
 https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="📺 TV ABERTA", RECORD SP
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="1 - 📺 TV ABERTA", RECORD SP
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/45.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="📺 TV ABERTA", RECORD OPÇÃO 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="1 - 📺 TV ABERTA", RECORD OPÇÃO 2
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/57.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="📺 TV ABERTA", RECORD OPÇÃO 3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="1 - 📺 TV ABERTA", RECORD OPÇÃO 3
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/52.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/W3oI8p3.png" group-title="📺 TV ABERTA", REDE VIDA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3oI8p3.png" group-title="1 - 📺 TV ABERTA", REDE VIDA
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/545.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/egU0jsZ.png" group-title="📺 TV ABERTA", TV APARECIDA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/egU0jsZ.png" group-title="1 - 📺 TV ABERTA", TV APARECIDA
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/548.ts
-#EXTINF:-1 tvg-id="Rede.Brasil.HD.br" description="Programação Rede Brasil" tvg-logo="https://images2.imgbox.com/8c/35/6pGNBtM1_o.png" group-title="📺 TV ABERTA", REDE BRASIL
+#EXTINF:-1 tvg-id="Rede.Brasil.HD.br" description="Programação Rede Brasil" tvg-logo="https://images2.imgbox.com/8c/35/6pGNBtM1_o.png" group-title="1 - 📺 TV ABERTA", REDE BRASIL
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://prostore.app/logos/sportv.png" group-title="⚽   ESPORTES",SPORTV HD³
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://prostore.app/logos/sportv.png" group-title="2 - ⚽   ESPORTES",SPORTV HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/556.ts
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="⚽   ESPORTES",SPORTV 2 HD³
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="2 - ⚽   ESPORTES",SPORTV 2 HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/557.ts
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="⚽   ESPORTES",SPORTV 3 HD³
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="2 - ⚽   ESPORTES",SPORTV 3 HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/558.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAIS | PREMIERE CLUBES HD [ALT]" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="⚽   ESPORTES",CANAIS | PREMIERE CLUBES HD³
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS | PREMIERE CLUBES HD [ALT]" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE CLUBES HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/537.ts
-#EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 2 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="⚽   ESPORTES",CANAIS | PREMIERE 2 HD³
+#EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 2 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 2 HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/531.ts
-#EXTINF:-1 tvg-id="PR3UBE" tvg-name="CANAIS | PREMIERE 3 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="⚽   ESPORTES",CANAIS | PREMIERE 3 HD³
+#EXTINF:-1 tvg-id="PR3UBE" tvg-name="CANAIS | PREMIERE 3 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 3 HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/532.ts
-#EXTINF:-1 tvg-id="PRMR4" tvg-name="CANAIS | PREMIERE 4 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="⚽   ESPORTES",CANAIS | PREMIERE 4 HD³
+#EXTINF:-1 tvg-id="PRMR4" tvg-name="CANAIS | PREMIERE 4 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 4 HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/533.ts
-#EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 5 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="⚽   ESPORTES",CANAIS | PREMIERE 5 HD³
+#EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 5 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 5 HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/534.ts
-#EXTINF:-1 tvg-id="PRM6BR" tvg-name="CANAIS | PREMIERE 6 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="⚽   ESPORTES",CANAIS | PREMIERE 6 HD³
+#EXTINF:-1 tvg-id="PRM6BR" tvg-name="CANAIS | PREMIERE 6 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 6 HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/535.ts
-#EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="⚽   ESPORTES",CANAIS | PREMIERE 7 HD³
+#EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 7 HD³
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/536.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽   ESPORTES", ESPN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="2 - ⚽   ESPORTES", ESPN
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/586.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="⚽   ESPORTES", ESPN 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="2 - ⚽   ESPORTES", ESPN 4
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/595.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cazé TV  ᴴᴰ" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png" group-title="⚽   ESPORTES",Cazé TV  ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="Cazé TV  ᴴᴰ" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png" group-title="2 - ⚽   ESPORTES",Cazé TV  ᴴᴰ
 http://acessopremium.site:80/6345487266/5753263850/471276
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="🗞️ NOTICIAS 24H", BAND NEWS
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="3 - 🗞️ NOTICIAS 24H", BAND NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/520.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FBfKyIn.png" group-title="🗞️ NOTICIAS 24H", RECORD NEWS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FBfKyIn.png" group-title="3 - 🗞️ NOTICIAS 24H", RECORD NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/511.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="🗞️ NOTICIAS 24H", GLOBO NEWS
+#EXTINF:-1 tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="3 - 🗞️ NOTICIAS 24H", GLOBO NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/512.ts
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/yvn5yE3HZJJsx3vxT5g4eGlvo9ofpLuOu9o9cFmF.png" group-title="🗞️ NOTICIAS 24H", CNN NEWS
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/yvn5yE3HZJJsx3vxT5g4eGlvo9ofpLuOu9o9cFmF.png" group-title="3 - 🗞️ NOTICIAS 24H", CNN NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/513.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="🗞️ NOTICIAS 24H", G1 NEWS
+#EXTINF:-1 tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="3 - 🗞️ NOTICIAS 24H", G1 NEWS
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/516.ts
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="📹   DOCUMENTÁRIOS", DISCOVERY
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="4 - 📹   DOCUMENTÁRIOS", DISCOVERY
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/585.ts
-#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="📹   DOCUMENTÁRIOS", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="4 - 📹   DOCUMENTÁRIOS", ANIMAL PLANET
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/588.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_discovery-tlc_m.png" group-title="📹   DOCUMENTÁRIOS", TLC
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_discovery-tlc_m.png" group-title="4 - 📹   DOCUMENTÁRIOS", TLC
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/314.ts
-#EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="📹   DOCUMENTÁRIOS",Discovery H&H
+#EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery H&H
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/198.ts
-#EXTINF:-1 tvg-name="Discovery H&H FHD" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="📹   DOCUMENTÁRIOS",Discovery H&H FHD
+#EXTINF:-1 tvg-name="Discovery H&H FHD" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery H&H FHD
 http://acessopremium.site:80/6345487266/5753263850/239589
-#EXTINF:-1 tvg-name="Discovery H&H HD" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="📹   DOCUMENTÁRIOS",Discovery H&H HD
+#EXTINF:-1 tvg-name="Discovery H&H HD" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery H&H HD
 http://acessopremium.site:80/6345487266/5753263850/239590
-#EXTINF:-1 tvg-name="Discovery H&H SD" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="📹   DOCUMENTÁRIOS",Discovery H&H SD
+#EXTINF:-1 tvg-name="Discovery H&H SD" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery H&H SD
 http://acessopremium.site:80/6345487266/5753263850/239591
-#EXTINF:-1 tvg-name="Discovery Home and Health H265" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="📹   DOCUMENTÁRIOS",Discovery Home and Health H265
+#EXTINF:-1 tvg-name="Discovery Home and Health H265" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Home and Health H265
 http://acessopremium.site:80/6345487266/5753263850/1092405
-#EXTINF:-1 tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/QE899aV.png" group-title="🎬 Filmes & Series", 🎬 Telecine Action
+#EXTINF:-1 tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/QE899aV.png" group-title="5 - 🎬 Filmes & Series", 🎬 Telecine Action
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/562.ts
-#EXTINF:-1 tvg-name="Telecine Cult" tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png" group-title="🎬 Filmes & Series", 🎬 Telecine Cult
+#EXTINF:-1 tvg-name="Telecine Cult" tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png" group-title="5 - 🎬 Filmes & Series", 🎬 Telecine Cult
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/567.ts
-#EXTINF:-1 tvg-name="Telecine Fun" tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png" group-title="🎬 Filmes & Series", 🎬 Telecine Fun 
+#EXTINF:-1 tvg-name="Telecine Fun" tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png" group-title="5 - 🎬 Filmes & Series", 🎬 Telecine Fun 
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/563.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-logo="https://assets.meuguia.tv/logos/tc4.png" group-title="🎬 Filmes & Series", 🎬 Telecine Pipoca
+#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-logo="https://assets.meuguia.tv/logos/tc4.png" group-title="5 - 🎬 Filmes & Series", 🎬 Telecine Pipoca
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/564.ts
-#EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://assets.meuguia.tv/logos/tc3.png" group-title="🎬 Filmes & Series", 🎬 Telecine Touch
+#EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://assets.meuguia.tv/logos/tc3.png" group-title="5 - 🎬 Filmes & Series", 🎬 Telecine Touch
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/566.ts
-#EXTINF:-1 tvg-name="Telecine Premium" tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png" group-title="🎬 Filmes & Series", 🎬 Telecine Premium
+#EXTINF:-1 tvg-name="Telecine Premium" tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png" group-title="5 - 🎬 Filmes & Series", 🎬 Telecine Premium
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/565.ts
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="🎬 Filmes & Series",HBO
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="5 - 🎬 Filmes & Series",HBO
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/471.ts
-#EXTINF:-1 tvg-name="HBO 2 SD" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="🎬 Filmes & Series",HBO 2
+#EXTINF:-1 tvg-name="HBO 2 SD" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="5 - 🎬 Filmes & Series",HBO 2
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/470.ts
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="🎬 Filmes & Series",HBO Family
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="5 - 🎬 Filmes & Series",HBO Family
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/464.ts
-#EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://images2.imgbox.com/e8/ad/XwfImJZy_o.png" group-title="🎬 Filmes & Series",HBO Pop
+#EXTINF:-1 tvg-name="HBO Pop" tvg-logo="https://images2.imgbox.com/e8/ad/XwfImJZy_o.png" group-title="5 - 🎬 Filmes & Series",HBO Pop
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/469.ts
-#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://images2.imgbox.com/09/90/O7jlBA1I_o.png" group-title="🎬 Filmes & Series",HBO Xtreme
+#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://images2.imgbox.com/09/90/O7jlBA1I_o.png" group-title="5 - 🎬 Filmes & Series",HBO Xtreme
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/468.ts
-#EXTINF:-1 tvg-name="HBO+" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="🎬 Filmes & Series",HBO+
+#EXTINF:-1 tvg-name="HBO+" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="5 - 🎬 Filmes & Series",HBO+
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/465.ts
-#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://images2.imgbox.com/33/3e/0IDs4wcG_o.png" group-title="🎬 Filmes & Series",HBO Signature
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://images2.imgbox.com/33/3e/0IDs4wcG_o.png" group-title="5 - 🎬 Filmes & Series",HBO Signature
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/466.ts
-#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://images2.imgbox.com/8e/e1/Bant1u0d_o.png" group-title="🎬 Filmes & Series",HBO Mundi
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="https://images2.imgbox.com/8e/e1/Bant1u0d_o.png" group-title="5 - 🎬 Filmes & Series",HBO Mundi
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/467.ts
-#EXTINF:-1 tvg-name="Megapix" tvg-logo="http://i.imgur.com/Xlf6PBQ.png" group-title="🎬 Filmes & Series",Megapix
+#EXTINF:-1 tvg-name="Megapix" tvg-logo="http://i.imgur.com/Xlf6PBQ.png" group-title="5 - 🎬 Filmes & Series",Megapix
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/310.ts
-#EXTINF:-1 tvg-name="Space" tvg-logo="http://i.imgur.com/GgNR6Ut.png" group-title="🎬 Filmes & Series",Space
+#EXTINF:-1 tvg-name="Space" tvg-logo="http://i.imgur.com/GgNR6Ut.png" group-title="5 - 🎬 Filmes & Series",Space
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/313.ts
-#EXTINF:-1 tvg-name="TNT" tvg-logo="http://i.imgur.com/RSGqIKS.png" group-title="🎬 Filmes & Series",TNT
+#EXTINF:-1 tvg-name="TNT" tvg-logo="http://i.imgur.com/RSGqIKS.png" group-title="5 - 🎬 Filmes & Series",TNT
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/315.ts
-#EXTINF:-1 tvg-name="TNT Séries" tvg-logo="http://i.imgur.com/RSGqIKS.png" group-title="🎬 Filmes & Series",TNT Séries
+#EXTINF:-1 tvg-name="TNT Séries" tvg-logo="http://i.imgur.com/RSGqIKS.png" group-title="5 - 🎬 Filmes & Series",TNT Séries
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/316.ts
-#EXTINF:-1 tvg-name="FX" tvg-logo="https://e7.pngegg.com/pngimages/211/697/png-clipart-fxx-logo-television-show-television-channel-tv-channel-television-angle-thumbnail.png" group-title="🎬 Filmes & Series",FX
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://e7.pngegg.com/pngimages/211/697/png-clipart-fxx-logo-television-show-television-channel-tv-channel-television-angle-thumbnail.png" group-title="5 - 🎬 Filmes & Series",FX
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/308.ts
-#EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://e7.pngegg.com/pngimages/623/932/png-clipart-warner-tv-television-channel-wb-channel-logo-tv-others-miscellaneous-television-thumbnail.png" group-title="🎬 Filmes & Series",Warner Channel
+#EXTINF:-1 tvg-name="Warner Channel" tvg-logo="https://e7.pngegg.com/pngimages/623/932/png-clipart-warner-tv-television-channel-wb-channel-logo-tv-others-miscellaneous-television-thumbnail.png" group-title="5 - 🎬 Filmes & Series",Warner Channel
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/319.ts
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="http://meuplayer.tv.br/lgs_btv/disneychannel.png" group-title="🎬 Filmes & Series",Disney Channel
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="http://meuplayer.tv.br/lgs_btv/disneychannel.png" group-title="5 - 🎬 Filmes & Series",Disney Channel
 http://acessopremium.site:80/6345487266/5753263850/1805959
-#EXTINF:-1 tvg-name="A&E" tvg-logo="http://i.imgur.com/dFtnUU3.png" group-title="🎬 Filmes & Series",A&E
+#EXTINF:-1 tvg-name="A&E" tvg-logo="http://i.imgur.com/dFtnUU3.png" group-title="5 - 🎬 Filmes & Series",A&E
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/324.ts
-#EXTINF:-1 tvg-name="AMC" tvg-logo="http://i.imgur.com/6vHnlg7.png" group-title="🎬 Filmes & Series",AMC
+#EXTINF:-1 tvg-name="AMC" tvg-logo="http://i.imgur.com/6vHnlg7.png" group-title="5 - 🎬 Filmes & Series",AMC
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/300.ts
-#EXTINF:-1 tvg-name="AXN" tvg-logo="http://i.imgur.com/RYscAnj.png" group-title="🎬 Filmes & Series",AXN
+#EXTINF:-1 tvg-name="AXN" tvg-logo="http://i.imgur.com/RYscAnj.png" group-title="5 - 🎬 Filmes & Series",AXN
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/301.ts
-#EXTINF:-1 tvg-name="Sony" tvg-logo="http://i.imgur.com/b4Z8dd0.png" group-title="🎬 Filmes & Series",Sony
+#EXTINF:-1 tvg-name="Sony" tvg-logo="http://i.imgur.com/b4Z8dd0.png" group-title="5 - 🎬 Filmes & Series",Sony
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/302.ts
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="🎬 Filmes & Series",Cinemax
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="5 - 🎬 Filmes & Series",Cinemax
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/303.ts
-#EXTINF:-1 tvg-name="Star Channel" tvg-logo="https://e7.pngegg.com/pngimages/735/561/png-clipart-star-channel-television-channel-cable-television-television-show-star-jalsha-logo-television-angle-thumbnail.png" group-title="🎬 Filmes & Series",Star Channel
+#EXTINF:-1 tvg-name="Star Channel" tvg-logo="https://e7.pngegg.com/pngimages/735/561/png-clipart-star-channel-television-channel-cable-television-television-show-star-jalsha-logo-television-angle-thumbnail.png" group-title="5 - 🎬 Filmes & Series",Star Channel
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/304.ts
-#EXTINF:-1 tvg-name="LifeTime" tvg-logo="https://w7.pngwing.com/pngs/983/821/png-transparent-lifetime-movies-television-channel-logo-others-miscellaneous-television-label-thumbnail.png" group-title="🎬 Filmes & Series",LifeTime
+#EXTINF:-1 tvg-name="LifeTime" tvg-logo="https://w7.pngwing.com/pngs/983/821/png-transparent-lifetime-movies-television-channel-logo-others-miscellaneous-television-label-thumbnail.png" group-title="5 - 🎬 Filmes & Series",LifeTime
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/309.ts
-#EXTINF:-1 tvg-name="Paramount" tvg-logo="https://e7.pngegg.com/pngimages/165/577/png-clipart-paramount-s-paramount-network-logo-viacom-media-networks-paramount-television-network-miscellaneous-television-thumbnail.png" group-title="🎬 Filmes & Series",Paramount
+#EXTINF:-1 tvg-name="Paramount" tvg-logo="https://e7.pngegg.com/pngimages/165/577/png-clipart-paramount-s-paramount-network-logo-viacom-media-networks-paramount-television-network-miscellaneous-television-thumbnail.png" group-title="5 - 🎬 Filmes & Series",Paramount
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/311.ts
-#EXTINF:-1 tvg-name="USA" tvg-logo="https://w7.pngwing.com/pngs/431/113/png-transparent-usa-text-logo-united-states-independence-day-illustration-usa-painted-text-hand-thumbnail.png" group-title="🎬 Filmes & Series",USA
+#EXTINF:-1 tvg-name="USA" tvg-logo="https://w7.pngwing.com/pngs/431/113/png-transparent-usa-text-logo-united-states-independence-day-illustration-usa-painted-text-hand-thumbnail.png" group-title="5 - 🎬 Filmes & Series",USA
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/312.ts
-#EXTINF:-1 tvg-name="Universal Channel" tvg-logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="🎬 Filmes & Series",Universal Channel
+#EXTINF:-1 tvg-name="Universal Channel" tvg-logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="5 - 🎬 Filmes & Series",Universal Channel
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/319.ts
-#EXTINF:-1 tvg-name="Universal Studio" tvg-logo="https://w7.pngwing.com/pngs/523/503/png-transparent-universal-s-studio-universal-television-channel-studio-miscellaneous-television-text-thumbnail.png" group-title="🎬 Filmes & Series",Universal Studio
+#EXTINF:-1 tvg-name="Universal Studio" tvg-logo="https://w7.pngwing.com/pngs/523/503/png-transparent-universal-s-studio-universal-television-channel-studio-miscellaneous-television-text-thumbnail.png" group-title="5 - 🎬 Filmes & Series",Universal Studio
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/320.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zhiyQzz.png" group-title="👶 INFANTIL", CARTOON NETWORK
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/591.ts
@@ -1011,49 +1011,49 @@ http://hubby.run/series/atvRibeiro-vods/dcl9DH5rnV/243010.mp4
 http://hubby.run/series/atvRibeiro-vods/dcl9DH5rnV/243011.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1 Contra Todos (2016) S04 E08" tvg-logo="https://image.tmdb.org/t/p/w780/3o7f2Xjwl5hcoiioR9eGdD9ezHt.jpg" group-title="Series | Amazon Prime Video",1 Contra Todos (2016) S04 E08
 http://hubby.run/series/atvRibeiro-vods/dcl9DH5rnV/243012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E01" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E01
+#EXTINF:-1 tvg-id="" tvg-name="S06 E01 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E01
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100297.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E02" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E02
+#EXTINF:-1 tvg-id="" tvg-name="S06 E02 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E02
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100298.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E03" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E03
+#EXTINF:-1 tvg-id="" tvg-name="S06 E03 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E03
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100299.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E04" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E04
+#EXTINF:-1 tvg-id="" tvg-name="S06 E04 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E04
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100300.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E05" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E05
+#EXTINF:-1 tvg-id="" tvg-name="S06 E05 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E05
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E06" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E06
+#EXTINF:-1 tvg-id="" tvg-name="S06 E06 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E06
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100302.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E07" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E07
+#EXTINF:-1 tvg-id="" tvg-name="S06 E07 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E07
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100303.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E08" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E08
+#EXTINF:-1 tvg-id="" tvg-name="S06 E08 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E08
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E09" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E09
+#EXTINF:-1 tvg-id="" tvg-name="S06 E09 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E09
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100305.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E10" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E10
+#EXTINF:-1 tvg-id="" tvg-name="S06 E10 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E10
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100306.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E11" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E11
+#EXTINF:-1 tvg-id="" tvg-name="S06 E11 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E11
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100307.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E12" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E12
+#EXTINF:-1 tvg-id="" tvg-name="S06 E12 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E12
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E13" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E13
+#EXTINF:-1 tvg-id="" tvg-name="S06 E13 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E13
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100309.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E14" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E14
+#EXTINF:-1 tvg-id="" tvg-name="S06 E14 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E14
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100310.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E15" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E15
+#EXTINF:-1 tvg-id="" tvg-name="S06 E15 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E15
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100311.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E16" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E16
+#EXTINF:-1 tvg-id="" tvg-name="S06 E16 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E16
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100312.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E17" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E17
+#EXTINF:-1 tvg-id="" tvg-name="S06 E17 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E17
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100313.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E18" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E18
+#EXTINF:-1 tvg-id="" tvg-name="S06 E18 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E18
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100314.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E19" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E19
+#EXTINF:-1 tvg-id="" tvg-name="S06 E19 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E19
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100315.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E20" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E20
+#EXTINF:-1 tvg-id="" tvg-name="S06 E20 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E20
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100316.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E21" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E21
+#EXTINF:-1 tvg-id="" tvg-name="S06 E21 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E21
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100317.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S06 E22" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E22
+#EXTINF:-1 tvg-id="" tvg-name="S06 E22 Smallville: As Aventuras do Superboy (2001)" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S06 E22
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100318.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy (2001) S07 E01" tvg-logo="https://image.tmdb.org/t/p/w780/pYEuYI4n8BQNtuHIqRlhWQ4O1Sj.jpg" group-title="Series | Amazon Prime Video",Smallville: As Aventuras do Superboy (2001) S07 E01
 http://hubby.bz/series/atvRibeiro-vods/dcl9DH5rnV/100319.mp4
