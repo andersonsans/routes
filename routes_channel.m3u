@@ -6,11 +6,11 @@ http://cdn33.cc:80/live/ELISIO6854/SZ7343/440.ts
 #EXTINF:-1 tvg-name="Rede Globo TV Bahia" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="1 - 📺 TV ABERTA",REDE GLOBO OPÇÃO 3
 http://acessopremium.site:80/6345487266/5753263850/1082903
 #EXTINF:-1 tvg-id="" tvg-name="Globo BA Rede Bahia FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="1 - 📺 TV ABERTA",Globo BA Rede Bahia FHD
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/1010777.ts
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/113832.ts
 #EXTINF:-1 tvg-id="" tvg-name="Globo BA Rede Bahia SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="1 - 📺 TV ABERTA",Globo BA Rede Bahia SD
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/1010779.ts
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/113834.ts
 #EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="1 - 📺 TV ABERTA",REDE BAND SP
-http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712059.ts
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/644858.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="1 - 📺 TV ABERTA",REDE BAND OPCAO 2
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/3712060.ts
 #EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="1 - 📺 TV ABERTA",REDE BAND OPÇÃO 3
@@ -26,7 +26,7 @@ http://cdn33.cc:80/live/ELISIO6854/SZ7343/45.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="1 - 📺 TV ABERTA", RECORD OPÇÃO 2
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/57.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="1 - 📺 TV ABERTA", RECORD OPÇÃO 3
-http://cdn33.cc:80/live/ELISIO6854/SZ7343/52.ts
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/129869.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W3oI8p3.png" group-title="1 - 📺 TV ABERTA", REDE VIDA
 http://cdn33.cc:80/live/ELISIO6854/SZ7343/545.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/egU0jsZ.png" group-title="1 - 📺 TV ABERTA", TV APARECIDA
@@ -973,6 +973,468 @@ http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877875.ts
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877876.ts
 #EXTINF:-1 tvg-id="" tvg-name="24h Steven Universo" tvg-logo="http://021stream.xyz:80/images/dff367e8d4f7fdc20ffc56c105bde6ef.jpg" group-title="☘️CANAIS | DESENHOS 24H",24h Steven Universo
 http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/877877.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] 44 GATOS" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] 44 GATOS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/604052.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A CASA DO MICKEY MOUSE" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] A CASA DO MICKEY MOUSE
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/602738.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H A FAMILIA HATHAWAYS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H A FAMILIA HATHAWAYS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464853.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MANSAO FOSTER" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] MANSAO FOSTER
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464856.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DA PANTERA COR DE ROSA" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] A TURMA DA PANTERA COR DE ROSA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/604053.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H A TURMA DO ZÉ COLMÉIA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H A TURMA DO ZÉ COLMÉIA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/604054.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A VACA E O FRANGO" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] A VACA E O FRANGO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464860.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H AMERICAN HOUSEWIFE" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H AMERICAN HOUSEWIFE
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606941.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ANIMANIACS" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] ANIMANIACS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464543.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] ANIMAZOO" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] ANIMAZOO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469822.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AS AVENTURAS DE TOM E JERRY" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] AS AVENTURAS DE TOM E JERRY
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469825.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AS AVENTURAS DO SUPERMAN" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] AS AVENTURAS DO SUPERMAN
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469826.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BABY LOONEY TUNES" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BABY LOONEY TUNES
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/604055.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BACKYARDIGANS" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BACKYARDIGANS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464872.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] BANANAS DE PIJAMAS" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BANANAS DE PIJAMAS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/604056.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H BATMAN" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H BATMAN
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469832.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10 OMINIVERSE" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BEN 10 OMINIVERSE
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464874.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BOB O CONSTRUTOR" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BOB O CONSTRUTOR
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464879.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BOB ZOOM" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BOB ZOOM
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/604066.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H BREAKING BAD" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H BREAKING BAD
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606942.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H BYCROSSERS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H BYCROSSERS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469845.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO CAVERNA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H CAPITÃO CAVERNA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469847.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H CARGA PESADA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H CARGA PESADA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464819.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H CASTORES PIRADOS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H CASTORES PIRADOS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469848.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVALO DE FOGO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H CAVALO DE FOGO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464893.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H CHANGEMAN" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H CHANGEMAN
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469849.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CLARENCIO O OTIMISTA" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] CLARENCIO O OTIMISTA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/465027.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H CONTOS ASSUSTADORES DE MARCHA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H CONTOS ASSUSTADORES DE MARCHA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606945.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H CORRIDA ESPACIAL" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H CORRIDA ESPACIAL
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464900.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H CUPHEAD A SERIE" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H CUPHEAD A SERIE
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469856.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H CYBERCOPS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H CYBERCOPS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469857.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CÃO CORAGEM" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] CÃO CORAGEM
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464899.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H DE VOLTA PARA O FUTURO DESENHO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H DE VOLTA PARA O FUTURO DESENHO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469859.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H DENIS PIMENTINHAS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H DENIS PIMENTINHAS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469860.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] DESENCANTO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",[24H] DESENCANTO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469863.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H DESENHOS BIBLICOS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H DESENHOS BIBLICOS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606946.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H DOUG" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H DOUG
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469870.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H DOUTORA BRINQUEDO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H DOUTORA BRINQUEDO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469871.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] DR STONE" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] DR STONE
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606947.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] DRAGONBALL" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] DRAGONBALL
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606950.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] DRAGONBALL HEROES" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] DRAGONBALL HEROES
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/607016.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] DRAGONBALL Z SAGA DE BABIDI" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] DRAGONBALL Z SAGA DE BABIDI
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606952.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] DRAGONBALL Z A SAGA DE SAYA" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] DRAGONBALL Z A SAGA DE SAYA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606953.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] DRAGONBALL Z SAGA NAMEKUSEI" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] DRAGONBALL Z SAGA NAMEKUSEI
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606954.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] DRAGONBALL Z A SAGA DOS ANDROIDS" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] DRAGONBALL Z A SAGA DOS ANDROIDS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606951.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H DUCK DODGERS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H DUCK DODGERS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469878.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H ESCOLINHA DO PROFESSOR RAIMUNDO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H ESCOLINHA DO PROFESSOR RAIMUNDO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464914.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H EU SOU O MAXIMO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H EU SOU O MAXIMO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606956.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H FAISCA E FUMAÇA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H FAISCA E FUMAÇA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464564.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H FEITICEIROS DE WARVELY" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H FEITICEIROS DE WARVELY
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606957.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H FORMIGA ATÔMICA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H FORMIGA ATÔMICA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469886.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H FRANKSTEIN JR E OS IMPOSSIVEIS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H FRANKSTEIN JR E OS IMPOSSIVEIS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606958.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] FREAKAZOID" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] FREAKAZOID
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464921.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA BABY" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H GALINHA BABY
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606959.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] GATO FELIX" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] GATO FELIX
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469891.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H GOOGLE FIVE" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H GOOGLE FIVE
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469893.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] HE-MAN" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] HE-MAN
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606960.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H HENRY DRANGER" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H HENRY DRANGER
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469896.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H HILDA FURACÃO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H HILDA FURACÃO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/607017.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H HOUSE OF CARDS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H HOUSE OF CARDS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606961.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H HERCULES" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H HERCULES
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464933.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] iCARLY" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",[24H] iCARLY
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469903.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H INUYASHA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H INUYASHA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469904.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] IRMAO A OBRA" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] IRMAO A OBRA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606962.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] IRMÃO DO JOREL" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] IRMÃO DO JOREL
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469906.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] JAKE E OS PIRATAS" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] JAKE E OS PIRATAS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469908.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H JIBAN" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H JIBAN
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464814.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] JOVENS TITAN EM AÇÃO T06" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] JOVENS TITAN EM AÇÃO T06
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/607018.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H KAMEN RIDER" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H KAMEN RIDER
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606963.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H KIDS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H KIDS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606964.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H KIPO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H KIPO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606965.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H LARGADOS E PELADOS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H LARGADOS E PELADOS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469916.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LARGADOS E PELADOS A TRIBO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",[24H] LARGADOS E PELADOS A TRIBO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469917.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H LEGO UMA AVENTURA NA CIDADE" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H LEGO UMA AVENTURA NA CIDADE
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606966.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H MANNY MÃOS À OBRA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H MANNY MÃOS À OBRA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469925.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H MARIA MAGDALENA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H MARIA MAGDALENA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606967.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] MEGAMAN CLASSICO" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] MEGAMAN CLASSICO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606968.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] MEU AMIGÃOZÃO" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] MEU AMIGÃOZÃO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469930.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Miami Vice" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H Miami Vice
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469931.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H MICKEY" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H MICKEY
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606969.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H MR.MAKER" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H MR.MAKER
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469934.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H MORANGUINHO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H MORANGUINHO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606973.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H MORANGUINHO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H MORANGUINHO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469935.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H MR MAKER" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H MR MAKER
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606975.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H MUCHA LUTA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H MUCHA LUTA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469936.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H MUMIAS VIVAS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H MUMIAS VIVAS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469937.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H O INCRÍVEL MUNDO DE GUMBALL
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469939.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H O MASKARA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H O MASKARA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469941.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H O PEQUENO SCOOBY" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H O PEQUENO SCOOBY
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606978.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O PEQUENO URSO" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] O PEQUENO URSO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464576.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H O QUE HA DE NOVO SCOOBY DOO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H O QUE HA DE NOVO SCOOBY DOO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606976.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H O SHOW DOS LOONEY TUNES" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H O SHOW DOS LOONEY TUNES
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606977.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H OGGY E AS BARATAS TONTAS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H OGGY E AS BARATAS TONTAS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469946.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H OS CAÇA FANTASMA DESENHO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H OS CAÇA FANTASMA DESENHO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469950.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H OS GÁRGULAS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H OS GÁRGULAS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469953.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H OS JETSONS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H OS JETSONS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469955.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] OS JOVENS TITAN T05" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] OS JOVENS TITAN T05
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606991.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H OS JOVENS TITAS EM ACAO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H OS JOVENS TITAS EM ACAO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469958.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS MISTERIOS DE PIU-PIU E FRAJOLA" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] OS MISTERIOS DE PIU-PIU E FRAJOLA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464581.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H OS RONI" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H OS RONI
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606992.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS SIMPSONS T35" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] OS SIMPSONS T35
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606972.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] OS SMURFS" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] OS SMURFS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606993.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H OS TRAPALHOES" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H OS TRAPALHOES
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606994.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS URSINHOS CARINHOSOS" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] OS URSINHOS CARINHOSOS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464820.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H PATO DONALD" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H PATO DONALD
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606980.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T01" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H PATRULHA CANINA T01
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/604951.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T02" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H PATRULHA CANINA T02
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/604952.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H PATRULHA CANINA T03" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H PATRULHA CANINA T03
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/604953.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] PATRULHA CANINA T04" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] PATRULHA CANINA T04
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/604954.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PERDIDOS NAS ESTRELAS" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] PERDIDOS NAS ESTRELAS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464585.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H PERNALONGA E SEUS AMIGOS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H PERNALONGA E SEUS AMIGOS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469974.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PICA PAU" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] PICA PAU
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/604950.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h PINKY E O CEREBRO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24h PINKY E O CEREBRO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464974.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] PLIC E PLOCK" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] PLIC E PLOCK
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606995.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pocoyo²" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] Pocoyo²
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464976.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Popeye" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24h Popeye
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464978.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] POWER RANGERNS" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] POWER RANGERNS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464825.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H PROFESSOR RAIMUNDO ANOS 90" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H PROFESSOR RAIMUNDO ANOS 90
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606955.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H PUNK" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H PUNK
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/606998.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H RAMBO DESENHO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H RAMBO DESENHO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469982.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H REN E STIMPY" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H REN E STIMPY
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469983.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] ROBOCOP DESENHO" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] ROBOCOP DESENHO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/607000.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SAMURAI JACK" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] SAMURAI JACK
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464823.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] SHAMAN KING" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] SHAMAN KING
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469987.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H SHAUN SHEEP" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H SHAUN SHEEP
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469988.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H SHAZAAM" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H SHAZAAM
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469989.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] SHE-RA CLASSICO" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] SHE-RA CLASSICO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/607001.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] STREET FIGHTER" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] STREET FIGHTER
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464822.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] SUPER CHOQUE" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] SUPER CHOQUE
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/607003.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPER HOMEM ANOS 40" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H SUPER HOMEM ANOS 40
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469996.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPERAMIGOS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H SUPERAMIGOS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469998.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPERNATURAL T01-05" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H SUPERNATURAL T01-05
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/607004.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] SURFISTA PRATEADO" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] SURFISTA PRATEADO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/607005.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H TA CHOVENDO HAMBUERGUER" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H TA CHOVENDO HAMBUERGUER
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/470010.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] TARZAN" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] TARZAN
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/607006.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H TAZ MANIA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H TAZ MANIA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/470001.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H TELETUBBIES" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H TELETUBBIES
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/470002.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H THUNDERCATS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H THUNDERCATS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/470004.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] TODO MUNDO ODEIA O CHRIS" tvg-logo="https://prostore.app/logos/SERIES.24.HORAS.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",[24H] TODO MUNDO ODEIA O CHRIS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/603450.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H TURMA DA MONICA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H TURMA DA MONICA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464995.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H TURMA DO RONALDINHO GAUCHO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24H TURMA DO RONALDINHO GAUCHO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/470007.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] TV COLOSSO" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] TV COLOSSO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/607008.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Uma família da pesada" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24h Uma família da pesada
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464998.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H V A BATALHA FINAL" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H V A BATALHA FINAL
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/607009.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h VINGADORES OS SUPER-HEROIS MAIS PODEROSOS DA TERRA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H DESENHOS",24h VINGADORES OS SUPER-HEROIS MAIS PODEROSOS DA TERRA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/464966.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H WANDINHA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H WANDINHA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/607010.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H WOLVERINE E OS X-MEN" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H WOLVERINE E OS X-MEN
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/607011.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] XODO DA VOVO" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] XODO DA VOVO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/607012.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H ZORRO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H ZORRO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/607013.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] JACKIE CHAN" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] JACKIE CHAN
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/470020.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] MEGA MAN" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] MEGA MAN
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/624960.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] OS SETE MONSTRINHOS" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] OS SETE MONSTRINHOS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/624961.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] PHINEAS E FERB" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] PHINEAS E FERB
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/624962.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] OS PINGUINS DE MADAGASCAR" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] OS PINGUINS DE MADAGASCAR
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/624963.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O COISA" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] O COISA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/624964.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] JAMBO E RUVIAO" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] JAMBO E RUVIAO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/624965.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OLHA DO DESAFIOS" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] OLHA DO DESAFIOS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/624966.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H BATMAN E ROBIN" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H BATMAN E ROBIN
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/635658.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVERNA DO DRAGAO" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] CAVERNA DO DRAGAO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/635659.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H HENRY DANGER" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H HENRY DANGER
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/635660.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] CHAVES" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] CHAVES
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/638400.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAPOLIN T01 T03" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] CHAPOLIN T01 T03
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643474.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAPOLIN T04 T07" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] CHAPOLIN T04 T07
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643475.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] OS SIMPSONS 2000-2010" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] OS SIMPSONS 2000-2010
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643476.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H A GRANDE FAMILIA DO ALASCA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H A GRANDE FAMILIA DO ALASCA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643477.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H OS NORMAIS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H OS NORMAIS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643478.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H OPERACAO FRONTEIRA BRASIL" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H OPERACAO FRONTEIRA BRASIL
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643479.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H 90 DIAS PARA CASAR" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H 90 DIAS PARA CASAR
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643480.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] MEDABOTS" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] MEDABOTS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643481.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H ILHA DO DESAFIOS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H ILHA DO DESAFIOS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643482.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] HOMEM DE FERRO" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] HOMEM DE FERRO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643483.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] HEY ARNOLD" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] HEY ARNOLD
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643484.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] HEPPY TREE FRIENDS" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] HEPPY TREE FRIENDS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643485.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H GODZILLA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H GODZILLA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643486.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] 3 PALAVRINHAS" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] 3 PALAVRINHAS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643487.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FAMILIA DRACULA" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] FAMILIA DRACULA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643488.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FAMILIA ADAMS" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] FAMILIA ADAMS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643489.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A MULHER MARAVILHA" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] A MULHER MARAVILHA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643490.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DO BAIRRO" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] A TURMA DO BAIRRO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643491.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DO PATO BILL" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] A TURMA DO PATO BILL
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643492.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ANDY PANDA" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] ANDY PANDA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643493.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AS MENINAS SUPERPODEROSA" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] AS MENINAS SUPERPODEROSA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643494.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AS MENINAS SUPERPODEROSAS GERACAO Z" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] AS MENINAS SUPERPODEROSAS GERACAO Z
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643495.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BILLY E MANDY" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BILLY E MANDY
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643496.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BACAMARTE E CHUMBINHO" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BACAMARTE E CHUMBINHO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643497.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BATFINO" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BATFINO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643498.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BATMAN DO FUTURO" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BATMAN DO FUTURO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643499.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BATMAN GOTHAM KNIGHT" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BATMAN GOTHAM KNIGHT
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643500.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24] BEN 10" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24] BEN 10
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643501.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10  FORCA ALIENIGENA" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BEN 10  FORCA ALIENIGENA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643502.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BIPO PAI E BOB FILHO" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BIPO PAI E BOB FILHO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643503.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BOB ESPONJA" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BOB ESPONJA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643504.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CADILACS E DINOSSAURO" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] CADILACS E DINOSSAURO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643505.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CAPITAO LENTO" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] CAPITAO LENTO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643506.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CHARLIE MAN" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] CHARLIE MAN
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643507.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DELVIN O MOTOQUEIRO" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] DELVIN O MOTOQUEIRO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643508.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DENIZ O PIMENTINHA" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] DENIZ O PIMENTINHA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643509.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H DR HOUSE T01 E T02" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H DR HOUSE T01 E T02
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643510.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H DR HOUSE T03 E T04" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H DR HOUSE T03 E T04
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643511.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H DR HOUSE T05 E T06" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H DR HOUSE T05 E T06
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643512.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H DR HOUSE T07 E T08" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H DR HOUSE T07 E T08
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643513.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] DUEOLO XIAOLIN" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] DUEOLO XIAOLIN
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643514.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H EU A PATROA E AS CRIANCAS" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H EU A PATROA E AS CRIANCAS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643515.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] FANTASMINHA LEGAL" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] FANTASMINHA LEGAL
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643516.ts
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-name="[24H] G I JOE SIGMA 6" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] G I JOE SIGMA 6
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643517.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] GUMBALL" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] GUMBALL
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643518.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LULUZINHA" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] LULUZINHA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643519.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H UM MALUCO NO PEDAÇO" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H UM MALUCO NO PEDAÇO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643520.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] TRANSFORMERS" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] TRANSFORMERS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643521.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] SUPERCAMPEAO" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] SUPERCAMPEAO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643522.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS SIMPSONS T32" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] OS SIMPSONS T32
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643523.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] OS SIMPSONS T34" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] OS SIMPSONS T34
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643524.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H SEE" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H SEE
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643525.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PATRULHA CANINA T05" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] PATRULHA CANINA T05
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643540.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H QUE LEGAL DO SCOOBY DOO" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",24H QUE LEGAL DO SCOOBY DOO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643663.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H THE MANDALORIAN" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H THE MANDALORIAN
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643664.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H PEPPA PIG" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",24H PEPPA PIG
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/644590.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H PESADELO NA COZINHA" tvg-logo="https://prostore.app/logos/24H.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H PESADELO NA COZINHA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/644591.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H O SOCIO" tvg-logo="https://prostore.app/logos/SERIES.24.HORAS.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H O SOCIO
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/644695.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] ARCANE" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] ARCANE
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/655102.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] AVATAR ULTIMO MESTRE DO AR" tvg-logo="https://prostore.app/logos/SERIES.24.HORAS.png" group-title="CANAIS | 24H SERIES - PROGRAMAS",[24H] AVATAR ULTIMO MESTRE DO AR
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/655103.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BAYBLADE METAL FUSION" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] BAYBLADE METAL FUSION
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/655104.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BOJACK HORSEMAN " tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BOJACK HORSEMAN 
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/655105.ts
+#EXTINF:-1 tvg-id="" tvg-name="[24H] CASTLEVANIA" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] CASTLEVANIA
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/655106.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] BOB ESPONJA T01-T06" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BOB ESPONJA T01-T06
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/655111.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] BOB ESPONJA T07-T13" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] BOB ESPONJA T07-T13
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/655112.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] DARKIWING DUCK" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] DARKIWING DUCK
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/655113.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] DC SUPER HERO GIRLS" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H DESENHOS",[24H] DC SUPER HERO GIRLS
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/655114.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] DEATH NOTE" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] DEATH NOTE
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/655115.ts
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-name="[24H] DRAGON BALL GT " tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" group-title="CANAIS | 24H ANIMES",[24H] DRAGON BALL GT 
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/655140.ts
+#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV CABO BRANCO FHD
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/643821.ts
 #EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 1 - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIMCfztNwx2rA6XWGaJhcqdG7Wt.jpg" group-title="Filmes | Ação",Velozes e Furiosos 1 - 2001
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32977.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 2 - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmhFOjy47UqrOafl0oQiygcJ7oT.jpg" group-title="Filmes | Ação",Velozes e Furiosos 2 - 2003
