@@ -3299,3 +3299,22 @@ http://pfsv.io:80/live/epg/epg/259880.ts
 http://pfsv.io:80/live/epg/epg/259881.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO [HD]" tvg-logo="http://jrj11.com/KQJ3" group-title="Canais | BBB 25",BBB MOSAICO [HD]
 http://pfsv.io:80/live/epg/epg/259871.ts
+############################################################################ SENNA  01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E01
+http://shd12.oneplayer.site/token/SHD12/211039/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E02
+http://shd12.oneplayer.site/token/SHD12/211039/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E03
+http://shd12.oneplayer.site/token/SHD12/211039/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E04
+http://shd12.oneplayer.site/token/SHD12/211039/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E05
+http://shd12.oneplayer.site/token/SHD12/211039/1x.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E06
+http://shd12.oneplayer.site/token/SHD12/211039/1x6.mp4
