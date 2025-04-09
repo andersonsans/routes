@@ -54,9 +54,17 @@ http://pfsv.io:80/live/epg/epg/535.ts
 #EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 7 HD³
 http://pfsv.io:80/live/epg/epg/536.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="2 - ⚽   ESPORTES", ESPN
-http://pfsv.io:80/live/epg/epg/586.ts
+http://pfsv.io:80/live/epg/epg/259.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="2 - ⚽   ESPORTES", ESPN 2
+http://pfsv.io:80/live/epg/epg/261.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="2 - ⚽   ESPORTES", ESPN 3
+http://pfsv.io:80/live/epg/epg/258.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="2 - ⚽   ESPORTES", ESPN 4
-http://pfsv.io:80/live/epg/epg/595.ts
+http://pfsv.io:80/live/epg/epg/262.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="2 - ⚽   ESPORTES", ESPN 5
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="2 - ⚽   ESPORTES", ESPN 6
+http://pfsv.io:80/live/epg/epg/260.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cazé TV  ᴴᴰ" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png" group-title="2 - ⚽   ESPORTES",Cazé TV  ᴴᴰ
 https://lvstr.cfd/cazetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 1
