@@ -59,16 +59,28 @@ http://pfsv.io:80/live/epg/epg/586.ts
 http://pfsv.io:80/live/epg/epg/595.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cazé TV  ᴴᴰ" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png" group-title="2 - ⚽   ESPORTES",Cazé TV  ᴴᴰ
 https://lvstr.cfd/cazetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | Paramount Plus" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | Paramount Plus
-http://saturno.bucarestshop.online:2095/live3/stlatv3/chunks.m3u8?token=1740615949_595253c011d9e965b5444a3741777b13bcaf1e8a
-#EXTINF:-1 tvg-id="" tvg-name="CANAIS | PARAMOUNT+ 1 HD" tvg-logo="http://jrj11.com/AOO5" group-title="2 - ⚽   ESPORTES",CANAIS | PARAMOUNT+ 1 HD³
-http://pfsv.io:80/live/epg/epg/197722.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAIS | PARAMOUNT+ 2 HD" tvg-logo="http://jrj11.com/AOO4" group-title="2 - ⚽   ESPORTES",CANAIS | PARAMOUNT+ 2 HD³
-http://pfsv.io:80/live/epg/epg/197721.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAIS | PARAMOUNT+ 3 HD" tvg-logo="http://jrj11.com/AOO3" group-title="2 - ⚽   ESPORTES",CANAIS | PARAMOUNT+ 3 HD³
-http://pfsv.io:80/live/epg/epg/197720.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAIS | Paramount+ 4 HD" tvg-logo="http://jrj11.com/AON5" group-title="2 - ⚽   ESPORTES",CANAIS | Paramount+ 4 HD³
-http://pfsv.io:80/live/epg/epg/134640.ts
+#EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 1
+##http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19071.ts
+#EXTINF:-1 tvg-id="90" tvg-name="Paramount+ 2" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19072.ts
+#EXTINF:-1 tvg-id="91" tvg-name="Paramount+ 3" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 3
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19073.ts
+#EXTINF:-1 tvg-id="92" tvg-name="Paramount+ 4" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 4
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19074.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 5" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 5
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19075.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 6" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 6
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19076.ts
+####EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | Paramount Plus" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | Paramount Plus
+###http://saturno.bucarestshop.online:2095/live3/stlatv3/chunks.m3u8?token=1740615949_595253c011d9e965b5444a3741777b13bcaf1e8a
+####EXTINF:-1 tvg-id="" tvg-name="CANAIS | PARAMOUNT+ 1 HD" tvg-logo="http://jrj11.com/AOO5" group-title="2 - ⚽   ESPORTES",CANAIS | PARAMOUNT+ 1 HD³
+###http://pfsv.io:80/live/epg/epg/197722.ts
+####EXTINF:-1 tvg-id="" tvg-name="CANAIS | PARAMOUNT+ 2 HD" tvg-logo="http://jrj11.com/AOO4" group-title="2 - ⚽   ESPORTES",CANAIS | PARAMOUNT+ 2 HD³
+###http://pfsv.io:80/live/epg/epg/197721.ts
+####EXTINF:-1 tvg-id="" tvg-name="CANAIS | PARAMOUNT+ 3 HD" tvg-logo="http://jrj11.com/AOO3" group-title="2 - ⚽   ESPORTES",CANAIS | PARAMOUNT+ 3 HD³
+###http://pfsv.io:80/live/epg/epg/197720.ts
+####EXTINF:-1 tvg-id="" tvg-name="CANAIS | Paramount+ 4 HD" tvg-logo="http://jrj11.com/AON5" group-title="2 - ⚽   ESPORTES",CANAIS | Paramount+ 4 HD³
+###http://pfsv.io:80/live/epg/epg/134640.ts
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="3 - 🗞️ NOTICIAS 24H", BAND NEWS
 http://pfsv.io:80/live/epg/epg/520.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FBfKyIn.png" group-title="3 - 🗞️ NOTICIAS 24H", RECORD NEWS
@@ -3199,56 +3211,86 @@ http://hubby.run/series/atvRibeiro-vods/dcl9DH5rnV/153223.mp4
 http://hubby.run/series/atvRibeiro-vods/dcl9DH5rnV/153224.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Escuta (2002) S01 E13" tvg-logo="http://timg.bdta.pro/images/b6b1a195ae9809f05044206535e1bf34.jpg" group-title="Series | HBO Max",A Escuta (2002) S01 E13
 http://hubby.run/series/atvRibeiro-vods/dcl9DH5rnV/153225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E01
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E02
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E03
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E04
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E05
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665429.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E06
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665430.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E07
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E08
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E09
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E10
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E11
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E12
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E13
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665437.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E14
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665438.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E15
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E16
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E17
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665441.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E18
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665442.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E19
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E20
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665444.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E21
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E22
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665446.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E23
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E24
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beleza Fatal S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg" group-title="Series | Max",Beleza Fatal S01 E25
-http://xc.tvdecasa.top:80/series/Formigatv/266585/10665449.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E01" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E01
+http://sigcine1.space:80/series/665861550/767176958/755067.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E02" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E02
+http://sigcine1.space:80/series/665861550/767176958/755068.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E03" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E03
+http://sigcine1.space:80/series/665861550/767176958/755069.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E04" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E04
+http://sigcine1.space:80/series/665861550/767176958/755070.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E05" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E05
+http://sigcine1.space:80/series/665861550/767176958/755071.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E06" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E06
+http://sigcine1.space:80/series/665861550/767176958/755072.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E07" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E07
+http://sigcine1.space:80/series/665861550/767176958/755073.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E08" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E08
+http://sigcine1.space:80/series/665861550/767176958/755074.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E09" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E09
+http://sigcine1.space:80/series/665861550/767176958/755075.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E10" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E10
+http://sigcine1.space:80/series/665861550/767176958/755076.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E11" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E11
+http://sigcine1.space:80/series/665861550/767176958/755077.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E12" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E12
+http://sigcine1.space:80/series/665861550/767176958/755078.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E13" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E13
+http://sigcine1.space:80/series/665861550/767176958/755079.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E14" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E14
+http://sigcine1.space:80/series/665861550/767176958/755080.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E15" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E15
+http://sigcine1.space:80/series/665861550/767176958/755081.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E16" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E16
+http://sigcine1.space:80/series/665861550/767176958/758271.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E17" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E17
+http://sigcine1.space:80/series/665861550/767176958/758272.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E18" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E18
+http://sigcine1.space:80/series/665861550/767176958/758273.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E19" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E19
+http://sigcine1.space:80/series/665861550/767176958/758274.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E20" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E20
+http://sigcine1.space:80/series/665861550/767176958/758275.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E21" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E21
+http://sigcine1.space:80/series/665861550/767176958/759067.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E22" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E22
+http://sigcine1.space:80/series/665861550/767176958/759068.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E23" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E23
+http://sigcine1.space:80/series/665861550/767176958/759069.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E24" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E24
+http://sigcine1.space:80/series/665861550/767176958/759070.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E25" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E25
+http://sigcine1.space:80/series/665861550/767176958/759071.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E26" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E26
+http://sigcine1.space:80/series/665861550/767176958/759615.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E27" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E27
+http://sigcine1.space:80/series/665861550/767176958/759616.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E28" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E28
+http://sigcine1.space:80/series/665861550/767176958/759617.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E29" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E29
+http://sigcine1.space:80/series/665861550/767176958/759618.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E30" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E30
+http://sigcine1.space:80/series/665861550/767176958/759619.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E31" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E31
+http://sigcine1.space:80/series/665861550/767176958/760924.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E32" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E32
+http://sigcine1.space:80/series/665861550/767176958/760925.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E33" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E33
+http://sigcine1.space:80/series/665861550/767176958/760926.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E34" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E34
+http://sigcine1.space:80/series/665861550/767176958/760927.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E35" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E35
+http://sigcine1.space:80/series/665861550/767176958/760928.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E36" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E36
+http://sigcine1.space:80/series/665861550/767176958/761712.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E37" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E37
+http://sigcine1.space:80/series/665861550/767176958/761713.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E38" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E38
+http://sigcine1.space:80/series/665861550/767176958/761714.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E39" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E39
+http://sigcine1.space:80/series/665861550/767176958/761715.mp4
+#EXTINF:-1 tvg-name="Beleza Fatal S01E40" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/zdD70NBF1yMgLlUTfyXgDVQ3tww.jpg" group-title="Series | Max",Beleza Fatal S01E40
+http://sigcine1.space:80/series/665861550/767176958/761716.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1923 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97YimtKZCD0bvHIG4YPgWo3OYar.jpg" group-title="Series | Paramount",1923 S01 E01
 http://xc.tvdecasa.top:80/series/Formigatv/266585/10670837.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1923 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97YimtKZCD0bvHIG4YPgWo3OYar.jpg" group-title="Series | Paramount",1923 S01 E02
