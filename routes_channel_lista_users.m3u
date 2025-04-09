@@ -59,16 +59,28 @@ http://pfsv.io:80/live/epg/epg/586.ts
 http://pfsv.io:80/live/epg/epg/595.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cazé TV  ᴴᴰ" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png" group-title="2 - ⚽   ESPORTES",Cazé TV  ᴴᴰ
 https://lvstr.cfd/cazetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | Paramount Plus" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | Paramount Plus
-http://saturno.bucarestshop.online:2095/live3/stlatv3/chunks.m3u8?token=1740615949_595253c011d9e965b5444a3741777b13bcaf1e8a
-#EXTINF:-1 tvg-id="" tvg-name="CANAIS | PARAMOUNT+ 1 HD" tvg-logo="http://jrj11.com/AOO5" group-title="2 - ⚽   ESPORTES",CANAIS | PARAMOUNT+ 1 HD³
-http://pfsv.io:80/live/epg/epg/197722.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAIS | PARAMOUNT+ 2 HD" tvg-logo="http://jrj11.com/AOO4" group-title="2 - ⚽   ESPORTES",CANAIS | PARAMOUNT+ 2 HD³
-http://pfsv.io:80/live/epg/epg/197721.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAIS | PARAMOUNT+ 3 HD" tvg-logo="http://jrj11.com/AOO3" group-title="2 - ⚽   ESPORTES",CANAIS | PARAMOUNT+ 3 HD³
-http://pfsv.io:80/live/epg/epg/197720.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAIS | Paramount+ 4 HD" tvg-logo="http://jrj11.com/AON5" group-title="2 - ⚽   ESPORTES",CANAIS | Paramount+ 4 HD³
-http://pfsv.io:80/live/epg/epg/134640.ts
+#EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 1
+##http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19071.ts
+#EXTINF:-1 tvg-id="90" tvg-name="Paramount+ 2" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19072.ts
+#EXTINF:-1 tvg-id="91" tvg-name="Paramount+ 3" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 3
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19073.ts
+#EXTINF:-1 tvg-id="92" tvg-name="Paramount+ 4" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 4
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19074.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 5" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 5
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19075.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 6" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 6
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19076.ts
+####EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | Paramount Plus" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | Paramount Plus
+###http://saturno.bucarestshop.online:2095/live3/stlatv3/chunks.m3u8?token=1740615949_595253c011d9e965b5444a3741777b13bcaf1e8a
+####EXTINF:-1 tvg-id="" tvg-name="CANAIS | PARAMOUNT+ 1 HD" tvg-logo="http://jrj11.com/AOO5" group-title="2 - ⚽   ESPORTES",CANAIS | PARAMOUNT+ 1 HD³
+###http://pfsv.io:80/live/epg/epg/197722.ts
+####EXTINF:-1 tvg-id="" tvg-name="CANAIS | PARAMOUNT+ 2 HD" tvg-logo="http://jrj11.com/AOO4" group-title="2 - ⚽   ESPORTES",CANAIS | PARAMOUNT+ 2 HD³
+###http://pfsv.io:80/live/epg/epg/197721.ts
+####EXTINF:-1 tvg-id="" tvg-name="CANAIS | PARAMOUNT+ 3 HD" tvg-logo="http://jrj11.com/AOO3" group-title="2 - ⚽   ESPORTES",CANAIS | PARAMOUNT+ 3 HD³
+###http://pfsv.io:80/live/epg/epg/197720.ts
+####EXTINF:-1 tvg-id="" tvg-name="CANAIS | Paramount+ 4 HD" tvg-logo="http://jrj11.com/AON5" group-title="2 - ⚽   ESPORTES",CANAIS | Paramount+ 4 HD³
+###http://pfsv.io:80/live/epg/epg/134640.ts
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="3 - 🗞️ NOTICIAS 24H", BAND NEWS
 http://pfsv.io:80/live/epg/epg/520.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FBfKyIn.png" group-title="3 - 🗞️ NOTICIAS 24H", RECORD NEWS
