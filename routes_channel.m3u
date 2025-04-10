@@ -61,6 +61,8 @@ http://pfsv.io:80/live/epg/epg/261.ts
 http://pfsv.io:80/live/epg/epg/258.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="2 - ⚽   ESPORTES", ESPN 4
 http://pfsv.io:80/live/epg/epg/262.ts
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="2 - ⚽   ESPORTES",ESPN 4 HD 
+http://zutufo.in:80/live/781487031/K788a6763d/223_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="2 - ⚽   ESPORTES", ESPN 5
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22013.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="2 - ⚽   ESPORTES", ESPN 6
