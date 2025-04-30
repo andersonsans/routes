@@ -81,6 +81,22 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19074.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19075.ts
 #EXTINF:-1 tvg-id="" tvg-name="Paramount+ 6" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 6
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19076.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 01³" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="2 - ⚽   ESPORTES",Amazon Prime Video 01³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19021.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 02³" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="2 - ⚽   ESPORTES",Amazon Prime Video 02³
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19022.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03³" tvg-logo="http://www.fontedecanais.vip/logos/canais/primevideo.png" group-title="2 - ⚽   ESPORTES",Amazon Prime Video 03³
+http://cdn11.cc:80/live/epg/epg/208971.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1 [FHD]" tvg-logo="http://lfpx.club/DPF5" group-title="2 - ⚽   ESPORTES",Prime Video 1 [FHD]
+http://cdn11.cc:80/live/epg/epg/208972.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2 [FHD]" tvg-logo="http://lfpx.club/DPF6" group-title="2 - ⚽   ESPORTES",Prime Video 2 [FHD]
+http://cdn11.cc:80/live/epg/epg/208973.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 3 [FHD]" tvg-logo="http://lfpx.club/DPF4" group-title="2 - ⚽   ESPORTES",Prime Video 3 [FHD]
+http://cdn11.cc:80/live/epg/epg/208971.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 4 [FHD]" tvg-logo="http://lfpx.club/DPF1" group-title="2 - ⚽   ESPORTES",Prime Video 4 [FHD]
+http://cdn11.cc:80/live/epg/epg/208968.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 5 [FHD]" tvg-logo="http://lfpx.club/DPF7" group-title="2 - ⚽   ESPORTES",Prime Video 5 [FHD]
+http://cdn11.cc:80/live/epg/epg/210171.ts
 ####EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | Paramount Plus" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | Paramount Plus
 ###http://saturno.bucarestshop.online:2095/live3/stlatv3/chunks.m3u8?token=1740615949_595253c011d9e965b5444a3741777b13bcaf1e8a
 ####EXTINF:-1 tvg-id="" tvg-name="CANAIS | PARAMOUNT+ 1 HD" tvg-logo="http://jrj11.com/AOO5" group-title="2 - ⚽   ESPORTES",CANAIS | PARAMOUNT+ 1 HD³
