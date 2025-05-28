@@ -107,6 +107,22 @@ http://cdn11.cc:80/live/epg/epg/210171.ts
 ###http://pfsv.io:80/live/epg/epg/197720.ts
 ####EXTINF:-1 tvg-id="" tvg-name="CANAIS | Paramount+ 4 HD" tvg-logo="http://jrj11.com/AON5" group-title="2 - ⚽   ESPORTES",CANAIS | Paramount+ 4 HD³
 ###http://pfsv.io:80/live/epg/epg/134640.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ HD
+http://fonte.lista.luxe:80/iptvgood/101011/4777
+#EXTINF:-1 tvg-id="Paramount+ HD" tvg-name="Paramount+ HD" tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ FHD
+http://fonte.lista.luxe:80/iptvgood/101011/4776
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 2 HD
+http://fonte.lista.luxe:80/iptvgood/101011/4779
+#EXTINF:-1 tvg-id="Paramount+ 2 HD" tvg-name="Paramount+ 2 HD" tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 2 FHD
+http://fonte.lista.luxe:80/iptvgood/101011/4778
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 3 HD
+http://fonte.lista.luxe:80/iptvgood/101011/4781
+#EXTINF:-1 tvg-id="Paramount+ 3 HD" tvg-name="Paramount+ 3 HD" tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 3 FHD
+http://fonte.lista.luxe:80/iptvgood/101011/4780
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 4 HD 
+http://fonte.lista.luxe:80/iptvgood/101011/4783
+#EXTINF:-1 tvg-id="Paramount+ 4 HD" tvg-name="Paramount+ 4 HD" tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 4 FHD
+http://fonte.lista.luxe:80/iptvgood/101011/4782
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="3 - 🗞️ NOTICIAS 24H", BAND NEWS
 http://pfsv.io:80/live/epg/epg/520.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FBfKyIn.png" group-title="3 - 🗞️ NOTICIAS 24H", RECORD NEWS
