@@ -86,23 +86,21 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19022.ts
 #EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03" tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="2 - ⚽   ESPORTES",Amazon Prime Video 03
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19023.ts
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/LTyY9kIRCaLD7WsNzFzjz4mCEBgIbOwsrlN0L0WW.png" group-title="3 - 🗞️ NOTICIAS 24H", BAND NEWS
-http://pfsv.io:80/live/epg/epg/520.ts
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25001.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FBfKyIn.png" group-title="3 - 🗞️ NOTICIAS 24H", RECORD NEWS
-http://pfsv.io:80/live/epg/epg/511.ts
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25013.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="3 - 🗞️ NOTICIAS 24H", GLOBO NEWS
-http://pfsv.io:80/live/epg/epg/512.ts
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25007.ts
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/yvn5yE3HZJJsx3vxT5g4eGlvo9ofpLuOu9o9cFmF.png" group-title="3 - 🗞️ NOTICIAS 24H", CNN NEWS
-http://pfsv.io:80/live/epg/epg/513.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="3 - 🗞️ NOTICIAS 24H", G1 NEWS
-http://pfsv.io:80/live/epg/epg/516.ts
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25004.ts
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/XOPt3bhwlhbPKO6PJ7RyJxZZkUV9j8UgWqfBbGik.png" group-title="4 - 📹   DOCUMENTÁRIOS", DISCOVERY
-http://pfsv.io:80/live/epg/epg/585.ts
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23010.ts
 #EXTINF:-1 tvg-logo="https://static.guiadetv.com/channel/QrnHAPvDoIBNihzZrxo6yCPr63I4voO2zga4q14l.png" group-title="4 - 📹   DOCUMENTÁRIOS", ANIMAL PLANET
-http://pfsv.io:80/live/epg/epg/588.ts
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23001.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_discovery-tlc_m.png" group-title="4 - 📹   DOCUMENTÁRIOS", TLC
-http://pfsv.io:80/live/epg/epg/314.ts
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12052.ts
 #EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery H&H
-http://pfsv.io:80/live/epg/epg/198.ts
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12014.ts
 #EXTINF:-1 tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/QE899aV.png" group-title="5 - 🎬 Filmes & Series", 🎬 Telecine Action
 http://pfsv.io:80/live/epg/epg/562.ts
 #EXTINF:-1 tvg-name="Telecine Cult" tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png" group-title="5 - 🎬 Filmes & Series", 🎬 Telecine Cult
