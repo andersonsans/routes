@@ -153,18 +153,30 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23001.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12052.ts
 #EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery H&H
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12014.ts
-#EXTINF:-1 tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/QE899aV.png" group-title="5 - 🎬 Filmes & Series", 🎬 Telecine Action
-http://pfsv.io:80/live/epg/epg/562.ts
-#EXTINF:-1 tvg-name="Telecine Cult" tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png" group-title="5 - 🎬 Filmes & Series", 🎬 Telecine Cult
-http://pfsv.io:80/live/epg/epg/567.ts
-#EXTINF:-1 tvg-name="Telecine Fun" tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png" group-title="5 - 🎬 Filmes & Series", 🎬 Telecine Fun 
-http://pfsv.io:80/live/epg/epg/563.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-logo="https://assets.meuguia.tv/logos/tc4.png" group-title="5 - 🎬 Filmes & Series", 🎬 Telecine Pipoca
-http://pfsv.io:80/live/epg/epg/564.ts
-#EXTINF:-1 tvg-name="Telecine Touch" tvg-logo="https://assets.meuguia.tv/logos/tc3.png" group-title="5 - 🎬 Filmes & Series", 🎬 Telecine Touch
-http://pfsv.io:80/live/epg/epg/566.ts
-#EXTINF:-1 tvg-name="Telecine Premium" tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png" group-title="5 - 🎬 Filmes & Series", 🎬 Telecine Premium
-http://pfsv.io:80/live/epg/epg/565.ts
+#EXTINF:-1 tvg-id="69" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="5 - 🎬 Filmes & Series",Telecine Action OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/15001.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR| TELECINE ACTION HD" tvg-logo="https://lo1.in/BR/telact.png" group-title="5 - 🎬 Filmes & Series",Telecine Action OPÇÃO 2
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171316.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="Telecine Cult HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinecult.png" group-title="5 - 🎬 Filmes & Series",Telecine Cult OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/15004.ts
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="BR| TELECINE CULT HD" tvg-logo="https://lo1.in/BR/telcu.png" group-title="5 - 🎬 Filmes & Series",Telecine Cult OPÇÃO 2
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171332.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="Telecine Fun HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinefun.png" group-title="5 - 🎬 Filmes & Series",Telecine Fun OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/15007.ts
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="BR| TELECINE FUN HD" tvg-logo="https://lo1.in/BR/telcef.png" group-title="5 - 🎬 Filmes & Series",Telecine Fun OPÇÃO 2
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171317.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="Telecine Pipoca HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinepipoca.png" group-title="5 - 🎬 Filmes & Series",Telecine Pipoca OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/15010.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| TELECINE PIPOCA HD" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="5 - 🎬 Filmes & Series",Telecine Pipoca OPÇÃO 2
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171318.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="Telecine Premium HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinepremium.png" group-title="5 - 🎬 Filmes & Series",Telecine Premium OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/15013.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="BR| TELECINE PREMIUM HD" tvg-logo="https://lo1.in/BR/telcnpr.png" group-title="5 - 🎬 Filmes & Series",Telecine Premium OPÇÃO 2
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171319.m3u8
+#EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinetouch.png" group-title="5 - 🎬 Filmes & Series",Telecine Touch HD OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/15016.ts
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="BR| TELECINE TOUCH HD" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="5 - 🎬 Filmes & Series",Telecine Touch HD OPÇÃO 2
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171320.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="5 - 🎬 Filmes & Series",HBO
 http://pfsv.io:80/live/epg/epg/471.ts
 #EXTINF:-1 tvg-name="HBO 2 SD" tvg-logo="https://i.imgur.com/MhhgwSD.png" group-title="5 - 🎬 Filmes & Series",HBO 2
