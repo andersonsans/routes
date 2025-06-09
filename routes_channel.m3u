@@ -138,9 +138,9 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19022.ts
 #EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03" tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="2 - ⚽   ESPORTES",Amazon Prime Video 03
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19023.ts
 #EXTINF:-1 tvg-id="6" tvg-name="Band News HD" tvg-logo="http://www.fontedecanais.org/logos/canais/bandnews.png" group-title="3 - 🗞️ NOTICIAS 24H",Band News OPÇÃO 1
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25001.ts
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25002.ts
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="BR| BAND NEWS HD" tvg-logo="https://lo1.in/BR/banns1.png" group-title="3 - 🗞️ NOTICIAS 24H",Band News OPÇÃO 2
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162311.m3u8
+https://aovivo.doozytv.com.br/31025556/10160454/chunks.m3u8
 #EXTINF:-1 tvg-id="182" tvg-name="Record News HD" tvg-logo="http://www.fontedecanais.org/logos/canais/recordnews.png" group-title="3 - 🗞️ NOTICIAS 24H",Record News OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25013.ts
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="BR| RECORD NEWS HD" tvg-logo="https://lo1.in/BR/rcord.png" group-title="3 - 🗞️ NOTICIAS 24H",Record News OPÇÃO 2
@@ -150,11 +150,11 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25007.ts
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="BR| GLOBO NEWS HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="3 - 🗞️ NOTICIAS 24H",Globo News OPÇÃO 2
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162406.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="CNN Brasil HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cnnbrasil.png" group-title="3 - 🗞️ NOTICIAS 24H",CNN Brasil OPÇÃO 1
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25004.ts
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="BR| CNN BRASIL HD" tvg-logo="https://lo1.in/BR/cnnbrs.png" group-title="3 - 🗞️ NOTICIAS 24H",CNN Brasil OPÇÃO 2
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162326.m3u8
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Discovery Channel HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Channel OPÇÃO 1
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23010.ts
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23011.ts
 #EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="BR| DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/BR/disch.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Channel OPÇÃO 2
 http://185.236.183.118:14144/
 #EXTINF:-1 tvg-id="15" tvg-name="Animal Planet HD" tvg-logo="http://www.fontedecanais.org/logos/canais/animalplanet.png" group-title="4 - 📹   DOCUMENTÁRIOS",Animal Planet OPÇÃO 1
@@ -166,7 +166,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12052.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR| DISCOVERY TLC HD" tvg-logo="https://lo1.in/BR/distlc.png" group-title="4 - 📹   DOCUMENTÁRIOS",TLC OPÇÃO 2
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162346.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryhh.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery H&H OPÇÃO 1
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12013.ts
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12014.ts
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="BR| DISCOVERY H&H HD" tvg-logo="https://lo1.in/arg/hhh.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery H&H OPÇÃO 2
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162341.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="Discovery Turbo HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryturbo.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Turbo OPÇÃO 1
@@ -187,8 +187,6 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23019.ts
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171337.m3u8
 #EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="BR| DISCOVERY ID-INVESTIGACAO HD" tvg-logo="https://lo1.in/BR/disinve.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Investigação
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162443.m3u8
-#EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://static.guiadetv.com/channel/YwjlkUM37rwLUZBW5IG5LRavDOay7OFlmEkQYAbp.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery H&H
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12014.ts
 #EXTINF:-1 tvg-id="69" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="5 - 🎬 Filmes & Series",Telecine Action OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/15001.ts
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR| TELECINE ACTION HD" tvg-logo="https://lo1.in/BR/telact.png" group-title="5 - 🎬 Filmes & Series",Telecine Action OPÇÃO 2
