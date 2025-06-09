@@ -33,17 +33,17 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/26004.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/26006.ts
 #EXTINF:-1 tvg-id="Rede.Brasil.HD.br" description="Programação Rede Brasil" tvg-logo="https://images2.imgbox.com/8c/35/6pGNBtM1_o.png" group-title="1 - 📺 TV ABERTA", REDE BRASIL
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://lo1.in/BR/sp1.png" group-title="2 - ⚽   ESPORTES",SPORTV OPÇÃO 1
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="2 - ⚽   ESPORTES",SPORTV OPÇÃO 1
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18659.ts
-#EXTINF:-1 tvg-id="SPORTV alternativo HD³" tvg-name="SPORTV alternativo HD³" tvg-logo="https://lo1.in/BR/sp1.png" group-title="2 - ⚽   ESPORTES",SPORTV OPÇÃO 2
+#EXTINF:-1 tvg-id="SPORTV alternativo HD³" tvg-name="SPORTV alternativo HD³" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="2 - ⚽   ESPORTES",SPORTV OPÇÃO 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21001.ts
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://lo1.in/BR/sp1.png" group-title="2 - ⚽   ESPORTES",SPORTV 2 OPÇÃO 1
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="2 - ⚽   ESPORTES",SPORTV 2 OPÇÃO 1
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/59177.ts
-#EXTINF:-1 tvg-id="SPORTV 2 alternativo HD³" tvg-name="SPORTV 2 alternativo HD³" tvg-logo="https://lo1.in/BR/sp1.png" group-title="2 - ⚽   ESPORTES",SPORTV 2 OPÇÃO 2
+#EXTINF:-1 tvg-id="SPORTV 2 alternativo HD³" tvg-name="SPORTV 2 alternativo HD³" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="2 - ⚽   ESPORTES",SPORTV 2 OPÇÃO 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21004.ts
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://lo1.in/BR/sp1.png" group-title="2 - ⚽   ESPORTES",SPORTV 3 OPÇÃO 1
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="2 - ⚽   ESPORTES",SPORTV 3 OPÇÃO 1
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18661.ts
-#EXTINF:-1 tvg-id="SPORTV 3 alternativo HD³" tvg-name="SPORTV 3 alternativo HD³" tvg-logo="https://lo1.in/BR/sp1.png" group-title="2 - ⚽   ESPORTES",SPORTV 3 OPÇÃO 2
+#EXTINF:-1 tvg-id="SPORTV 3 alternativo HD³" tvg-name="SPORTV 3 alternativo HD³" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="2 - ⚽   ESPORTES",SPORTV 3 OPÇÃO 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21007.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAIS | PREMIERE CLUBES HD [ALT]" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE CLUBES
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/65745.ts
