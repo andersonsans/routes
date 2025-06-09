@@ -33,75 +33,79 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/26004.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/26006.ts
 #EXTINF:-1 tvg-id="Rede.Brasil.HD.br" description="Programação Rede Brasil" tvg-logo="https://images2.imgbox.com/8c/35/6pGNBtM1_o.png" group-title="1 - 📺 TV ABERTA", REDE BRASIL
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://prostore.app/logos/sportv.png" group-title="2 - ⚽   ESPORTES",SPORTV HD³
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://lo1.in/BR/sp1.png" group-title="2 - ⚽   ESPORTES",SPORTV OPÇÃO 1
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18659.ts
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://prostore.app/logos/sportv.png" group-title="2 - ⚽   ESPORTES",SPORTV HD³ OPÇÃO 2
-http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/65744.ts
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="2 - ⚽   ESPORTES",SPORTV 2 HD³
+#EXTINF:-1 tvg-id="SPORTV alternativo HD³" tvg-name="SPORTV alternativo HD³" tvg-logo="https://lo1.in/BR/sp1.png" group-title="2 - ⚽   ESPORTES",SPORTV OPÇÃO 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21001.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="https://lo1.in/BR/sp1.png" group-title="2 - ⚽   ESPORTES",SPORTV 2 OPÇÃO 1
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/59177.ts
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://prostore.app/logos/sportv.png" group-title="2 - ⚽   ESPORTES",SPORTV 3 HD³
+#EXTINF:-1 tvg-id="SPORTV 2 alternativo HD³" tvg-name="SPORTV 2 alternativo HD³" tvg-logo="https://lo1.in/BR/sp1.png" group-title="2 - ⚽   ESPORTES",SPORTV 2 OPÇÃO 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21004.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="https://lo1.in/BR/sp1.png" group-title="2 - ⚽   ESPORTES",SPORTV 3 OPÇÃO 1
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18661.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAIS | PREMIERE CLUBES HD [ALT]" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE CLUBES HD³
+#EXTINF:-1 tvg-id="SPORTV 3 alternativo HD³" tvg-name="SPORTV 3 alternativo HD³" tvg-logo="https://lo1.in/BR/sp1.png" group-title="2 - ⚽   ESPORTES",SPORTV 3 OPÇÃO 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21007.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS | PREMIERE CLUBES HD [ALT]" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE CLUBES
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/65745.ts
-#EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 2 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 2 HD³
+#EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 2 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 2
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18951.ts
-#EXTINF:-1 tvg-id="PR3UBE" tvg-name="CANAIS | PREMIERE 3 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 3 HD³
+#EXTINF:-1 tvg-id="PR3UBE" tvg-name="CANAIS | PREMIERE 3 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 3
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18854.ts
-#EXTINF:-1 tvg-id="PRMR4" tvg-name="CANAIS | PREMIERE 4 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 4 HD³
+#EXTINF:-1 tvg-id="PRMR4" tvg-name="CANAIS | PREMIERE 4 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 4
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18855.ts
-#EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 5 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 5 HD³
+#EXTINF:-1 tvg-id="PR2SPO" tvg-name="CANAIS | PREMIERE 5 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 5
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18856.ts
-#EXTINF:-1 tvg-id="PRM6BR" tvg-name="CANAIS | PREMIERE 6 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 6 HD³
+#EXTINF:-1 tvg-id="PRM6BR" tvg-name="CANAIS | PREMIERE 6 FHD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 6
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18857.ts
-#EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 7 HD³
+#EXTINF:-1 tvg-id="PRM7BR" tvg-name="CANAIS | PREMIERE 7 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="2 - ⚽   ESPORTES",CANAIS | PREMIERE 7
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18858.ts
-#EXTINF:-1 tvg-id="107" tvg-name="﻿Premiere 1 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",﻿Premiere 1 FHD
+#EXTINF:-1 tvg-id="107" tvg-name="﻿Premiere 1 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",﻿Premiere 1 OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20000.ts
-#EXTINF:-1 tvg-id="107" tvg-name="Premiere 1 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 1 HD
+#EXTINF:-1 tvg-id="107" tvg-name="Premiere 1 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 1 OPÇÃO 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20001.ts
-#EXTINF:-1 tvg-id="107" tvg-name="Premiere 1 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 1 SD
+#EXTINF:-1 tvg-id="107" tvg-name="Premiere 1 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 1 OPÇÃO 3
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20002.ts
-#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 2 FHD
+#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 2 OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20003.ts
-#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 2 HD
+#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 2 OPÇÃO 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20004.ts
-#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 2 SD
+#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 2 OPÇÃO 3
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20005.ts
-#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 3 FHD
+#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 3 OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20006.ts
-#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 3 HD
+#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 3 OPÇÃO 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20007.ts
-#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 3 SD
+#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 3 OPÇÃO 3
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20008.ts
-#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 4 FHD
+#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 4 OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20009.ts
-#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 4 HD
+#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 4 OPÇÃO 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20010.ts
-#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 4 SD
+#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 4 OPÇÃO 3
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20011.ts
-#EXTINF:-1 tvg-id="111" tvg-name="Premiere 5 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 5 FHD
+#EXTINF:-1 tvg-id="111" tvg-name="Premiere 5 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 5 OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20012.ts
-#EXTINF:-1 tvg-id="111" tvg-name="Premiere 5 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 5 HD
+#EXTINF:-1 tvg-id="111" tvg-name="Premiere 5 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 5 OPÇÃO 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20013.ts
-#EXTINF:-1 tvg-id="111" tvg-name="Premiere 5 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 5 SD
+#EXTINF:-1 tvg-id="111" tvg-name="Premiere 5 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 5 OPÇÃO 3
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20014.ts
-#EXTINF:-1 tvg-id="112" tvg-name="Premiere 6 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 6 FHD
+#EXTINF:-1 tvg-id="112" tvg-name="Premiere 6 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 6 OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20015.ts
-#EXTINF:-1 tvg-id="112" tvg-name="Premiere 6 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 6 HD
+#EXTINF:-1 tvg-id="112" tvg-name="Premiere 6 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 6 OPÇÃO 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20016.ts
-#EXTINF:-1 tvg-id="112" tvg-name="Premiere 6 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 6 SD
+#EXTINF:-1 tvg-id="112" tvg-name="Premiere 6 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 6 OPÇÃO 3
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20017.ts
-#EXTINF:-1 tvg-id="113" tvg-name="Premiere 7 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 7 FHD
+#EXTINF:-1 tvg-id="113" tvg-name="Premiere 7 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 7 OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20018.ts
-#EXTINF:-1 tvg-id="113" tvg-name="Premiere 7 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 7 HD
+#EXTINF:-1 tvg-id="113" tvg-name="Premiere 7 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 7 OPÇÃO 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20019.ts
-#EXTINF:-1 tvg-id="113" tvg-name="Premiere 7 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 7 SD
+#EXTINF:-1 tvg-id="113" tvg-name="Premiere 7 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 7 OPÇÃO 3
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20020.ts
-#EXTINF:-1 tvg-id="351" tvg-name="Premiere 8 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 8 FHD
+#EXTINF:-1 tvg-id="351" tvg-name="Premiere 8 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 8 OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20021.ts
-#EXTINF:-1 tvg-id="351" tvg-name="Premiere 8 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 8 HD
+#EXTINF:-1 tvg-id="351" tvg-name="Premiere 8 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 8 OPÇÃO 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20022.ts
-#EXTINF:-1 tvg-id="351" tvg-name="Premiere 8 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 8 SD
+#EXTINF:-1 tvg-id="351" tvg-name="Premiere 8 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="2 - ⚽   ESPORTES",Premiere 8 OPÇÃO 3
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/20023.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="2 - ⚽   ESPORTES", ESPN OPÇÃO 1
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/153012.ts
