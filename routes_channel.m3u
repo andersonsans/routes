@@ -3379,28 +3379,87 @@ http://hubby.run/series/atvRibeiro-vods/dcl9DH5rnV/165696.mp4
 http://hubby.run/series/atvRibeiro-vods/dcl9DH5rnV/165697.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Presença de Anita (2001) S01 E16" tvg-logo="https://image.tmdb.org/t/p/w780/ydrjCb8C8KhT6Sk7mk8Uggtfo1l.jpg" group-title="Series | Outras Produtoras",Presença de Anita (2001) S01 E16
 http://hubby.run/series/atvRibeiro-vods/dcl9DH5rnV/165698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 01 [HD]" tvg-logo="http://jrj11.com/KQJ4" group-title="Canais | BBB 25",BBB CAM 01 [HD]
-http://pfsv.io:80/live/epg/epg/259872.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 02 [HD]" tvg-logo="http://jrj11.com/KQJ5" group-title="Canais | BBB 25",BBB CAM 02 [HD]
-http://pfsv.io:80/live/epg/epg/259873.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 03 [HD]" tvg-logo="http://jrj11.com/KQJ6" group-title="Canais | BBB 25",BBB CAM 03 [HD]
-http://pfsv.io:80/live/epg/epg/259874.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 04  [HD]" tvg-logo="http://jrj11.com/KQJ7" group-title="Canais | BBB 25",BBB CAM 04  [HD]
-http://pfsv.io:80/live/epg/epg/259875.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 05 [HD]" tvg-logo="http://jrj11.com/KQJ8" group-title="Canais | BBB 25",BBB CAM 05 [HD]
-http://pfsv.io:80/live/epg/epg/259876.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 06 [HD]" tvg-logo="http://jrj11.com/KQJ9" group-title="Canais | BBB 25",BBB CAM 06 [HD]
-http://pfsv.io:80/live/epg/epg/259877.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 07 [HD]" tvg-logo="http://jrj11.com/KQK0" group-title="Canais | BBB 25",BBB CAM 07 [HD]
-http://pfsv.io:80/live/epg/epg/259878.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 08 [HD]" tvg-logo="http://jrj11.com/KQK1" group-title="Canais | BBB 25",BBB CAM 08 [HD]
-http://pfsv.io:80/live/epg/epg/259879.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 09 [HD]" tvg-logo="http://jrj11.com/KQK2" group-title="Canais | BBB 25",BBB CAM 09 [HD]
-http://pfsv.io:80/live/epg/epg/259880.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 10 [HD]" tvg-logo="http://jrj11.com/KQK3" group-title="Canais | BBB 25",BBB CAM 10 [HD]
-http://pfsv.io:80/live/epg/epg/259881.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO [HD]" tvg-logo="http://jrj11.com/KQJ3" group-title="Canais | BBB 25",BBB MOSAICO [HD]
-http://pfsv.io:80/live/epg/epg/259871.ts
+
+#EXTINF:-1 tvg-name="Spartacus S01E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S01E01
+http://sigcine1.space:80/series/665861550/767176958/541208.mp4
+#EXTINF:-1 tvg-name="Spartacus S01E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S01E02
+http://sigcine1.space:80/series/665861550/767176958/541209.mp4
+#EXTINF:-1 tvg-name="Spartacus S01E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S01E03
+http://sigcine1.space:80/series/665861550/767176958/541210.mp4
+#EXTINF:-1 tvg-name="Spartacus S01E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S01E04
+http://sigcine1.space:80/series/665861550/767176958/541211.mp4
+#EXTINF:-1 tvg-name="Spartacus S01E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S01E05
+http://sigcine1.space:80/series/665861550/767176958/541212.mp4
+#EXTINF:-1 tvg-name="Spartacus S01E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S01E06
+http://sigcine1.space:80/series/665861550/767176958/541213.mp4
+#EXTINF:-1 tvg-name="Spartacus S01E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S01E07
+http://sigcine1.space:80/series/665861550/767176958/541214.mp4
+#EXTINF:-1 tvg-name="Spartacus S01E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S01E08
+http://sigcine1.space:80/series/665861550/767176958/541215.mp4
+#EXTINF:-1 tvg-name="Spartacus S01E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S01E09
+http://sigcine1.space:80/series/665861550/767176958/541216.mp4
+#EXTINF:-1 tvg-name="Spartacus S01E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S01E10
+http://sigcine1.space:80/series/665861550/767176958/541217.mp4
+#EXTINF:-1 tvg-name="Spartacus S01E11" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S01E11
+http://sigcine1.space:80/series/665861550/767176958/541218.mp4
+#EXTINF:-1 tvg-name="Spartacus S01E12" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S01E12
+http://sigcine1.space:80/series/665861550/767176958/541219.mp4
+#EXTINF:-1 tvg-name="Spartacus S01E13" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S01E13
+http://sigcine1.space:80/series/665861550/767176958/541220.mp4
+#EXTINF:-1 tvg-name="Spartacus S02E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S02E01
+http://sigcine1.space:80/series/665861550/767176958/541221.mp4
+#EXTINF:-1 tvg-name="Spartacus S02E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S02E02
+http://sigcine1.space:80/series/665861550/767176958/541222.mp4
+#EXTINF:-1 tvg-name="Spartacus S02E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S02E03
+http://sigcine1.space:80/series/665861550/767176958/541223.mp4
+#EXTINF:-1 tvg-name="Spartacus S02E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S02E04
+http://sigcine1.space:80/series/665861550/767176958/541224.mp4
+#EXTINF:-1 tvg-name="Spartacus S02E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S02E05
+http://sigcine1.space:80/series/665861550/767176958/541225.mp4
+#EXTINF:-1 tvg-name="Spartacus S02E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S02E06
+http://sigcine1.space:80/series/665861550/767176958/541226.mp4
+#EXTINF:-1 tvg-name="Spartacus S02E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S02E07
+http://sigcine1.space:80/series/665861550/767176958/541227.mp4
+#EXTINF:-1 tvg-name="Spartacus S02E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S02E08
+http://sigcine1.space:80/series/665861550/767176958/541228.mp4
+#EXTINF:-1 tvg-name="Spartacus S02E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S02E09
+http://sigcine1.space:80/series/665861550/767176958/541229.mp4
+#EXTINF:-1 tvg-name="Spartacus S02E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S02E10
+http://sigcine1.space:80/series/665861550/767176958/541230.mp4
+#EXTINF:-1 tvg-name="Spartacus S03E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S03E01
+http://sigcine1.space:80/series/665861550/767176958/541231.mp4
+#EXTINF:-1 tvg-name="Spartacus S03E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S03E02
+http://sigcine1.space:80/series/665861550/767176958/541232.mp4
+#EXTINF:-1 tvg-name="Spartacus S03E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S03E03
+http://sigcine1.space:80/series/665861550/767176958/541233.mp4
+#EXTINF:-1 tvg-name="Spartacus S03E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S03E04
+http://sigcine1.space:80/series/665861550/767176958/541234.mp4
+#EXTINF:-1 tvg-name="Spartacus S03E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S03E05
+http://sigcine1.space:80/series/665861550/767176958/541235.mp4
+#EXTINF:-1 tvg-name="Spartacus S03E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S03E06
+http://sigcine1.space:80/series/665861550/767176958/541236.mp4
+#EXTINF:-1 tvg-name="Spartacus S03E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S03E07
+http://sigcine1.space:80/series/665861550/767176958/541237.mp4
+#EXTINF:-1 tvg-name="Spartacus S03E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S03E08
+http://sigcine1.space:80/series/665861550/767176958/541238.mp4
+#EXTINF:-1 tvg-name="Spartacus S03E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S03E09
+http://sigcine1.space:80/series/665861550/767176958/541239.mp4
+#EXTINF:-1 tvg-name="Spartacus S03E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S03E10
+http://sigcine1.space:80/series/665861550/767176958/541240.mp4
+#EXTINF:-1 tvg-name="Spartacus S04E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S04E01
+http://sigcine1.space:80/series/665861550/767176958/541241.mp4
+#EXTINF:-1 tvg-name="Spartacus S04E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S04E02
+http://sigcine1.space:80/series/665861550/767176958/541242.mp4
+#EXTINF:-1 tvg-name="Spartacus S04E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S04E03
+http://sigcine1.space:80/series/665861550/767176958/541243.mp4
+#EXTINF:-1 tvg-name="Spartacus S04E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S04E04
+http://sigcine1.space:80/series/665861550/767176958/541244.mp4
+#EXTINF:-1 tvg-name="Spartacus S04E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S04E05
+http://sigcine1.space:80/series/665861550/767176958/541245.mp4
+#EXTINF:-1 tvg-name="Spartacus S04E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mbHsHNKHfc8xIq1naQ6rxXIaSdo.jpg" group-title="Series | Netflix",Spartacus S04E06
+http://sigcine1.space:80/series/665861550/767176958/541246.mp4
+
+
 ############################################################################ SENNA  01
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E01
