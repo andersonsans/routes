@@ -3479,3 +3479,7 @@ http://shd12.oneplayer.site/token/SHD12/211039/1x.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E06
 http://shd12.oneplayer.site/token/SHD12/211039/1x6.mp4
+
+############################################################################ FILMES
+#EXTINF:-1 tvg-name="A Chamada" tvg-logo="http://timg.imagecdn.sh//t/p/w600_and_h900_bestv2/tLONoNwwWSIJfRgsZE9Am7piNLc.jpg" group-title="Filmes | Ação",A Chamada
+http://sigcine1.space:80/movie/665861550/767176958/741888.mp4
