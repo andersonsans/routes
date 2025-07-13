@@ -301,6 +301,10 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171323.m3u8
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13022.ts
 #EXTINF:-1 tvg-id="sony.br" tvg-name="BR| SONY HD" tvg-logo="https://lo1.in/BR/sny.png" group-title="5 - 🎬 Filmes & Series",Sony OPÇÃO 1
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/sonymovies.png" group-title="5 - 🎬 Filmes & Series",Sony Movies Opção 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13024.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" tvg-logo="http://www.fontedecanais.org/logos/canais/sonymovies.png" group-title="5 - 🎬 Filmes & Series",Sony Movies Opção 2
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13025.ts
 #EXTINF:-1 tvg-id="178" tvg-name="Cinemax HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cinemax.png" group-title="5 - 🎬 Filmes & Series",Cinemax OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13010.ts
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="BR| CINEMAX HD" tvg-logo="https://lo1.in/BR/cinmx.png" group-title="5 - 🎬 Filmes & Series",Cinemax OPÇÃO 2
