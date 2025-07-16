@@ -203,6 +203,22 @@ http://bpbe.one:80/5627286/43199/187.ts
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120609
 #EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="BR| DISCOVERY ID-INVESTIGACAO HD" tvg-logo="https://lo1.in/BR/disinve.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Investigação OPÇÃO 2
 http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120609
+#EXTINF:-1 tvg-id="98" tvg-name="Multishow HD" tvg-logo="http://www.fontedecanais.org/logos/canais/multishow.png" group-title="4 - 📹   DOCUMENTÁRIOS",Multishow OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12046.ts
+#EXTINF:-1 tvg-id="BR - Multishow" tvg-name="MULTISHOW [HD]" tvg-logo="http://cc90.one/AFO" group-title="4 - 📹   DOCUMENTÁRIOS",MULTISHOW OPÇÃO 2
+http://bpbe.one:80/5627286/43199/16.ts
+#EXTINF:-1 tvg-id="96" tvg-name="Off HD" tvg-logo="http://www.fontedecanais.org/logos/canais/off.png" group-title="4 - 📹   DOCUMENTÁRIOS",Off OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12049.ts
+#EXTINF:-1 tvg-id="BR - Off" tvg-name="OFF [HD]" tvg-logo="http://cc90.one/WJL" group-title="4 - 📹   DOCUMENTÁRIOS",OFF OPÇÃO 2
+http://bpbe.one:80/5627286/43199/264.ts
+#EXTINF:-1 tvg-id="99" tvg-name="Viva HD" tvg-logo="http://www.fontedecanais.org/logos/canais/viva.png" group-title="4 - 📹   DOCUMENTÁRIOS",Viva OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12061.ts
+#EXTINF:-1 tvg-id="BR - VIVA" tvg-name="VIVA [HD]" tvg-logo="http://cc90.one/AJD" group-title="4 - 📹   DOCUMENTÁRIOS",VIVA OPÇÃO 2
+http://bpbe.one:80/5627286/43199/114.ts
+#EXTINF:-1 tvg-id="22" tvg-name="MTV HD" tvg-logo="http://www.fontedecanais.org/logos/canais/mtv.png" group-title="4 - 📹   DOCUMENTÁRIOS",MTV OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12037.ts
+#EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV [HD]" tvg-logo="http://cc90.one/VAK" group-title="4 - 📹   DOCUMENTÁRIOS",MTV OPÇÃO 2
+http://bpbe.one:80/5627286/43199/15.ts
 #EXTINF:-1 tvg-id="69" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="5 - 🎬 Filmes & Series",Telecine Action OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/15001.ts
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR| TELECINE ACTION HD" tvg-logo="https://lo1.in/BR/telact.png" group-title="5 - 🎬 Filmes & Series",Telecine Action OPÇÃO 2
