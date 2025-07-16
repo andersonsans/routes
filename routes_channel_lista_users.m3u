@@ -29,10 +29,20 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17013.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17022.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W3oI8p3.png" group-title="1 - 📺 TV ABERTA", REDE VIDA
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/26004.ts
+#EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [HD]" tvg-logo="http://cc90.one/AYC" group-title="1 - 📺 TV ABERTA", REDE VIDA OPÇÃO 2
+http://bpbe.one:80/5627286/43199/547.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/egU0jsZ.png" group-title="1 - 📺 TV ABERTA", TV APARECIDA
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/26006.ts
-#EXTINF:-1 tvg-id="Rede.Brasil.HD.br" description="Programação Rede Brasil" tvg-logo="https://images2.imgbox.com/8c/35/6pGNBtM1_o.png" group-title="1 - 📺 TV ABERTA", REDE BRASIL
+#EXTINF:-1 tvg-id="BR - TV Aparecida" tvg-name="TV APARECIDA [SD]" tvg-logo="http://cc90.one/VPS" group-title="1 - 📺 TV ABERTA", TV APARECIDA OPÇÃO 2
+http://bpbe.one:80/5627286/43199/548.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil [HD]" tvg-logo="http://cc90.one/NRM3" group-title="1 - 📺 TV ABERTA", REDE BRASIL
+http://bpbe.one:80/5627286/43199/300986.ts
+#EXTINF:-1 tvg-id="Rede.Brasil.HD.br" description="Programação Rede Brasil" tvg-logo="https://images2.imgbox.com/8c/35/6pGNBtM1_o.png" group-title="1 - 📺 TV ABERTA", REDE BRASIL OPÇÃO 2
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede TV! 4K" tvg-logo="http://cc90.one/NNS8" group-title="1 - 📺 TV ABERTA",Rede TV OPÇÃO 1
+http://bpbe.one:80/5627286/43199/300478.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE TV" tvg-logo="" group-title="1 - 📺 TV ABERTA",Rede TV OPÇÃO 2
+http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120733
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD [ALT]" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="2 - ⚽   ESPORTES",SPORTV OPÇÃO 1
 http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/18659.ts
 #EXTINF:-1 tvg-id="SPORTV alternativo HD³" tvg-name="SPORTV alternativo HD³" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="2 - ⚽   ESPORTES",SPORTV OPÇÃO 2
