@@ -170,37 +170,39 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Discovery Channel HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Channel OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23011.ts
 #EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="BR| DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/BR/disch.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Channel OPÇÃO 2
-http://185.236.183.118:14144/
+http://bpbe.one:80/5627286/43199/181.ts
 #EXTINF:-1 tvg-id="15" tvg-name="Animal Planet HD" tvg-logo="http://www.fontedecanais.org/logos/canais/animalplanet.png" group-title="4 - 📹   DOCUMENTÁRIOS",Animal Planet OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23001.ts
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="BR| ANIMAL PLANET HD" tvg-logo="https://lo1.in/BR/anmpl.png" group-title="4 - 📹   DOCUMENTÁRIOS",Animal Planet OPÇÃO 2
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331279.m3u8
+http://bpbe.one:80/5627286/43199/179.ts
 #EXTINF:-1 tvg-id="12" tvg-name="TLC HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tlc.png" group-title="4 - 📹   DOCUMENTÁRIOS",TLC OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12052.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR| DISCOVERY TLC HD" tvg-logo="https://lo1.in/BR/distlc.png" group-title="4 - 📹   DOCUMENTÁRIOS",TLC OPÇÃO 2
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162346.m3u8
+http://bpbe.one:80/5627286/43199/314.ts
 #EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryhh.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery H&H OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12014.ts
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="BR| DISCOVERY H&H HD" tvg-logo="https://lo1.in/arg/hhh.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery H&H OPÇÃO 2
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162341.m3u8
+http://bpbe.one:80/5627286/43199/183.ts
 #EXTINF:-1 tvg-id="18" tvg-name="Discovery Turbo HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryturbo.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Turbo OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12016.ts
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="BR| DISCOVERY TURBO HD" tvg-logo="https://lo1.in/BR/distrb.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Turbo OPÇÃO 2
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171334.m3u8
+http://bpbe.one:80/5627286/43199/186.ts
 #EXTINF:-1 tvg-id="116" tvg-name="Discovery Science HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryscience.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Science OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23013.ts
 #EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="BR| DISCOVERY SCIENCE HD" tvg-logo="https://lo1.in/BR/dissci.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Science OPÇÃO 1
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162344.m3u8
+http://bpbe.one:80/5627286/43199/184.ts
 #EXTINF:-1 tvg-id="117" tvg-name="Discovery Theater HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverytheater.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Theater OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23016.ts
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="BR| DISCOVERY THEATER HD" tvg-logo="https://lo1.in/BR/disthe.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Theater OPÇÃO 2
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171336.m3u8
+http://bpbe.one:80/5627286/43199/185.ts
 #EXTINF:-1 tvg-id="118" tvg-name="Discovery World HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryworld.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery World OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23019.ts
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="BR| DISCOVERY WORLD HD" tvg-logo="https://lo1.in/BR/diswrd.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery World OPÇÃO 2
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171337.m3u8
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="BR| DISCOVERY ID-INVESTIGACAO HD" tvg-logo="https://lo1.in/BR/disinve.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Investigação
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162443.m3u8
+http://bpbe.one:80/5627286/43199/187.ts
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="BR| DISCOVERY ID-INVESTIGACAO HD" tvg-logo="https://lo1.in/BR/disinve.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Investigação OPÇÃO 1
+http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120609
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="BR| DISCOVERY ID-INVESTIGACAO HD" tvg-logo="https://lo1.in/BR/disinve.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Investigação OPÇÃO 2
+http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120609
 #EXTINF:-1 tvg-id="69" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="5 - 🎬 Filmes & Series",Telecine Action OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/15001.ts
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR| TELECINE ACTION HD" tvg-logo="https://lo1.in/BR/telact.png" group-title="5 - 🎬 Filmes & Series",Telecine Action OPÇÃO 2
@@ -329,10 +331,46 @@ http://7semfronteiras.cc:8080/julia3387/jpc374856/22616
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13049.ts
 #EXTINF:-1 tvg-id="universal.br" tvg-name="BR| UNIVERSAL CHANNEL HD" tvg-logo="https://lo1.in/BR/univch.png" group-title="5 - 🎬 Filmes & Series",Studio Universal OPÇÃO 2
 http://7semfronteiras.cc:8080/julia3387/jpc374856/121370
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zhiyQzz.png" group-title="👶 INFANTIL", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zhiyQzz.png" group-title="👶 INFANTIL", CARTOON NETWORK OPÇÃO 1
 http://bpbe.one:80/5627286/43199/591.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="👶 INFANTIL",Cartoon Network HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="👶 INFANTIL",Cartoon Network OPÇÃO 2
 http://7semfronteiras.cc:8080/julia3387/jpc374856/121370
+#EXTINF:-1 tvg-id="1" tvg-name="Discovery Kids HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverykids.png" group-title="👶 INFANTIL",Discovery Kids OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/24010.ts
+#EXTINF:-1 tvg-id="BR - Discovery Kids" tvg-name="DISCOVERY KIDS [HD]" tvg-logo="http://cc90.one/AKD" group-title="👶 INFANTIL",DISCOVERY KIDS OPÇÃO 2
+http://bpbe.one:80/5627286/43199/140.ts
+#EXTINF:-1 tvg-id="11" tvg-name="Cartoonito HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cartoonito.png" group-title="👶 INFANTIL",Cartoonito OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/24007.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoonito.HD.br" tvg-name="CARTOONITO [HD]" tvg-logo="http://cc90.one/AKB" group-title="👶 INFANTIL",Cartoonito OPÇÃO 2
+http://bpbe.one:80/5627286/43199/138.ts
+#EXTINF:-1 tvg-id="93" tvg-name="Gloob HD" tvg-logo="http://www.fontedecanais.org/logos/canais/gloob.png" group-title="👶 INFANTIL",Gloob OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/24016.ts
+#EXTINF:-1 tvg-id="BR - Gloob" tvg-name="GLOOB [HD]" tvg-logo="http://cc90.one/AKE" group-title="👶 INFANTIL",Gloob OPÇÃO 2
+http://bpbe.one:80/5627286/43199/142.ts
+#EXTINF:-1 tvg-id="94" tvg-name="Gloobinho HD" tvg-logo="http://www.fontedecanais.org/logos/canais/gloobinho.png" group-title="👶 INFANTIL",Gloobinho OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/24019.ts
+#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [HD]" tvg-logo="http://cc90.one/BQO" group-title="👶 INFANTIL",Gloobinho OPÇÃO 2
+http://bpbe.one:80/5627286/43199/1068.ts
+#EXTINF:-1 tvg-id="17" tvg-name="Nick Jr HD" tvg-logo="http://www.fontedecanais.org/logos/canais/nickjr.png" group-title="👶 INFANTIL",Nick Jr OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/24022.ts
+#EXTINF:-1 tvg-id="BR - Nick Jr." tvg-name="NICK JR [HD]" tvg-logo="http://cc90.one/AKG" group-title="👶 INFANTIL",Nick Jr OPÇÃO 2
+http://bpbe.one:80/5627286/43199/144.ts
+#EXTINF:-1 tvg-id="3" tvg-name="Nickelodeon HD" tvg-logo="http://www.fontedecanais.org/logos/canais/nickelodeon.png" group-title="👶 INFANTIL",Nickelodeon OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/24025.ts
+#EXTINF:-1 tvg-id="BR - Nickelodeon" tvg-name="NICKELODEON [HD]" tvg-logo="http://cc90.one/AKH" group-title="👶 INFANTIL",Nickelodeon OPÇÃO 2
+http://bpbe.one:80/5627286/43199/145.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tooncast.png" group-title="👶 INFANTIL",Tooncast OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/24028.ts
+#EXTINF:-1 tvg-id="BR - Tooncast" tvg-name="TOONCAST [SD]" tvg-logo="http://cc90.one/AKV" group-title="👶 INFANTIL",Tooncast OPÇÃO 2
+http://bpbe.one:80/5627286/43199/160.ts
+#EXTINF:-1 tvg-id="49" tvg-name="ZooMoo HD" tvg-logo="http://www.fontedecanais.org/logos/canais/zoomoo.png" group-title="👶 INFANTIL",ZooMoo OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/24031.ts
+#EXTINF:-1 tvg-id="BR - Zoomoo" tvg-name="ZOOMOO [HD]" tvg-logo="http://cc90.one/WJH" group-title="👶 INFANTIL",ZooMoo OPÇÃO 2
+http://bpbe.one:80/5627286/43199/108987.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Rá Tim Bum HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tvratimbum.png" group-title="👶 INFANTIL",TV Rá Tim Bum OPÇÃO 1
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/24040.ts
+#EXTINF:-1 tvg-id="BR - TV Rá Tim Bum! HD" tvg-name="TV RA-TIM-BUM [HD]" tvg-logo="http://cc90.one/AKJ" group-title="👶 INFANTIL",TV Rá Tim Bum OPÇÃO 2
+http://bpbe.one:80/5627286/43199/148.ts
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS | PLUTO",Pluto TV Cine Sucessos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 #EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS | PLUTO",Pluto TV Filmes Ação
