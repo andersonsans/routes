@@ -167,6 +167,10 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19022.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19023.ts
 #EXTINF:-1 tvg-id="" tvg-name="Jogo Bahia" tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="2 - ⚽   ESPORTES",Jogo Bahia
 http://kobe.kaseline.shop:2095/live5/premiereclubes/chunks.m3u8?token=1755481528_13db3cb1d59d0b8b6048123df1857cf4e2b5cb4b
+#EXTINF:-1 tvg-id="" tvg-name="Jogo Bahia" tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="2 - ⚽   ESPORTES",Jogo Bahia Opção 2
+http://kobe.kaseline.shop:2095/live/premiereclubes/chunks.m3u8?token=1755481925_d86a578b3f949d6f737dc31238cb3cb477f88d88
+#EXTINF:-1 tvg-id="" tvg-name="Jogo Bahia" tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="2 - ⚽   ESPORTES",Jogo Bahia Opção 3
+http://kobe.kaseline.shop:2095/live5/sportv/chunks.m3u8?token=1755481925_182eca944b0799fe7dfe68d39fe8f8c32bf1ca8c
 #EXTINF:-1 tvg-id="6" tvg-name="Band News HD" tvg-logo="http://www.fontedecanais.org/logos/canais/bandnews.png" group-title="3 - 🗞️ NOTICIAS 24H",Band News OPÇÃO 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25002.ts
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="BR| BAND NEWS HD" tvg-logo="https://lo1.in/BR/banns1.png" group-title="3 - 🗞️ NOTICIAS 24H",Band News OPÇÃO 2
