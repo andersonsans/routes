@@ -709,202 +709,322 @@ https://stitcher.pluto.tv/stitch/hls/channel/6047ff2e5e61cf000784e4da/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
 #EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-name="Pluto TV Karaokê por Stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="CANAIS | PLUTO",TV Karaokê por Stingray
 https://stitcher.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d98500b0-ca58-11ed-a3ff-deeae71cb583
-#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",3 PALAVRINHAS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595282
-#EXTINF:-1 tvg-id="" tvg-name="44 GATOS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",44 GATOS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595283
-#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",A CASA DO MICKEY MOUSE
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595284
-#EXTINF:-1 tvg-id="" tvg-name="A CORRIDA ESPACIAL" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",A CORRIDA ESPACIAL
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595285
-#EXTINF:-1 tvg-id="" tvg-name="A FAMILIA DRÁCULA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",A FAMILIA DRÁCULA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595286
-#EXTINF:-1 tvg-id="" tvg-name="A FAMÍLA ADAMS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",A FAMÍLA ADAMS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595288
-#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMÍLIA DO ALASCA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",A GRANDE FAMÍLIA DO ALASCA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595289
-#EXTINF:-1 tvg-id="" tvg-name="A MULHER MARAVILHA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",A MULHER MARAVILHA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595290
-#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR DE ROSA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",A PANTERA COR DE ROSA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595291
-#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO BAIRRO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",A TURMA DO BAIRRO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595292
-#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO PATO BILL" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",A TURMA DO PATO BILL
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595293
-#EXTINF:-1 tvg-id="" tvg-name="A VACA E O FRANGO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",A VACA E O FRANGO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595294
-#EXTINF:-1 tvg-id="" tvg-name="AEROPORTO ÁREA RESTRITA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",AEROPORTO ÁREA RESTRITA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595226
-#EXTINF:-1 tvg-id="" tvg-name="APENAS UM SHOW" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",APENAS UM SHOW
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595220
-#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE TOM E JHERRY" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",AS AVENTURAS DE TOM E JHERRY
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595298
-#EXTINF:-1 tvg-id="" tvg-name="AS MENINAS SUPERPODEROSAS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",AS MENINAS SUPERPODEROSAS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595299
-#EXTINF:-1 tvg-id="" tvg-name="AS MENINAS SUPERPODEROSAS GERAÇAO Z" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",AS MENINAS SUPERPODEROSAS GERAÇAO Z
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595300
-#EXTINF:-1 tvg-id="" tvg-name="AS VISÕES DE RAVEN" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",AS VISÕES DE RAVEN
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595227
-#EXTINF:-1 tvg-id="" tvg-name="BABY LOONEY TUNES" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BABY LOONEY TUNES
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595303
-#EXTINF:-1 tvg-id="" tvg-name="BANANAS DE PIJAMAS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BANANAS DE PIJAMAS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595302
-#EXTINF:-1 tvg-id="" tvg-name="BATFINO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BATFINO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595304
-#EXTINF:-1 tvg-id="" tvg-name="BATMAN" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BATMAN
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595305
-#EXTINF:-1 tvg-id="" tvg-name="BATMAN DO FUTURO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BATMAN DO FUTURO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595306
-#EXTINF:-1 tvg-id="" tvg-name="BATMAN E ROBIN" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BATMAN E ROBIN
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595307
-#EXTINF:-1 tvg-id="" tvg-name="BATMAN GOTHAM KNIGHT" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BATMAN GOTHAM KNIGHT
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595308
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BEN 10
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595309
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10 E A FORÇA ALÍENIGENA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BEN 10 E A FORÇA ALÍENIGENA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595310
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10 OMINIVERSE" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BEN 10 OMINIVERSE
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595311
-#EXTINF:-1 tvg-id="" tvg-name="BIBO PAI & BOB FILHO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BIBO PAI & BOB FILHO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595312
-#EXTINF:-1 tvg-id="" tvg-name="BIG BANG: A TEORIA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BIG BANG: A TEORIA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595218
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA CALÇA QUADRADA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BOB ESPONJA CALÇA QUADRADA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595205
-#EXTINF:-1 tvg-id="" tvg-name="BOJACK HORSEMAN" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BOJACK HORSEMAN
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595221
-#EXTINF:-1 tvg-id="" tvg-name="BOKU HERO ACADEMIA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BOKU HERO ACADEMIA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595219
-#EXTINF:-1 tvg-id="" tvg-name="BUBBLE GUPPIES" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",BUBBLE GUPPIES
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595231
-#EXTINF:-1 tvg-id="" tvg-name="CARGA PESADA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",CARGA PESADA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595314
-#EXTINF:-1 tvg-id="" tvg-name="CASTORES PIRADOS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",CASTORES PIRADOS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595315
-#EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGÃO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",CAVERNA DO DRAGÃO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595316
-#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN COLORADO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",CHAPOLIN COLORADO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595202
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",CHAVES
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595201
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES 02" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",CHAVES 02
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/367181
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES 03" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",CHAVES 03
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/367182
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES 04" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",CHAVES 04
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/367183
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES 05" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",CHAVES 05
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/367184
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES ANIMADO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",CHAVES ANIMADO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/367185
-#EXTINF:-1 tvg-id="" tvg-name="CÃO CORAGEM" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",CÃO CORAGEM
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595318
-#EXTINF:-1 tvg-id="" tvg-name="DE VOLTA PARA O FUTURO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",DE VOLTA PARA O FUTURO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595319
-#EXTINF:-1 tvg-id="" tvg-name="DELVIN O MOTOQUEIRO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",DELVIN O MOTOQUEIRO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595320
-#EXTINF:-1 tvg-id="" tvg-name="DENIS PIMENTINHA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",DENIS PIMENTINHA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595321
-#EXTINF:-1 tvg-id="" tvg-name="DESENCANTO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",DESENCANTO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595322
-#EXTINF:-1 tvg-id="" tvg-name="DETETIVES DO PRÉDIO AZUL" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",DETETIVES DO PRÉDIO AZUL
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595224
-#EXTINF:-1 tvg-id="" tvg-name="DIGIMON AVENTURE" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",DIGIMON AVENTURE
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595216
-#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",DOIS HOMENS E MEIO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595204
-#EXTINF:-1 tvg-id="" tvg-name="DOUG" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",DOUG
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595323
-#EXTINF:-1 tvg-id="" tvg-name="DOUTORA BRINQUEDO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",DOUTORA BRINQUEDO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595324
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",DRAGON BALL Z
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595215
-#EXTINF:-1 tvg-id="" tvg-name="EU, A PATROA E AS CRIANÇAS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",EU, A PATROA E AS CRIANÇAS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595203
-#EXTINF:-1 tvg-id="" tvg-name="FAMÍLIA DINOSSAURO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",FAMÍLIA DINOSSAURO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595225
-#EXTINF:-1 tvg-id="" tvg-name="FANTOMAS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",FANTOMAS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595325
-#EXTINF:-1 tvg-id="" tvg-name="FAÍSCA E FUMAÇA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",FAÍSCA E FUMAÇA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595326
-#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",FUTURAMA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595223
-#EXTINF:-1 tvg-id="" tvg-name="GATO FELIZ" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",GATO FELIZ
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595328
-#EXTINF:-1 tvg-id="" tvg-name="HE-MAN" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",HE-MAN
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595329
-#EXTINF:-1 tvg-id="" tvg-name="HENRY DANGER" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",HENRY DANGER
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595330
-#EXTINF:-1 tvg-id="" tvg-name="HERCULES" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",HERCULES
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595331
-#EXTINF:-1 tvg-id="" tvg-name="ICARLY REVIVAL" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",ICARLY REVIVAL
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595209
-#EXTINF:-1 tvg-id="" tvg-name="IRMÃO DO JOREL" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",IRMÃO DO JOREL
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595332
-#EXTINF:-1 tvg-id="" tvg-name="JACKIE CHAN" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",JACKIE CHAN
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595333
-#EXTINF:-1 tvg-id="" tvg-name="LARGADOS E PELADOS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",LARGADOS E PELADOS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595213
-#EXTINF:-1 tvg-id="" tvg-name="LARGADOS E PELADOS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",LARGADOS E PELADOS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595334
-#EXTINF:-1 tvg-id="" tvg-name="LARGADOS E PELADOS: A TRIBO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",LARGADOS E PELADOS: A TRIBO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595335
-#EXTINF:-1 tvg-id="" tvg-name="MAGDALENA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",MAGDALENA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595338
-#EXTINF:-1 tvg-id="" tvg-name="MANNY MÃOS À OBRA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",MANNY MÃOS À OBRA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595336
-#EXTINF:-1 tvg-id="" tvg-name="MANSÃO FOSTER" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",MANSÃO FOSTER
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595337
-#EXTINF:-1 tvg-id="" tvg-name="MARVEL DEMOLIDOR" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",MARVEL DEMOLIDOR
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595339
-#EXTINF:-1 tvg-id="" tvg-name="MEGA MEN" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",MEGA MEN
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595340
-#EXTINF:-1 tvg-id="" tvg-name="MICKEY DONALD E PATETA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",MICKEY DONALD E PATETA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595341
-#EXTINF:-1 tvg-id="" tvg-name="NARUTO SHIPPUDEN" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",NARUTO SHIPPUDEN
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595207
-#EXTINF:-1 tvg-id="" tvg-name="NARUTO UZUMAKI" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",NARUTO UZUMAKI
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595206
-#EXTINF:-1 tvg-id="" tvg-name="O PEQUENO SCOOBY" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",O PEQUENO SCOOBY
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595342
-#EXTINF:-1 tvg-id="" tvg-name="O PEQUENO URSO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",O PEQUENO URSO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595343
-#EXTINF:-1 tvg-id="" tvg-name="O QUE HÁ DE NOVO SCOOBY" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",O QUE HÁ DE NOVO SCOOBY
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595344
-#EXTINF:-1 tvg-id="" tvg-name="OS JETSONS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",OS JETSONS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595345
-#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",OS SIMPSONS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595200
-#EXTINF:-1 tvg-id="" tvg-name="PATO DONALD" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",PATO DONALD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595346
-#EXTINF:-1 tvg-id="" tvg-name="PICA PAU" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",PICA PAU
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595281
-#EXTINF:-1 tvg-id="" tvg-name="QUE LEGAL SCOOBY DOO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",QUE LEGAL SCOOBY DOO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595347
-#EXTINF:-1 tvg-id="" tvg-name="SNOOPY" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",SNOOPY
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595217
-#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",SOUTH PARK
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595210
-#EXTINF:-1 tvg-id="" tvg-name="STEVEN UNIVERSO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",STEVEN UNIVERSO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595211
-#EXTINF:-1 tvg-id="" tvg-name="TELETUBBIES" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",TELETUBBIES
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595348
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",TODO MUNDO ODEIA O CHRIS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595214
-#EXTINF:-1 tvg-id="" tvg-name="TOP WING" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",TOP WING
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595241
-#EXTINF:-1 tvg-id="" tvg-name="TOT COP" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",TOT COP
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595242
-#EXTINF:-1 tvg-id="" tvg-name="TRUQUES DE MESTRE" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",TRUQUES DE MESTRE
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595212
-#EXTINF:-1 tvg-id="" tvg-name="TUBARÃO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",TUBARÃO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595228
-#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",UM MALUCO NO PEDAÇO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595208
-#EXTINF:-1 tvg-id="" tvg-name="WANDINHA" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",WANDINHA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595349
-#EXTINF:-1 tvg-id="" tvg-name="X-MEN EVOLUTION" tvg-logo="http://www.fontedecanais.app/logos/canais/24h.png" group-title="CANAIS: 24 HORAS",X-MEN EVOLUTION
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/595229
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas 4 Amigos Canal YouTube" tvg-logo="http://alt.playmaster.top:80/images/157bd447ab75d1d9a5f1aac7d5f14438.jpg" group-title="24 Horas - Youtube",24 Horas 4 Amigos Canal YouTube
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433019.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas A Casa do Mickey Mouse" tvg-logo="http://alt.playmaster.top:80/images/b3a1d80e315cf6451e653b24ad86c6ac.jpg" group-title="24 Horas - Desenhos",24 Horas A Casa do Mickey Mouse
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432997.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas A Casa Mágica da Gabby" tvg-logo="http://alt.playmaster.top:80/images/e277b8acb13f1f3edb665a7eb485fba5.png" group-title="24 Horas - Desenhos",24 Horas A Casa Mágica da Gabby
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433087.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas A Pantera Cor-de-Rosa" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQLbUPZaBPcwzxCSsHrvltGUQq4OFhrN76wlotThhMpbQqleWI" group-title="24 Horas - Desenhos",24 Horas A Pantera Cor-de-Rosa
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432960.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Aladdin" tvg-logo="http://alt.playmaster.top:80/images/7db361b78d2839a7f8306897b9161404.jpg" group-title="24 Horas - Desenhos",24 Horas Aladdin
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432958.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas As Aventuras de Jackie Chan" tvg-logo="http://alt.playmaster.top:80/images/ec79c66fc9cc21c2fe08edb76c6b905a.jpg" group-title="24 Horas - Desenhos",24 Horas As Aventuras de Jackie Chan
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432974.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas As Meninas Superpoderosas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRui2jxmv63K_bEPGnAkYpx3KbvTP9XxTmon8MG_A5gkyopQprT" group-title="24 Horas - Desenhos",24 Horas As Meninas Superpoderosas
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432980.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Baby Looney Tunes" tvg-logo="http://alt.playmaster.top:80/images/1f9bb3c96f800022aca68d4d2ef5c38c.jpg" group-title="24 Horas - Desenhos",24 Horas Baby Looney Tunes
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432993.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Badin Canal YouTube" tvg-logo="http://alt.playmaster.top:80/images/62e241a871f78bae2e7fd672f580e0d8.png" group-title="24 Horas - Youtube",24 Horas Badin Canal YouTube
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433021.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Batman e Robin" tvg-logo="http://alt.playmaster.top:80/images/68ff0db30b201ff8e144fa7fb8b9e39a.jpg" group-title="24 Horas - Desenhos",24 Horas Batman e Robin
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433008.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Ben 10" tvg-logo="http://alt.playmaster.top:80/images/e6463e7987372c0eb24fdfc41c5d05cb.jpg" group-title="24 Horas - Desenhos",24 Horas Ben 10
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432981.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Beyblade" tvg-logo="http://alt.playmaster.top:80/images/b8d2365b24101fc6ecd1bd6dc9701697.jpg" group-title="24 Horas - Desenhos",24 Horas Beyblade
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432983.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Bob Esponja" tvg-logo="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=4259515&qld=90&l=830&a=-1=1007943217" group-title="24 Horas - Desenhos",24 Horas Bob Esponja
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432978.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Bob Zoom" tvg-logo="http://alt.playmaster.top:80/images/884268653abd480d75f493ab046ea9c7.png" group-title="24 Horas - Desenhos",24 Horas Bob Zoom
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432988.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas CanalCanalha YouTube" tvg-logo="https://yt3.ggpht.com/t1DH-v5JrbFcj_47zo5XvtUb1cd0imcwDLXANN2dRgjjZjWXh2d-fUchS2njCJu7e2u5xrLceQ=w640-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj" group-title="24 Horas - Youtube",24 Horas CanalCanalha YouTube
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433032.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Capitão Planeta" tvg-logo="http://alt.playmaster.top:80/images/e835ec8f07c6b97584bd308f14ddd06a.jpg" group-title="24 Horas - Desenhos",24 Horas Capitão Planeta
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432984.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Castelo Rá-Tim-Bum" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqn_rzB44ZxE7ahbcXlaXqIvmaWszq8UoXEkNqwJ-k7LqoiVdR" group-title="24 Horas - Desenhos",24 Horas Castelo Rá-Tim-Bum
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432961.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Caverna do Dragão" tvg-logo="http://alt.playmaster.top:80/images/0cf5e8ae0e3650252a0bd6b507baecbe.jpg" group-title="24 Horas - Desenhos",24 Horas Caverna do Dragão
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432956.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Chapolin" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ72QbL0t5hzHTxN-vKJTEFhwWgwSngJ-Hyg2MahDlymXi5MSIE" group-title="24 Horas - Desenhos",24 Horas Chapolin
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432951.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Chaves Em Desenho Animado" tvg-logo="http://alt.playmaster.top:80/images/94321f278d3955acf0c0588e744e37bc.jpg" group-title="24 Horas - Desenhos",24 Horas Chaves Em Desenho Animado
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432982.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Coragem, o Cão Covarde" tvg-logo="http://alt.playmaster.top:80/images/b8d2365b24101fc6ecd1bd6dc9701697.jpg" group-title="24 Horas - Desenhos",24 Horas Coragem, o Cão Covarde
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432959.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Digimon" tvg-logo="http://alt.playmaster.top:80/images/8485286445132de23b8052239f75c2b3.png" group-title="24 Horas - Desenhos",24 Horas Digimon
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432990.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Dora a Aventureira" tvg-logo="https://assetsgn.nowonline.com.br/assets/p186113_b_v7_bb.jpg?api_key=snfwq54bnzvgucd7cqvgt86r" group-title="24 Horas - Desenhos",24 Horas Dora a Aventureira
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432987.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Doug" tvg-logo="http://alt.playmaster.top:80/images/b4d7bc3a720800b176c2cbb546efec81.jpg" group-title="24 Horas - Desenhos",24 Horas Doug
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432991.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Dragon Ball Super" tvg-logo="http://alt.playmaster.top:80/images/9346c7ace517b19f5ccf61f8d1f8853d.jpg" group-title="24 Horas - Desenhos",24 Horas Dragon Ball Super
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432953.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Edu Primitivo Canal YouTube" tvg-logo="https://yt3.ggpht.com/E9c66FXG9Pkl3VTBS_yXRHakNrkbI7RxUPy9yIUGmPPqd6cVfLSKrMXpppnleGXu_n6TTwHv=w640-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj" group-title="24 Horas - Youtube",24 Horas Edu Primitivo Canal YouTube
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433023.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Familia Dinoussauros" tvg-logo="" group-title="24 Horas - Desenhos",24 Horas Familia Dinoussauros
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433081.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Futurama" tvg-logo="https://vignette.wikia.nocookie.net/en.futurama/images/6/67/Futurama-01_0.jpg/revision/latest?cb=20141012181430" group-title="24 Horas - Desenhos",24 Horas Futurama
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432972.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Galinha Pintadinha" tvg-logo="http://alt.playmaster.top:80/images/3f10a22949f0f15dd9b70f8b6f84acfb.jpg" group-title="24 Horas - Desenhos",24 Horas Galinha Pintadinha
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432950.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas He-Man" tvg-logo="http://alt.playmaster.top:80/images/bb7bc03c5315481fc4b3bef79563df65.jpg" group-title="24 Horas - Desenhos",24 Horas He-Man
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432973.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Homem-Aranha" tvg-logo="http://alt.playmaster.top:80/images/b8d2365b24101fc6ecd1bd6dc9701697.jpg" group-title="24 Horas - Desenhos",24 Horas Homem-Aranha
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432971.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Homens da Montanha/Gelo" tvg-logo="http://origemdasfontes.ga:80/images/7ebe48f12daebdb9b8bacb92ee0f1761.jpg" group-title="24 Horas - Desenhos",24 Horas Homens da Montanha/Gelo
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433031.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Hora de Aventura" tvg-logo="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9745412&qld=90&l=830&a=-1=1007943217" group-title="24 Horas - Desenhos",24 Horas Hora de Aventura
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432995.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Jiraiya" tvg-logo="https://i.pinimg.com/736x/99/f8/19/99f819e4b7804d7fca6e580788a22592.jpg" group-title="24 Horas - Animes",24 Horas Jiraiya
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433063.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Johnny Bravo" tvg-logo="http://alt.playmaster.top:80/images/475e08bd657f36a4b8f47b16f3b41f21.jpg" group-title="24 Horas - Desenhos",24 Horas Johnny Bravo
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432989.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Kenan e Kel" tvg-logo="http://alt.playmaster.top:80/images/9a08c6c912e9b75c1dcf6173f648fedf.jpg" group-title="24 Horas - Desenhos",24 Horas Kenan e Kel
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432962.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Little Angel - Joãozinho" tvg-logo="http://alt.playmaster.top:80/images/220851885ddd33ecf8ecdacb3be249c1.png" group-title="24 Horas - Desenhos",24 Horas Little Angel - Joãozinho
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433082.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Little Baby Bum" tvg-logo="http://alt.playmaster.top:80/images/23294d0025ce2077cf5074a419675d6d.jpg" group-title="24 Horas - Desenhos",24 Horas Little Baby Bum
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433084.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Luluzinha" tvg-logo="https://vignette.wikia.nocookie.net/turmadaluluzinha/images/0/07/Luluzinha.jpg" group-title="24 Horas - Desenhos",24 Horas Luluzinha
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432992.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Lutas" tvg-logo="http://alt.playmaster.top:80/images/1e0dbb918ad81c02c6980a4c14d06240.jpg" group-title="24 Horas - Desenhos",24 Horas Lutas
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433085.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas MacGyver" tvg-logo="http://alt.playmaster.top:80/images/1ff8d0820d7c1a15e7838876186398fa.jpg" group-title="24 Horas - Desenhos",24 Horas MacGyver
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433004.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Masha e o Urso" tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSFPVbGMG__22kg1FELRxABjy0k2wdnYpCYCwXlPsj0mZlxdpg0_z8fO92WzM5C3CMClWoXa9gNcfoeOPTBJo81YiFr9DyK55aYW4wVx1FXm.png?r=a11" group-title="24 Horas - Desenhos",24 Horas Masha e o Urso
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433086.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Medabots" tvg-logo="http://alt.playmaster.top:80/images/68a3c694e21671b2d720a86bdf1c5984.jpg" group-title="24 Horas - Desenhos",24 Horas Medabots
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432955.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Mickey Mouse" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRS4yQG1NkMVW5PCdOteJiPpL51RmI4RPH50g&usqp=CAU" group-title="24 Horas - Desenhos",24 Horas Mickey Mouse
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432996.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Mundo Bita" tvg-logo="http://alt.playmaster.top:80/images/bf8ad2e583c81edfd7f97d579c12ba12.jpg" group-title="24 Horas - Desenhos",24 Horas Mundo Bita
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432975.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela A Dona do Pedaço" tvg-logo="http://alt.playmaster.top:80/images/198040ae22456a4a83d6ffd218e4da16.jpg" group-title="24 Horas - Novelas",24 Horas Novela A Dona do Pedaço
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433056.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Amor de Mãe" tvg-logo="http://alt.playmaster.top:80/images/bffaa3051fad3d16f7b8881531655011.jpg" group-title="24 Horas - Novelas",24 Horas Novela Amor de Mãe
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433068.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Amor à Vida" tvg-logo="http://alt.playmaster.top:80/images/0ff77ffa24aa712fe6c41367d991ad59.jpg" group-title="24 Horas - Novelas",24 Horas Novela Amor à Vida
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433043.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Apocalipse" tvg-logo="http://alt.playmaster.top:80/images/ef0bed33cf7bf230e73edd5c76c9866f.jpg" group-title="24 Horas - Novelas",24 Horas Novela Apocalipse
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433076.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Avenida Brasil" tvg-logo="http://alt.playmaster.top:80/images/dceb739a18257473fd4ecde3e70eb476.jpg" group-title="24 Horas - Novelas",24 Horas Novela Avenida Brasil
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433042.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Bom Sucesso" tvg-logo="http://alt.playmaster.top:80/images/82885ffb986f5d8657dacbc6336d6045.jpg" group-title="24 Horas - Novelas",24 Horas Novela Bom Sucesso
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433067.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Cabocla" tvg-logo="http://alt.playmaster.top:80/images/6a2d56f2be5f0bb3b46d9cc5b77c1f3f.JPG" group-title="24 Horas - Novelas",24 Horas Novela Cabocla
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433069.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Caminho das Índias" tvg-logo="http://alt.playmaster.top:80/images/f2e46e511493559db9009551271a4463.jpg" group-title="24 Horas - Novelas",24 Horas Novela Caminho das Índias
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433044.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Fina Estampa" tvg-logo="http://alt.playmaster.top:80/images/a798f47ff7eaa8b41ff98b01511dfa70.png" group-title="24 Horas - Novelas",24 Horas Novela Fina Estampa
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433072.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Flor do Caribe" tvg-logo="https://lh3.googleusercontent.com/proxy/nvywOMTxhOz495O6wcfCZDDYdgNotmRLhYE_WmRYA2dIr1Csr1oCF4dIvXU6behGlvAl7wq8eJKTZWUlWyRmD5zLjo5jAybAOs_x8dEcsq2MKFmsybLmulGKfGj97gbEoA" group-title="24 Horas - Novelas",24 Horas Novela Flor do Caribe
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433073.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Jesus" tvg-logo="http://alt.playmaster.top:80/images/1802835dbdaa1cd6e0a7060ea9a91c0a.jpg" group-title="24 Horas - Novelas",24 Horas Novela Jesus
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433077.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Jezebel" tvg-logo="https://img.r7.com/images/jezabel-01042019184608236?dimensions=660x360" group-title="24 Horas - Novelas",24 Horas Novela Jezebel
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433078.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela José do Egito" tvg-logo="http://alt.playmaster.top:80/images/2461d49ae28a8dc7c935b654ee163f28.jpg" group-title="24 Horas - Novelas",24 Horas Novela José do Egito
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433074.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Laços de Família" tvg-logo="http://alt.playmaster.top:80/images/5378b02c17095ad894ea7a5705c288f9.jpg" group-title="24 Horas - Novelas",24 Horas Novela Laços de Família
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433075.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Novo Mundo" tvg-logo="http://alt.playmaster.top:80/images/88203dee455d610dd5a7bf961e8cb81f.png" group-title="24 Horas - Novelas",24 Horas Novela Novo Mundo
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433080.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela O Clone" tvg-logo="http://alt.playmaster.top:80/images/44733dff3064e42d26c6584d75cadf97.jpg" group-title="24 Horas - Novelas",24 Horas Novela O Clone
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433066.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Éramos Seis" tvg-logo="http://alt.playmaster.top:80/images/67f53914c74c648765c5e49ce4722f27.jpg" group-title="24 Horas - Novelas",24 Horas Novela Éramos Seis
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433070.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas O Máskara" tvg-logo="http://alt.playmaster.top:80/images/c23fdb6b3ee0d82dcb75e770923a1be9.jpg" group-title="24 Horas - Desenhos",24 Horas O Máskara
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432963.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas O Show da Luna" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM3W_dXn1mnFFSXib5-DgEH244S-8A6XJ9IJ7d1fr48cWZYP5x" group-title="24 Horas - Desenhos",24 Horas O Show da Luna
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432999.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Os Cavaleiros do Zodiaco" tvg-logo="http://alt.playmaster.top:80/images/b8d2365b24101fc6ecd1bd6dc9701697.jpg" group-title="24 Horas - Desenhos",24 Horas Os Cavaleiros do Zodiaco
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432998.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Os Caçadores de Mitos" tvg-logo="http://alt.playmaster.top:80/images/f0b6d49d8ea318cd49cf2445b171f756.jpg" group-title="24 Horas - Desenhos",24 Horas Os Caçadores de Mitos
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433012.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Os Flintstones" tvg-logo="http://alt.playmaster.top:80/images/b11c16467f93c499527544a09fd0e70a.jpg" group-title="24 Horas - Desenhos",24 Horas Os Flintstones
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433041.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Os Padrinhos Mágicos" tvg-logo="http://alt.playmaster.top:80/images/c09d6e2fbebf95ae6fde1994781d2712.jpg" group-title="24 Horas - Desenhos",24 Horas Os Padrinhos Mágicos
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432964.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Pagode da Ofensa Canal YouTube" tvg-logo="http://alt.playmaster.top:80/images/1490e856e767afc8a9e76d66fe7a0a59.png" group-title="24 Horas - Youtube",24 Horas Pagode da Ofensa Canal YouTube
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433024.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Parafernalha YouTube" tvg-logo="http://alt.playmaster.top:80/images/302bfb3b1b02be9afd0a997c8ffdc96f.jpg" group-title="24 Horas - Youtube",24 Horas Parafernalha YouTube
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433033.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Patrulha Canina" tvg-logo="https://bumerangbrinquedos.vteximg.com.br/arquivos/ids/174954/PATRULHA-CANINA-M.jpg?v=636756496116330000" group-title="24 Horas - Desenhos",24 Horas Patrulha Canina
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432966.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Pegadinhas da RedeTV YouTube" tvg-logo="https://yt3.ggpht.com/a/AATXAJxnNh91CVNV5Ogru8QN06MP8HWEfXoqW9kCF0Tl=s100-c-k-c0xffffffff-no-rj-mo" group-title="24 Horas - Youtube",24 Horas Pegadinhas da RedeTV YouTube
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433029.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Peppa Pig" tvg-logo="http://alt.playmaster.top:80/images/d1185a19b90ad9114180ba71352f54ef.jpg" group-title="24 Horas - Desenhos",24 Horas Peppa Pig
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432954.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Pica-Pau" tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/222546/1004444042.jpg?v=636968229968770000" group-title="24 Horas - Desenhos",24 Horas Pica-Pau
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432994.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Pokémon" tvg-logo="https://secureservercdn.net/198.71.233.254/dd2.a4b.myftpupload.com/wp-content/uploads/2017/08/https-2F2Fs3-ap-southeast-2.amazonaws.com2Fvms-tv-images-prod2F20172F022F586222FPOKE_Pokemon_1920.jpg?time=1587665537" group-title="24 Horas - Desenhos",24 Horas Pokémon
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433000.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Popeye" tvg-logo="https://cdn.mensagenscomamor.com/content/images/p000005342.jpg?v=0&w=400&h=225&c=1" group-title="24 Horas - Desenhos",24 Horas Popeye
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432977.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Porta dos Fundos Canal YouTube" tvg-logo="http://alt.playmaster.top:80/images/80161288b3a416b955cf18519a08bc0a.jpg" group-title="24 Horas - Youtube",24 Horas Porta dos Fundos Canal YouTube
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433022.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Power Rangers" tvg-logo="https://i1.wp.com/www.theilluminerdi.com/wp-content/uploads/2020/02/mighty-morphin-power-rangers-reunion.jpg?resize=1200%2C640&ssl=1" group-title="24 Horas - Desenhos",24 Horas Power Rangers
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433009.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Primitive Technology Canal YouTube" tvg-logo="http://alt.playmaster.top:80/images/0121a79b368cbe0fca4d33637e1bc392.jpg" group-title="24 Horas - Youtube",24 Horas Primitive Technology Canal YouTube
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433037.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Scooby-Doo" tvg-logo="http://alt.playmaster.top:80/images/895338cfc4431633c7ca7df531835c81.jpg" group-title="24 Horas - Desenhos",24 Horas Scooby-Doo
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432970.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Sítio do Picapau Amarelo" tvg-logo="http://origemdasfontes.ga:80/images/e784135842680652895ca0cdc385f237.jpg" group-title="24 Horas - Desenhos",24 Horas Sítio do Picapau Amarelo
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433011.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas The Noite Canal YouTube" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfoFCwoxnqbVlkecxv6fmp4Gt58JZ8adjn_GWAtPiUm7L4gG-8" group-title="24 Horas - Youtube",24 Horas The Noite Canal YouTube
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433026.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Timão e Pumba" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaqBLB3cjQx-854LvQNe7qPFTw7t6MGWfCTMBgtn1BOjmKCgMk" group-title="24 Horas - Desenhos",24 Horas Timão e Pumba
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433001.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Tio Patinhas" tvg-logo="http://alt.playmaster.top:80/images/d9fae0900f6b6afc812a86193a0b42c7.jpg" group-title="24 Horas - Desenhos",24 Horas Tio Patinhas
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433058.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Tom e Jerry" tvg-logo="http://alt.playmaster.top:80/images/f189d05ef4b396d32317e476b4bd7b22.jpg" group-title="24 Horas - Desenhos",24 Horas Tom e Jerry
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432976.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Turma da Mônica" tvg-logo="http://alt.playmaster.top:80/images/8b3c0317a0ae053a85fff031ff482e95.jpg" group-title="24 Horas - Desenhos",24 Horas Turma da Mônica
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432957.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas TuTiTu" tvg-logo="http://alt.playmaster.top:80/images/e27417ba962c565b275a0d60ed239ab4.png" group-title="24 Horas - Desenhos",24 Horas TuTiTu
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433083.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Você na TV Canal YouTube" tvg-logo="http://alt.playmaster.top:80/images/b8d2365b24101fc6ecd1bd6dc9701697.jpg" group-title="24 Horas - Youtube",24 Horas Você na TV Canal YouTube
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433020.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Você Sabia? YouTube" tvg-logo="http://alt.playmaster.top:80/images/b8d2365b24101fc6ecd1bd6dc9701697.jpg" group-title="24 Horas - Youtube",24 Horas Você Sabia? YouTube
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433038.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Webbully Canal YouTube" tvg-logo="http://alt.playmaster.top:80/images/0b7c3f00271d75e59ab600bdda3bb0b5.jpg" group-title="24 Horas - Youtube",24 Horas Webbully Canal YouTube
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433027.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Yu Yu Hakusho" tvg-logo="http://alt.playmaster.top:80/images/57bf83ad9208f9e13b7ec47289d7168a.jpg" group-title="24 Horas - Animes",24 Horas Yu Yu Hakusho
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433060.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Êta Mundo Bom!" tvg-logo="http://origemdasfontes.ga:80/images/7a4ba5fe4b82a09a6bf9c1eda981cec0.png" group-title="24 Horas - Desenhos",24 Horas Êta Mundo Bom!
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433071.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Alienigenas do Passado" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ba4ctlbX5ndP3J4xiBX7ZVgexEjZpMyj5g&s" group-title="24 Horas - Discovery",24 [HR] Alienigenas do Passado
+http://seven7play.top:80/JOTAXVI123/Senha1234/1864532.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] As Visões da Raven" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyms5TL2d1z2hU12l_kKwgrKJoKijV5TlSHQ&s" group-title="24 Horas - Séries",24 [HR] As Visões da Raven
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433016.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Chaves 1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqqwDQOdWTLqyjXQuD5jltYu2nqFuSqsziBzZ1KTaIevD_lBVh" group-title="24 Horas - Séries",24 [HR] Chaves 1
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432947.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Dois Homens e Meio" tvg-logo="https://images.justwatch.com/poster/132075259/s592" group-title="24 Horas - Séries",24 [HR] Dois Homens e Meio
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433002.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Dragon Ball GT" tvg-logo="https://vignette.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest?cb=20200613013335&path-prefix=pt-br" group-title="24 Horas - Animes",24 [HR] Dragon Ball GT
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432952.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Dragon Ball Kai" tvg-logo="http://origemdasfontes.ga:80/images/cc6b85c5986c9abbcd209d081c83c0a5.jpg" group-title="24 Horas - Animes",24 [HR] Dragon Ball Kai
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433018.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Escolinha do professor Raimundo" tvg-logo="http://alt.playmaster.top:80/images/0d8e5c71a1391b46c080601cc0b73514.jpg" group-title="24 Horas - Séries",24 [HR] Escolinha do professor Raimundo
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433062.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Eu, a Patroa e as Crianças" tvg-logo="http://alt.playmaster.top:80/images/79c7f3967fbc34101e5fef60ba474172.jpg" group-title="24 Horas - Séries",24 [HR] Eu, a Patroa e as Crianças
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432949.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Globo Repórter" tvg-logo="http://alt.playmaster.top:80/images/848e6a1cee156803e740e365d7c6eea3.jpg" group-title="24 Horas - Séries",24 [HR] Globo Repórter
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433057.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] iCarly" tvg-logo="https://m.media-amazon.com/images/I/91IHnobEyuL._UF894,1000_QL80_.jpg" group-title="24 Horas - Séries",24 [HR] iCarly
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432985.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] InuYasha" tvg-logo="http://alt.playmaster.top:80/images/0863d652200f4216ab306f3efd0ce325.jpg" group-title="24 Horas - Animes",24 [HR] InuYasha
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433064.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] La Casa de Papel 1" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c3/2019/06/13/foto-de-divulgacao-da-terceira-parte-de-la-casa-de-papel-que-chega-a-netflix-em-19-de-julho-1560453250469_v2_3x4.jpg" group-title="24 Horas - Séries",24 [HR] La Casa de Papel 1
+http://seven7play.top:80/JOTAXVI123/Senha1234/1864554.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] La Casa de Papel 2" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c3/2019/06/13/foto-de-divulgacao-da-terceira-parte-de-la-casa-de-papel-que-chega-a-netflix-em-19-de-julho-1560453250469_v2_3x4.jpg" group-title="24 Horas - Séries",24 [HR] La Casa de Papel 2
+http://seven7play.top:80/JOTAXVI123/Senha1234/1864555.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Largados e Pelados 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGQbSrWa77MXwz5J5IZXzoiTe_6xil_iX_g&s" group-title="24 Horas - Discovery",24 [HR] Largados e Pelados 1
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433003.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] MasterChef Brasil" tvg-logo="http://alt.playmaster.top:80/images/80335e14b9297b521084b7b826e19dd6.jpg" group-title="24 Horas - Séries",24 [HR] MasterChef Brasil
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433005.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Mr. Bean" tvg-logo="http://alt.playmaster.top:80/images/ea5d2456ff0c393bcdf3a4f517161728.jpg" group-title="24 Horas - Séries",24 [HR] Mr. Bean
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433006.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Naruto" tvg-logo="http://alt.playmaster.top:80/images/3a215b803a0bd4937d567ad42fd37843.jpg" group-title="24 Horas - Séries",24 [HR] Naruto
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432967.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] O Sócio" tvg-logo="http://alt.playmaster.top:80/images/e982a7a70681cf5dfb8e27cb1f69a21b.jpg" group-title="24 Horas - Séries",24 [HR] O Sócio
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433013.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Os Cavaleiros do Zodiaco - Saint Seiya" tvg-logo="http://alt.playmaster.top:80/images/52acfc0301ea28c8d7ea2614dd323f83.jpg" group-title="24 Horas - Animes",24 [HR] Os Cavaleiros do Zodiaco - Saint Seiya
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433059.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Os Jetsons" tvg-logo="http://alt.playmaster.top:80/images/17bea06aeb32fe682bd6ba7dfcad5c52.jpg" group-title="24 Horas - Séries",24 [HR] Os Jetsons
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433061.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Os Simpson (Antigo)" tvg-logo="http://alt.playmaster.top:80/images/b284a193c5d1d9a0ed6c56f788c8994e.jpg" group-title="24 Horas - Séries",24 [HR] Os Simpson (Antigo)
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433065.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Os Simpsons 1" tvg-logo="http://alt.playmaster.top:80/images/6a028953b6e5a395f678a8adbf6e9bea.jpg" group-title="24 Horas - Séries",24 [HR] Os Simpsons 1
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432965.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Os Trapalhões" tvg-logo="http://alt.playmaster.top:80/images/7ff0e6007a105260e595b8616a8c17e1.jpg" group-title="24 Horas - Séries",24 [HR] Os Trapalhões
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432979.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Policia 24h" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH4I5UZIKzU-oBjPmSboMi0s7wvX8fVc3bpqPTDbAPK-OTyxVB" group-title="24 Horas - Séries",24 [HR] Policia 24h
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433030.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Rick and Morty" tvg-logo="http://alt.playmaster.top:80/images/27d9bcda33ee2339ce07592c157c7539.jpg" group-title="24 Horas - Séries",24 [HR] Rick and Morty
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432968.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Round 6 T1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vOWEKyx0-wP9neQLo4eTIhlojzpO7XO5ug&s" group-title="24 Horas - Séries",24 [HR] Round 6 T1
+http://seven7play.top:80/JOTAXVI123/Senha1234/1864556.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Round 6 T2" tvg-logo="https://static.wikia.nocookie.net/round-6/images/e/ef/P%C3%B4ster_da_Temporada_1.png/revision/latest?cb=20250111190532&path-prefix=pt-br" group-title="24 Horas - Séries",24 [HR] Round 6 T2
+http://seven7play.top:80/JOTAXVI123/Senha1234/1864557.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Round 6 T3" tvg-logo="https://static.wikia.nocookie.net/round-6/images/e/ef/P%C3%B4ster_da_Temporada_1.png/revision/latest?cb=20250111190532&path-prefix=pt-br" group-title="24 Horas - Séries",24 [HR] Round 6 T3
+http://seven7play.top:80/JOTAXVI123/Senha1234/1864558.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Sobrenatural T 01" tvg-logo="https://mnnxx30291.top/uploads/1/Sobrenatural.jpg" group-title="24 Horas - Séries",24 [HR] Sobrenatural T 01
+http://seven7play.top:80/JOTAXVI123/Senha1234/1864533.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Sobrenatural T 02" tvg-logo="https://i0.wp.com/abacstallion.com/wp-content/uploads/2019/04/Supernatural-Poster.jpg?fit=2000%2C3000&ssl=1" group-title="24 Horas - Séries",24 [HR] Sobrenatural T 02
+http://seven7play.top:80/JOTAXVI123/Senha1234/1864534.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Sobrenatural T 03" tvg-logo="https://i0.wp.com/abacstallion.com/wp-content/uploads/2019/04/Supernatural-Poster.jpg?fit=2000%2C3000&ssl=1" group-title="24 Horas - Séries",24 [HR] Sobrenatural T 03
+http://seven7play.top:80/JOTAXVI123/Senha1234/1864535.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] South Park" tvg-logo="http://alt.playmaster.top:80/images/694cf7f2562d8220011c2b931813cc9c.jpg" group-title="24 Horas - Séries",24 [HR] South Park
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432969.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] The Big Bang Theory" tvg-logo="https://m.media-amazon.com/images/I/71qKFGIrv2L._UF894,1000_QL80_.jpg" group-title="24 Horas - Séries",24 [HR] The Big Bang Theory
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433014.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Todo Mundo Odeia o Chris" tvg-logo="http://alt.playmaster.top:80/images/5ba673e4597177d87c04f96fd9d3e326.jpg" group-title="24 Horas - Séries",24 [HR] Todo Mundo Odeia o Chris
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432946.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Todo Mundo Odeia o Chris T 01" tvg-logo="http://mnnxx30291.top//uploads/1/Todo_Mundo_Odeia_Chris.jpeg" group-title="24 Horas - Séries",24 [HR] Todo Mundo Odeia o Chris T 01
+http://seven7play.top:80/JOTAXVI123/Senha1234/1864536.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Todo Mundo Odeia o Chris T 02" tvg-logo="http://mnnxx30291.top//uploads/1/Todo_Mundo_Odeia_Chris.jpeg" group-title="24 Horas - Séries",24 [HR] Todo Mundo Odeia o Chris T 02
+http://seven7play.top:80/JOTAXVI123/Senha1234/1864537.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Todo Mundo Odeia o Chris T 03" tvg-logo="http://mnnxx30291.top//uploads/1/Todo_Mundo_Odeia_Chris.jpeg" group-title="24 Horas - Séries",24 [HR] Todo Mundo Odeia o Chris T 03
+http://seven7play.top:80/JOTAXVI123/Senha1234/1864538.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Todo Mundo Odeia o Chris T 04" tvg-logo="http://mnnxx30291.top//uploads/1/Todo_Mundo_Odeia_Chris.jpeg" group-title="24 Horas - Séries",24 [HR] Todo Mundo Odeia o Chris T 04
+http://seven7play.top:80/JOTAXVI123/Senha1234/1864539.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Trato Feito" tvg-logo="http://alt.playmaster.top:80/images/124d5a8127ffc101b8deaf5ef1e22179.jpg" group-title="24 Horas - Discovery",24 [HR] Trato Feito
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433028.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] TV Pirata" tvg-logo="http://alt.playmaster.top:80/images/89f56d6b0b4cca6b8d87eed071427630.jpg" group-title="24 Horas - Séries",24 [HR] TV Pirata
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433017.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Tô de Graça" tvg-logo="http://alt.playmaster.top:80/images/7ebe48f12daebdb9b8bacb92ee0f1761.jpg" group-title="24 Horas - Séries",24 [HR] Tô de Graça
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433025.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Um Maluco no Pedaço" tvg-logo="http://alt.playmaster.top:80/images/a19228dba0b86f5bfff5c42c7d197b3f.jpg" group-title="24 Horas - Séries",24 [HR] Um Maluco no Pedaço
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432948.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Vai Que Cola" tvg-logo="http://alt.playmaster.top:80/images/49ab25598dfcd75912d095ec00ccad46.jpg" group-title="24 Horas - Séries",24 [HR] Vai Que Cola
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433010.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR]Horas Irmãos à Obra" tvg-logo="http://alt.playmaster.top:80/images/6bfddef32d571ca205a7f20abb02ec09.jpg" group-title="24 Horas - Discovery",24 [HR]Horas Irmãos à Obra
+http://seven7play.top:80/JOTAXVI123/Senha1234/1432986.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 [HR]Pesadelo na Cozinha" tvg-logo="https://yt3.googleusercontent.com/qUDWox9hBGLfR779vdwIq4PjL74Ra43e0OyK7WMz6hqyLXg565QYRiXnpe-B0rFE0Ys-Rwd9EPc=s900-c-k-c0x00ffffff-no-rj" group-title="24 Horas - Séries",24 [HR]Pesadelo na Cozinha
+http://seven7play.top:80/JOTAXVI123/Senha1234/1433007.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H  A Grande Família 1" tvg-logo="http://mnnxx30291.top//uploads/1/agrandefamilia.jpg" group-title="24 Horas - Séries",24H  A Grande Família 1
+http://seven7play.top:80/JOTAXVI123/Senha1234/1864590.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H A Grande Família 2" tvg-logo="http://mnnxx30291.top//uploads/1/agrandefamilia.jpg" group-title="24 Horas - Séries",24H A Grande Família 2
+http://seven7play.top:80/JOTAXVI123/Senha1234/1864591.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H A Grande FamÍlia 3" tvg-logo="http://mnnxx30291.top//uploads/1/agrandefamilia.jpg" group-title="24 Horas - Séries",24H A Grande FamÍlia 3
+http://seven7play.top:80/JOTAXVI123/Senha1234/2040745.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H Aeroporto Área Restrita" tvg-logo="http://mnnxx30291.top//uploads/1/arearestrita.jpg" group-title="24 Horas - Séries",24H Aeroporto Área Restrita
+http://seven7play.top:80/JOTAXVI123/Senha1234/2040746.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • 90 Dias Para Casar A Última Chance" tvg-logo="" group-title="24 Horas - Discovery",24H • 90 Dias Para Casar A Última Chance
+http://seven7play.top:80/JOTAXVI123/Senha1234/2040804.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Dupla do Barulho" tvg-logo="" group-title="24 Horas - Discovery",24H • Dupla do Barulho
+http://seven7play.top:80/JOTAXVI123/Senha1234/2040823.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Febre do Ouro Corredeiras do Alasca" tvg-logo="" group-title="24 Horas - Discovery",24H • Febre do Ouro Corredeiras do Alasca
+http://seven7play.top:80/JOTAXVI123/Senha1234/2040824.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Irmãos A Obra" tvg-logo="" group-title="24 Horas - Discovery",24H • Irmãos A Obra
+http://seven7play.top:80/JOTAXVI123/Senha1234/2040827.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Pesca Mortal Aventura no Sangue" tvg-logo="" group-title="24 Horas - Discovery",24H • Pesca Mortal Aventura no Sangue
+http://seven7play.top:80/JOTAXVI123/Senha1234/2040845.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Quilos Mortais: Como Eles Estão Agora" tvg-logo="" group-title="24 Horas - Discovery",24H • Quilos Mortais: Como Eles Estão Agora
+http://seven7play.top:80/JOTAXVI123/Senha1234/2040848.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",Um Maluco no Pedaço 24h
+http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",Os Trapalhões 24h
+http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",2 Homens e Meio 24h
+http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",Todo Mundo Odeia O Cris 24h
+http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",Pegadinhas Silvio Santos 24h
+http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8?token=a4A2wbotS3 
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",As Visões da Raven 24h
+http://24hrs.homelinux.com:80/24H-asvisoesdaraven/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",A Grande Família 24h
+http://24hrs.homelinux.com:80/24H-O.Album.da.Grande.Familia.S01/video.m3u8?token=a4A2wbotS3
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",Escolinha Raimundo 24h
+http://24hrs.homelinux.com:80/24H-escolinhaold/video.m3u8?token=a4A2wbotS3
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",Eu a Patroa e as Crianças 24h
+http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/video.m3u8?token=a4A2wbotS3
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",Tô d Graça 24h
+http://24hrs.homelinux.com:80/24H-todegraca/video.m3u8?token=a4A2wbotS3
+
 #EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 1 - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIMCfztNwx2rA6XWGaJhcqdG7Wt.jpg" group-title="Filmes | Ação",Velozes e Furiosos 1 - 2001
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32977.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 2 - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmhFOjy47UqrOafl0oQiygcJ7oT.jpg" group-title="Filmes | Ação",Velozes e Furiosos 2 - 2003
