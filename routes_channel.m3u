@@ -2710,9 +2710,10 @@ https://sandroflix.sandrostoreps3.workers.dev/content/desenhos/Homem-Aranha.-.20
 https://sandroflix.sandrostoreps3.workers.dev/content/desenhos/Homem-Aranha.-.2003/Homem-Aranha.2003.E13.avi
 
 
-#################### LIGA DA JUSTIÇA ####################
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/ANIMES/JUSTICE.LEAGUE.jpg" group-title="CLASSICOS",Justice League Unlimited
-https://raw.github.com/PS3-Pro/PlayStation-TV/main/lists/content/animes/JUSTICE.LEAGUE.UNLIMITED.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="https://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/FILMES/ACAO/Tropa.de.Elite.jpg",Tropa de Elite
+https://github.com/sandrojr1991/FILMES/releases/download/Brasileiros/Tropa.de.Elite.mp4
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="https://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/FILMES/ACAO/Tropa.de.Elite.2_.O.Inimigo.Agora.e.Outro.jpg",Tropa de Elite 2
+https://github.com/sandrojr1991/FILMES/releases/download/Brasileiros/Tropa.de.Elite.2_.O.Inimigo.Agora.e.Outro.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Thunderbolts* (2025)" tvg-logo="http://79.137.99.72:8080/images/eKD2p840nsRXLUR25ciVsNMJgOB_big.jpg" group-title="FILM▐ LANÇAMENTOS",Thunderbolts* (2025)
 http://dns.akira.best:8080/movie/ZdEtSNbXb37d/xbb2ns98aprW/655393.mp4
