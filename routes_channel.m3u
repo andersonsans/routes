@@ -6,9 +6,9 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18022.ts
 #EXTINF:-1 tvg-name="Rede Globo TV Bahia" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="1 - 📺 TV ABERTA",REDE GLOBO OPÇÃO 3
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18026.ts
 #EXTINF:-1 tvg-id="" tvg-name="Globo BA Rede Bahia FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="1 - 📺 TV ABERTA",Globo BA Rede Bahia FHD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18120.ts
+http://coneasy.lat:80/live/p1jpgsbe/e95nqi2a/1756402.ts
 #EXTINF:-1 tvg-id="" tvg-name="Globo BA Rede Bahia SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="1 - 📺 TV ABERTA",Globo BA Rede Bahia SD
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/18122.ts
+http://coneasy.lat:80/live/p1jpgsbe/e95nqi2a/1756403.ts
 #EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="1 - 📺 TV ABERTA",REDE BAND SP
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17057.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="1 - 📺 TV ABERTA",REDE BAND OPCAO 2
@@ -149,14 +149,22 @@ http://7forever.xyz:80/live/paulonegrao/r08mepqj27b/329603.ts
 http://185.236.183.118:14193/
 #EXTINF:-1 tvg-id="" tvg-name="Cazé TV  ᴴᴰ" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png" group-title="2 - ⚽   ESPORTES",Cazé TV  ᴴᴰ
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19069.ts
-#EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 1
-http://185.236.183.118:14040/
-#EXTINF:-1 tvg-id="90" tvg-name="Paramount+ 2" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 2
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19072.ts
-#EXTINF:-1 tvg-id="91" tvg-name="Paramount+ 3" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 3
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19073.ts
-#EXTINF:-1 tvg-id="92" tvg-name="Paramount+ 4" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 4
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19074.ts
+#EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 1 OPÇÃO 1
+http://4s2tem.biz:80/767309/8VBxSY/72977.ts
+#EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 1 OPÇÃO 2
+http://4s2tem.biz:80/767309/8VBxSY/72979.ts
+#EXTINF:-1 tvg-id="90" tvg-name="Paramount+ 2" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 2 OPÇÃO 1
+http://4s2tem.biz:80/767309/8VBxSY/72981.ts
+#EXTINF:-1 tvg-id="90" tvg-name="Paramount+ 2" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 2 OPÇÃO 2
+http://4s2tem.biz:80/767309/8VBxSY/72983.ts
+#EXTINF:-1 tvg-id="91" tvg-name="Paramount+ 3" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 3 OPÇÃO 1
+http://4s2tem.biz:80/767309/8VBxSY/72986.ts
+#EXTINF:-1 tvg-id="91" tvg-name="Paramount+ 3" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 3 OPÇÃO 2
+http://4s2tem.biz:80/767309/8VBxSY/72987.ts
+#EXTINF:-1 tvg-id="92" tvg-name="Paramount+ 4" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 4  OPÇÃO 1
+http://4s2tem.biz:80/767309/8VBxSY/72990.ts
+#EXTINF:-1 tvg-id="92" tvg-name="Paramount+ 4" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 4 OPÇÃO 2
+http://4s2tem.biz:80/767309/8VBxSY/72991.ts
 #EXTINF:-1 tvg-id="" tvg-name="Paramount+ 5" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 5
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/19075.ts
 #EXTINF:-1 tvg-id="" tvg-name="Paramount+ 6" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="2 - ⚽   ESPORTES",Paramount+ 6
