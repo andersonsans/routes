@@ -27,6 +27,8 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/27061.ts
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/27052.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1t5Gdil.png" group-title="1 - 📺 TV ABERTA", RECORD BAHIA
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/27004.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE Bahia" tvg-logo="http://i.imgur.com/IWGyp65.jpeg" group-title="1 - 📺 TV ABERTA",TVE Bahia
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/17051.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W3oI8p3.png" group-title="1 - 📺 TV ABERTA", REDE VIDA
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/26004.ts
 #EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [HD]" tvg-logo="http://cc90.one/AYC" group-title="1 - 📺 TV ABERTA", REDE VIDA OPÇÃO 2
