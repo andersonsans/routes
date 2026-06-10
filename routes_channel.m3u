@@ -180,23 +180,23 @@ http://kobe.kaseline.shop:2095/live/premiereclubes/chunks.m3u8?token=1755481925_
 #EXTINF:-1 tvg-id="" tvg-name="Jogo Bahia" tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="2 - ⚽   ESPORTES",Jogo Bahia Opção 3
 http://kobe.kaseline.shop:2095/live5/sportv/chunks.m3u8?token=1755481925_182eca944b0799fe7dfe68d39fe8f8c32bf1ca8c
 #EXTINF:-1 tvg-id="6" tvg-name="Band News HD" tvg-logo="http://www.fontedecanais.org/logos/canais/bandnews.png" group-title="3 - 🗞️ NOTICIAS 24H",Band News OPÇÃO 1
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25002.ts
+https://dns.p2.wtf/rogerio55x/24992611250/296335
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="BR| BAND NEWS HD" tvg-logo="https://lo1.in/BR/banns1.png" group-title="3 - 🗞️ NOTICIAS 24H",Band News OPÇÃO 2
 https://aovivo.doozytv.com.br/31025556/10160454/chunks.m3u8
 #EXTINF:-1 tvg-id="182" tvg-name="Record News HD" tvg-logo="http://www.fontedecanais.org/logos/canais/recordnews.png" group-title="3 - 🗞️ NOTICIAS 24H",Record News OPÇÃO 1
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25013.ts
+https://dns.p2.wtf/rogerio55x/24992611250/296346
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="BR| RECORD NEWS HD" tvg-logo="https://lo1.in/BR/rcord.png" group-title="3 - 🗞️ NOTICIAS 24H",Record News OPÇÃO 2
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162484.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Globo News HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globonews.png" group-title="3 - 🗞️ NOTICIAS 24H",Globo News OPÇÃO 1
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/25007.ts
+https://dns.p2.wtf/rogerio55x/24992611250/296342
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="BR| GLOBO NEWS HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="3 - 🗞️ NOTICIAS 24H",Globo News OPÇÃO 2
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162406.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="CNN Brasil HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cnnbrasil.png" group-title="3 - 🗞️ NOTICIAS 24H",CNN Brasil OPÇÃO 1
-https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+https://dns.p2.wtf/rogerio55x/24992611250/296350
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="BR| CNN BRASIL HD" tvg-logo="https://lo1.in/BR/cnnbrs.png" group-title="3 - 🗞️ NOTICIAS 24H",CNN Brasil OPÇÃO 2
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Discovery Channel HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Channel OPÇÃO 1
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23011.ts
+https://dns.p2.wtf/rogerio55x/24992611250/296584
 #EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="BR| DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/BR/disch.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Channel OPÇÃO 2
 http://bpbe.one:80/5627286/43199/181.ts
 #EXTINF:-1 tvg-id="15" tvg-name="Animal Planet HD" tvg-logo="http://www.fontedecanais.org/logos/canais/animalplanet.png" group-title="4 - 📹   DOCUMENTÁRIOS",Animal Planet OPÇÃO 1
@@ -208,7 +208,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12052.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR| DISCOVERY TLC HD" tvg-logo="https://lo1.in/BR/distlc.png" group-title="4 - 📹   DOCUMENTÁRIOS",TLC OPÇÃO 2
 http://bpbe.one:80/5627286/43199/314.ts
 #EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryhh.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery H&H OPÇÃO 1
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12014.ts
+https://dns.p2.wtf/rogerio55x/24992611250/296568
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="BR| DISCOVERY H&H HD" tvg-logo="https://lo1.in/arg/hhh.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery H&H OPÇÃO 2
 http://bpbe.one:80/5627286/43199/183.ts
 #EXTINF:-1 tvg-id="18" tvg-name="Discovery Turbo HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryturbo.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Turbo OPÇÃO 1
@@ -3089,3 +3089,174 @@ https://sempra.pro/a1/out/6/6633/6633_alemao-2-2022-1080p-web-dl-nacional-5.1.m3
 #EXTINF:-1 tvg-id="" tvg-name="Rio do Desejo" tvg-logo="http://i.imgur.com/IWGyp65.jpeg" group-title="Filmes",Rio do Desejo
 https://sempra.pro/a1/out/6/5314/5314_o.rio.do.desejo.2023.1080p.web-dl.nacional.m3u8
 
+################################### SERIE CHUCK ######################################
+Aqui está a sua lista organizada em ordem crescente (da Temporada 1, Episódio 1 até a Temporada 5, Episódio 13):
+
+#EXTINF:-1 tvg-name="Chuck 2007 S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/j0D52ABNTdIP9eak6n2DkPDAEI6.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S01E01
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239349.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/y4ur1lTMdCXyxY7o5JAqKLK922v.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S01E02
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239350.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/kIBbmXHxnWUA38nvOHBOjF8hdQZ.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S01E03
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239351.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/i0tWyF9049kvptV7HGARsE80qt8.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S01E04
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239352.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/3Cz1fKR1Kg3muJaR0u9FThgbwiM.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S01E05
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239353.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/uw4o5xHh4r66ylR0QwLgaYcRnly.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S01E06
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239354.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/xaZrjvAlGPnW0PDFHlgv3dDMIoz.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S01E07
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239355.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/1xhQYyWF4aqUwfEJYEU4n6mjEHv.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S01E08
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239356.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/lY0iapTslAn3wAKUZjDIBmdBtjD.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S01E09
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239357.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/9Jto4lmjQB3ew7On5cgr6ygIdks.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S01E10
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239358.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S01E11" tvg-logo="https://image.tmdb.org/t/p/w1280/9PUj3d3QELfZhFAJydo50VunHor.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S01E11
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239359.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S01E12" tvg-logo="https://image.tmdb.org/t/p/w1280/xWklxhQFRvK5AixIevHBIgCxdna.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S01E12
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239360.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S01E13" tvg-logo="https://image.tmdb.org/t/p/w1280/y5VMaAu2H2plXZ0V50lpQE6aZpG.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S01E13
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239361.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S02E01" tvg-logo="https://image.tmdb.org/t/p/w1280/t3mQCvONu76bYPE1vWRNgU71GOh.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S02E01
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239362.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S02E02" tvg-logo="https://image.tmdb.org/t/p/w1280/4O535xDkx8ABizotyrp7w9cGlzi.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S02E02
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239363.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S02E03" tvg-logo="https://image.tmdb.org/t/p/w1280/u9kn261lnGZgsQhAOIe4swBKFrJ.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S02E03
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239364.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S02E04" tvg-logo="https://image.tmdb.org/t/p/w1280/oxNKX299FRHo3giZlqY6aBlV4RU.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S02E04
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239365.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S02E05" tvg-logo="https://image.tmdb.org/t/p/w1280/9wbK0K0GtJ2jnGnoGLDcmVHTpwR.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S02E05
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239366.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S02E06" tvg-logo="https://image.tmdb.org/t/p/w1280/j3sk87NXzKSrlyBizTuBroZRMiy.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S02E06
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239367.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S02E07" tvg-logo="https://image.tmdb.org/t/p/w1280/ahYvIf6t6RoHvwKMBeuQpxur45L.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S02E07
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239368.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S02E08" tvg-logo="https://image.tmdb.org/t/p/w1280/uSLbN1DUx1bqVzj9WiokDZPuzca.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S02E08
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239369.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S02E09" tvg-logo="https://image.tmdb.org/t/p/w1280/dspj6F18V25zsU71LUzmuUAdWGS.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S02E09
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239370.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S02E10" tvg-logo="https://image.tmdb.org/t/p/w1280/lLOQRdwQvrIISBmDcZ1VkivIYqw.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S02E10
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239371.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S02E11" tvg-logo="https://image.tmdb.org/t/p/w1280/tA8h0g9unZuaQaZ9REkHkyNKHbW.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S02E11
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239372.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S02E12" tvg-logo="https://image.tmdb.org/t/p/w1280/pytyn0dHoGY8m7PsEgUoJ0WTxfr.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S02E12
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239373.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S02E13" tvg-logo="https://image.tmdb.org/t/p/w1280/1IYRvScFLfhzQiQ62rKEZ083fLb.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S02E13
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239374.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S02E14" tvg-logo="https://image.tmdb.org/t/p/w1280/rEA67vjAWlZKZFlzfaUdtE0HRQi.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S02E14
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239375.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S02E15" tvg-logo="https://image.tmdb.org/t/p/w1280/uhxuybsfUUDiIFwa3VqkbBNnxwT.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S02E15
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239376.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E01" tvg-logo="https://image.tmdb.org/t/p/w1280/rmnuIZgi3GEy6jUoZsNN7GKwBcu.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E01
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239377.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E02" tvg-logo="https://image.tmdb.org/t/p/w1280/hgeh9oUoCZvvzF50TjqnnI6fbVH.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E02
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239378.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E03" tvg-logo="https://image.tmdb.org/t/p/w1280/swkg7eoazj5kOnHF615YIcJNTsd.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E03
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239379.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E04" tvg-logo="https://image.tmdb.org/t/p/w1280/2e6ADoggwZkRRCm6np4GTHp1Lnm.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E04
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239380.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E05" tvg-logo="https://image.tmdb.org/t/p/w1280/F7dvJWaUbrp76wgtwH6FKBaMPa.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E05
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239381.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E06" tvg-logo="https://image.tmdb.org/t/p/w1280/6DfAGuLGlW033F2Nw0mEpNGMIUf.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E06
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239382.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E07" tvg-logo="https://image.tmdb.org/t/p/w1280/tiNmdIO01sN5q4B1ci1c2YlIGwx.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E07
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239383.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E08" tvg-logo="https://image.tmdb.org/t/p/w1280/53zxTCa3eypvqBh6YgDKp3If7xQ.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E08
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239384.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E09" tvg-logo="https://image.tmdb.org/t/p/w1280/7fndBqHx4HvVrwJeuZInw37AyCg.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E09
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239385.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E10" tvg-logo="https://image.tmdb.org/t/p/w1280/xdqCB9VIH87Cx3gH98GYsdlYgLv.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E10
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239386.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E11" tvg-logo="https://image.tmdb.org/t/p/w1280/iU5Tcq0tO2NcpZTcNcrdXzOaS8T.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E11
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239387.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E12" tvg-logo="https://image.tmdb.org/t/p/w1280/3DT901i6wAomnBDVoKewNiPQvgo.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E12
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239388.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E13" tvg-logo="https://image.tmdb.org/t/p/w1280/aw4RVF5Fu93yBXefRohEFnjsQTS.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E13
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239389.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E14" tvg-logo="https://image.tmdb.org/t/p/w1280/Au8SUWRMubLXYYZ7HdjiGfFbLcC.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E14
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239390.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E15" tvg-logo="https://image.tmdb.org/t/p/w1280/qM6rqGolS7wehrb78LKQS0GVH5y.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E15
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239391.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E16" tvg-logo="https://image.tmdb.org/t/p/w1280/5HdK8ExO0fbsNzvsukFx5YUGA2L.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E16
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239392.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E17" tvg-logo="https://image.tmdb.org/t/p/w1280/pJcWlruWWzimFEcdw7eZiwFbbXY.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E17
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239393.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E18" tvg-logo="https://image.tmdb.org/t/p/w1280/lv4hgzf4lminJ3GjZyJ7H80gA7L.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E18
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239394.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S03E19" tvg-logo="https://image.tmdb.org/t/p/w1280/3kyrzuylgvAOVGlbET8icgUoY79.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S03E19
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239395.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E01" tvg-logo="https://image.tmdb.org/t/p/w1280/bYcIrnsYKMmO41cUTh83CiANOmI.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E01
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239396.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E02" tvg-logo="https://image.tmdb.org/t/p/w1280/l3FcSXqGOeax2bQKuYUFGPmjwmj.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E02
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239397.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E03" tvg-logo="https://image.tmdb.org/t/p/w1280/2gn3VbvWGgFiqymIJqdhyZm7Vgi.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E03
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239398.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E04" tvg-logo="https://image.tmdb.org/t/p/w1280/gHWOkqSadEcFU2jes6FA027bJU6.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E04
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239399.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E05" tvg-logo="https://image.tmdb.org/t/p/w1280/rbMQhg8EQoEOA1CaVaW7vtmvmZL.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E05
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239400.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E06" tvg-logo="https://image.tmdb.org/t/p/w1280/ghjKuExOtfQCQnQ0q9TXLr8llCo.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E06
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239401.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E07" tvg-logo="https://image.tmdb.org/t/p/w1280/zfXxwVYqkUKEkhQwRLTJtLUfoSk.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E07
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239402.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E08" tvg-logo="https://image.tmdb.org/t/p/w1280/8hE8sQ5qb6ijwLjFeNjWQuaeknT.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E08
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239403.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E09" tvg-logo="https://image.tmdb.org/t/p/w1280/9mYulWnAUU7qWlBaCfoKEvXlW6C.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E09
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239404.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E10" tvg-logo="https://image.tmdb.org/t/p/w1280/a3SQ7DuMFYIIwrICHsXFwoDhZoB.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E10
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239405.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E11" tvg-logo="https://image.tmdb.org/t/p/w1280/8TpXfZdy6CV5jzIheiHzUQ31CA9.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E11
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239406.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E12" tvg-logo="https://image.tmdb.org/t/p/w1280/842xyqR1ccn4pQEGfxqz7m0x9IF.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E12
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239407.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E13" tvg-logo="https://image.tmdb.org/t/p/w1280/iuMgJ7RSkp0j6G8BvGfAIk8ip36.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E13
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239408.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E14" tvg-logo="https://image.tmdb.org/t/p/w1280/6Egh2UaTLGPubVT37kBkm6b7HZS.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E14
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239409.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E15" tvg-logo="https://image.tmdb.org/t/p/w1280/v5ksyGLwdDKpnrR5heU7Wxw1kic.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E15
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239410.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E16" tvg-logo="https://image.tmdb.org/t/p/w1280/n0oGNso3IaaVIfurMEI0065rrwd.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E16
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239411.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E17" tvg-logo="https://image.tmdb.org/t/p/w1280/tdVPYeOtfg5FTk1sf7oDgDzVzMo.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E17
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239412.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E18" tvg-logo="https://image.tmdb.org/t/p/w1280/9j5inPOxW3w1akivy1sLqzGyUiT.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E18
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239413.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E19" tvg-logo="https://image.tmdb.org/t/p/w1280/eJZKEsuyj0od8N0zSnGlIuZoZCB.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E19
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239414.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E20" tvg-logo="https://image.tmdb.org/t/p/w1280/sMNzijjQIoasiQvd3j1DHYSBVyZ.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E20
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239415.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E21" tvg-logo="https://image.tmdb.org/t/p/w1280/lerjWS2JvtwgIxBjBTKBWfdC8EF.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E21
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239416.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E22" tvg-logo="https://image.tmdb.org/t/p/w1280/5O5r28EJZOkVwEcnUBxknLyiB4n.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E22
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239417.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E23" tvg-logo="https://image.tmdb.org/t/p/w1280/qOrIMS1snbroZiofds2lM7dcXHC.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E23
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239418.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S04E24" tvg-logo="https://image.tmdb.org/t/p/w1280/sobfWEUfRHraSzWlJxrzJfcYzw5.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S04E24
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239419.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S05E01" tvg-logo="https://image.tmdb.org/t/p/w1280/8jwC4RkVGm7Ds3ueHeJYeylFdtw.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S05E01
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239420.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S05E02" tvg-logo="https://image.tmdb.org/t/p/w1280/AkUOKIUWWaa8dE0DzOF85Leh7rQ.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S05E02
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239421.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S05E03" tvg-logo="https://image.tmdb.org/t/p/w1280/1iXxhUz6siRHvAEEZ0XSNWEQ7Oa.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S05E03
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239422.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S05E04" tvg-logo="https://image.tmdb.org/t/p/w1280/7lJkWTpSONEsczvebhcUMNRb15x.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S05E04
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239423.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S05E05" tvg-logo="https://image.tmdb.org/t/p/w1280/p65ayNF8Qr2Rprt1FoXDtSpLL0H.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S05E05
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239424.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S05E06" tvg-logo="https://image.tmdb.org/t/p/w1280/3qokbyl52vP0LnF4wDAW78cwl8i.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S05E06
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239425.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S05E07" tvg-logo="https://image.tmdb.org/t/p/w1280/9EejUP8zfgSJzTNrFk7G2LLDOpM.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S05E07
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239426.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S05E08" tvg-logo="https://image.tmdb.org/t/p/w1280/gvmZ9hMH7dVXFDwm3SqhDBAuAh3.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S05E08
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239427.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S05E09" tvg-logo="https://image.tmdb.org/t/p/w1280/ctPK92jvgLZVKVc8pIMmUdBxgkG.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S05E09
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239428.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S05E10" tvg-logo="https://image.tmdb.org/t/p/w1280/pMDcOFk6HBUsgZvXadcTYw07zB1.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S05E10
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239429.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S05E11" tvg-logo="https://image.tmdb.org/t/p/w1280/sGr9qNHgSJHg92v9xFMKDl59GlP.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S05E11
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239430.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S05E12" tvg-logo="https://image.tmdb.org/t/p/w1280/fq0LRmcVpqaxUgm6CQJz86cW383.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S05E12
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239431.mp4
+#EXTINF:-1 tvg-name="Chuck 2007 S05E13" tvg-logo="https://image.tmdb.org/t/p/w1280/fPIQnNRm4GyW3NCEy171JPzZ75D.jpg" group-title="SERIES | PRIME VIDEO",Chuck 2007 S05E13
+https://dns.p2.wtf/series/rogerio55x/24992611250/1239432.mp4
