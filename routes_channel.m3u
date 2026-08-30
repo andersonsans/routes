@@ -5245,3 +5245,23 @@ https://sandroflix.sandrostoreps3.workers.dev/content/filmes/2023/Fe.nas.Alturas
 https://sandroflix.sandrostoreps3.workers.dev/content/filmes/Acao/Independence-Day.1.-.BY.SANDRO.STORE.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/FILMES/ACAO/Independence.Day.2.O.resurgimento.jpg" , Independence Day 2
 https://sandroflix.sandrostoreps3.workers.dev/content/filmes/Acao/Independence.Day.2.O.resurgimento.-.BY.SANDRO.STORE.mp4
+
+
+########################################## LISTAS AGRUPADAS ################################################
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/cameras.escondidas.jpg" group-title="PEGADINHAS", PEGADINHAS
+https://raw.githubusercontent.com/s4f1ixcustom/L00000/refs/heads/main/menu/PEGADINHAS.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="Amor a Vida" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/Amor.a.Vida.jpg" group-title="NOVELAS" , NOVELAS
+https://raw.githubusercontent.com/s4f1ixcustom/L00000/refs/heads/main/menu/NOVELAS.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/ANIMES/AS.AVENTURAS.DE.JACKIE.CHAN.jpg" group-title="ANIMES", ANIMES
+https://raw.githubusercontent.com/s4f1ixcustom/L00000/refs/heads/main/menu/ANIMES.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="GameofThrones" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/GameofThrones.png" group-title="SERIES", SERIES
+https://raw.githubusercontent.com/s4f1ixcustom/L00000/refs/heads/main/menu/SERIES.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/ACAO-FILMES.png" group-title="FILMES" , FILMES
+https://raw.githubusercontent.com/s4f1ixcustom/L00000/refs/heads/main/menu/FILMES.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/Chaves.jpg" group-title="HUMOR", HUMOR
+https://raw.githubusercontent.com/s4f1ixcustom/L00000/refs/heads/main/menu/HUMOR.m3u
