@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="1 - 📺 TV ABERTA",REDE GLOBO SP
-https://dns.p2.wtf/rogerio55x/24992611250/296729
+https://megaflix.mgfiles.lat/e4dbaf4a9a639fd534175825e13fe51c/file.m3u8
 #EXTINF:-1 description="Programação TV Globo" tvg-logo="http://i.imgur.com/qtRBqdX.png" group-title="1 - 📺 TV ABERTA",REDE GLOBO OPCAO 2
-https://dns.p2.wtf/rogerio55x/24992611250/295828
+https://megaflix.mgfiles.lat/d997d9fa5dfd7cb463c13b306bb2bfb4/file.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globo BA Rede Bahia FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="1 - 📺 TV ABERTA",Globo BA Rede Bahia FHD
-https://dns.p2.wtf/rogerio55x/24992611250/296832
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globo BA Rede Bahia SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="1 - 📺 TV ABERTA",Globo BA Rede Bahia SD
 https://dns.p2.wtf/rogerio55x/24992611250/296833
 #EXTINF:-1 description="Programação Band" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="1 - 📺 TV ABERTA",REDE BAND SP
