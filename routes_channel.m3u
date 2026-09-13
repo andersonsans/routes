@@ -124,11 +124,11 @@ https://dns.p2.wtf/rogerio55x/24992611250/296350
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="BR| CNN BRASIL HD" tvg-logo="https://lo1.in/BR/cnnbrs.png" group-title="3 - 🗞️ NOTICIAS 24H",CNN Brasil OPÇÃO 2
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Discovery Channel HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Channel OPÇÃO 1
-https://dns.p2.wtf/rogerio55x/24992611250/296584
+https://megaflix.mgfiles.lat/d1b381bc3ed478f4542608eef5855d4d/file.m3u8
 #EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="BR| DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/BR/disch.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Channel OPÇÃO 2
 http://bpbe.one:80/5627286/43199/181.ts
 #EXTINF:-1 tvg-id="15" tvg-name="Animal Planet HD" tvg-logo="http://www.fontedecanais.org/logos/canais/animalplanet.png" group-title="4 - 📹   DOCUMENTÁRIOS",Animal Planet OPÇÃO 1
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/23001.ts
+https://megaflix.mgfiles.lat/57c6d69cb4ef52237cab5debc43f1c4e/file.m3u8
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="BR| ANIMAL PLANET HD" tvg-logo="https://lo1.in/BR/anmpl.png" group-title="4 - 📹   DOCUMENTÁRIOS",Animal Planet OPÇÃO 2
 http://bpbe.one:80/5627286/43199/179.ts
 #EXTINF:-1 tvg-id="12" tvg-name="TLC HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tlc.png" group-title="4 - 📹   DOCUMENTÁRIOS",TLC OPÇÃO 1
@@ -136,7 +136,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12052.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR| DISCOVERY TLC HD" tvg-logo="https://lo1.in/BR/distlc.png" group-title="4 - 📹   DOCUMENTÁRIOS",TLC OPÇÃO 2
 http://bpbe.one:80/5627286/43199/314.ts
 #EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryhh.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery H&H OPÇÃO 1
-https://dns.p2.wtf/rogerio55x/24992611250/296568
+http://hls1.sua.tv:80/live/discoveryhehfhd/s.m3u8
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="BR| DISCOVERY H&H HD" tvg-logo="https://lo1.in/arg/hhh.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery H&H OPÇÃO 2
 http://bpbe.one:80/5627286/43199/183.ts
 #EXTINF:-1 tvg-id="18" tvg-name="Discovery Turbo HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryturbo.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Turbo OPÇÃO 1
@@ -176,33 +176,33 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/12037.ts
 #EXTINF:-1 tvg-id="BR - MTV Brasil" tvg-name="MTV [HD]" tvg-logo="http://cc90.one/VAK" group-title="4 - 📹   DOCUMENTÁRIOS",MTV OPÇÃO 2
 http://bpbe.one:80/5627286/43199/15.ts
 #EXTINF:-1 tvg-id="69" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="5 - 🎬 Filmes & Series",Telecine Action OPÇÃO 1
-https://megaflix.mgfiles.lat/a29201ef747ac899f4e887770f76dc15/file.m3u8
+https://megaflix.mgfiles.lat/63135c4c4b0659c801eac8c7c7933490/file.m3u8
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR| TELECINE ACTION HD" tvg-logo="https://lo1.in/BR/telact.png" group-title="5 - 🎬 Filmes & Series",Telecine Action OPÇÃO 2
 http://45.162.231.38:7779/Telecine_Action/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="Telecine Cult HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinecult.png" group-title="5 - 🎬 Filmes & Series",Telecine Cult OPÇÃO 1
-http://45.162.231.38:7779/Telecine_Cult/index.m3u8
+https://megaflix.mgfiles.lat/d0001fcac971a8f5fec353c6b5555c92/file.m3u8
 #EXTINF:-1 tvg-id="telecinecult.br" tvg-name="BR| TELECINE CULT HD" tvg-logo="https://lo1.in/BR/telcu.png" group-title="5 - 🎬 Filmes & Series",Telecine Cult OPÇÃO 2
 http://15.235.42.84:8088/rj-live/rj-live/600243.ts
 #EXTINF:-1 tvg-id="71" tvg-name="Telecine Fun HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinefun.png" group-title="5 - 🎬 Filmes & Series",Telecine Fun OPÇÃO 1
-http://15.235.42.84:8088/rj-live/rj-live/600245.ts
+https://megaflix.mgfiles.lat/394e166f37da5398d6ec6ca847cae6b8/file.m3u8
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="BR| TELECINE FUN HD" tvg-logo="https://lo1.in/BR/telcef.png" group-title="5 - 🎬 Filmes & Series",Telecine Fun OPÇÃO 2
 http://45.162.231.38:7779/Telecine_Fun/index.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="Telecine Pipoca HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinepipoca.png" group-title="5 - 🎬 Filmes & Series",Telecine Pipoca OPÇÃO 1
-http://s2.micineovs.com/TELECINEPIPOCA/index.m3u8?token=16FOTt9Ae2m8
+https://megaflix.mgfiles.lat/a8bcc0cd38da1c2ca91163c477a8693a/file.m3u8
 #EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| TELECINE PIPOCA HD" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="5 - 🎬 Filmes & Series",Telecine Pipoca OPÇÃO 2
 http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/36937.ts
 #EXTINF:-1 tvg-id="68" tvg-name="Telecine Premium HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinepremium.png" group-title="5 - 🎬 Filmes & Series",Telecine Premium OPÇÃO 1
-http://s2.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8
+https://megaflix.mgfiles.lat/5b09d7f4eafacee91476042e815ff770/file.m3u8
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="BR| TELECINE PREMIUM HD" tvg-logo="https://lo1.in/BR/telcnpr.png" group-title="5 - 🎬 Filmes & Series",Telecine Premium OPÇÃO 2
 http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/36936.ts
 #EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinetouch.png" group-title="5 - 🎬 Filmes & Series",Telecine Touch HD OPÇÃO 1
-https://dns.p2.wtf/rogerio55x/24992611250/296196
+https://megaflix.mgfiles.lat/fe25213aa34ebd266d1f5e4faa16bd73/file.m3u8
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="BR| TELECINE TOUCH HD" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="5 - 🎬 Filmes & Series",Telecine Touch HD OPÇÃO 2
 http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/36935.ts
 #EXTINF:-1 tvg-id="260" tvg-name="HBO HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo.png" group-title="5 - 🎬 Filmes & Series",HBO OPÇÃO 1
 https://cr7v.short.gy/ManoTV/tempor%C3%A1rio/index.m3u8
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="BR| HBO HD" tvg-logo="https://lo1.in/BR/hbo.png" group-title="5 - 🎬 Filmes & Series",HBO OPÇÃO 2
-http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/36964.ts
+https://megaflix.mgfiles.lat/71baa33dd182b88c51a35742b1796637/file.m3u8
 #EXTINF:-1 tvg-id="261" tvg-name="HBO 2 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo2.png" group-title="5 - 🎬 Filmes & Series",HBO 2 OPÇÃO 1
 https://megaflix.mgfiles.lat/271358327102dbcb00df1e1b08f2298e/file.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="BR| HBO 2 HD" tvg-logo="https://lo1.in/BR/hbo2.png" group-title="5 - 🎬 Filmes & Series",HBO 2 OPÇÃO 1
@@ -232,11 +232,11 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/14022.ts
 #EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="BR| HBO XTREME HD" tvg-logo="https://lo1.in/BR/hboxtr.png" group-title="5 - 🎬 Filmes & Series",HBO Xtreme OPÇÃO 2
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8916
 #EXTINF:-1 tvg-name="Megapix" tvg-logo="http://i.imgur.com/Xlf6PBQ.png" group-title="5 - 🎬 Filmes & Series",Megapix OPÇÃO 1
-http://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
+https://megaflix.mgfiles.lat/dc3c9b4e5e18c852e6c9377521d78c77/file.m3u8
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="BR| MEGAPIX HD" tvg-logo="https://lo1.in/BR/megapx.png" group-title="5 - 🎬 Filmes & Series",Megapix OPÇÃO 2
 http://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="10" tvg-name="Space HD" tvg-logo="http://www.fontedecanais.org/logos/canais/space.png" group-title="5 - 🎬 Filmes & Series",Space OPÇÃO 1
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/70
+https://megaflix.mgfiles.lat/79ac1552b8fc237744171de2ace62cae/file.m3u8
 #EXTINF:-1 tvg-id="space.br" tvg-name="BR| SPACE HD" tvg-logo="https://lo1.in/BR/spc.png" group-title="5 - 🎬 Filmes & Series",Space OPÇÃO 2
 http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/36944.ts
 #EXTINF:-1 tvg-id="9" tvg-name="TNT HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tnt.png" group-title="5 - 🎬 Filmes & Series",TNT OPÇÃO 1
@@ -280,7 +280,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13024.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" tvg-logo="http://www.fontedecanais.org/logos/canais/sonymovies.png" group-title="5 - 🎬 Filmes & Series",Sony Movies Opção 2
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13025.ts
 #EXTINF:-1 tvg-id="178" tvg-name="Cinemax HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cinemax.png" group-title="5 - 🎬 Filmes & Series",Cinemax OPÇÃO 1
-https://megaflix.mgfiles.lat/3b8b64555fa7b54bd2219c85929f14c0/file.m3u8
+https://megaflix.mgfiles.lat/8f0271a41f043f00ff53657cbd3cccb1/file.m3u8
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="BR| CINEMAX HD" tvg-logo="https://lo1.in/BR/cinmx.png" group-title="5 - 🎬 Filmes & Series",Cinemax OPÇÃO 2
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8709
 #EXTINF:-1 tvg-id="" tvg-name="BR| STAR CHANNEL HD" tvg-logo="https://lo1.in/BR/flag.png" group-title="5 - 🎬 Filmes & Series",Star Channel OPÇÃO 1
