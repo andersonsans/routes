@@ -204,13 +204,13 @@ http://dali-as.skin:80/live/728442553/408909078/5298357.ts
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="BR| TELECINE TOUCH HD" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="5 - 🎬 Filmes & Series",Telecine Touch HD OPÇÃO 2
 http://149.102.252.201:80/171350/B89tAq/72368.ts
 #EXTINF:-1 tvg-id="260" tvg-name="HBO HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo.png" group-title="5 - 🎬 Filmes & Series",HBO OPÇÃO 1
-http://egecalu.online/live/861970655/687908312/e3005939-a8b9-46ce-bffa-ebc397d10382.ts?PlaylistM3UCL
+http://dali-as.skin:80/live/728442553/408909078/514108.ts
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="BR| HBO HD" tvg-logo="https://lo1.in/BR/hbo.png" group-title="5 - 🎬 Filmes & Series",HBO OPÇÃO 2
 https://megaflix.mgfiles.lat/71baa33dd182b88c51a35742b1796637/file.m3u8
 #EXTINF:-1 tvg-id="261" tvg-name="HBO 2 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo2.png" group-title="5 - 🎬 Filmes & Series",HBO 2 OPÇÃO 1
 http://egecalu.online/live/861970655/687908312/f5bcd9b7-4805-4a9a-a5ba-48a4c188afb0.ts?PlaylistM3UCL
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="BR| HBO 2 HD" tvg-logo="https://lo1.in/BR/hbo2.png" group-title="5 - 🎬 Filmes & Series",HBO 2 OPÇÃO 2
-http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/36966.ts
+http://dali-as.skin:80/live/728442553/408909078/514111.ts
 #EXTINF:-1 tvg-id="263" tvg-name="HBO Family HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbofamily.png" group-title="5 - 🎬 Filmes & Series",HBO Family OPÇÃO 1
 http://egecalu.online/live/861970655/687908312/f0d66239-4c82-4750-b41f-6112ea02483e.ts?PlaylistM3UCL
 #EXTINF:-1 tvg-id="hbofamily.br" tvg-name="BR| HBO FAMILY HD" tvg-logo="https://lo1.in/BR/hbofm.png" group-title="5 - 🎬 Filmes & Series",HBO Family OPÇÃO 2
@@ -307,6 +307,21 @@ http://7semfronteiras.cc:8080/julia3387/jpc374856/22616
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/13049.ts
 #EXTINF:-1 tvg-id="universal.br" tvg-name="BR| UNIVERSAL CHANNEL HD" tvg-logo="https://lo1.in/BR/univch.png" group-title="5 - 🎬 Filmes & Series",Studio Universal OPÇÃO 2
 http://7semfronteiras.cc:8080/julia3387/jpc374856/121370
+
+#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedecanais.sh/logos/canais/cinesky.png" group-title="CANAIS = SKY",Cine SKY 01
+http://dali-as.skin:80/live/728442553/408909078/1882617.ts
+#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 02" tvg-logo="http://www.fontedecanais.sh/logos/canais/cinesky.png" group-title="CANAIS = SKY",Cine SKY 02
+http://dali-as.skin:80/live/728442553/408909078/1882618.ts
+#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 03" tvg-logo="http://www.fontedecanais.sh/logos/canais/cinesky.png" group-title="CANAIS = SKY",Cine SKY 03
+http://dali-as.skin:80/live/728442553/408909078/1882619.ts
+#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 04" tvg-logo="http://www.fontedecanais.sh/logos/canais/cinesky.png" group-title="CANAIS = SKY",Cine SKY 04
+http://dali-as.skin:80/live/728442553/408909078/1882620.ts
+#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 05" tvg-logo="http://www.fontedecanais.sh/logos/canais/cinesky.png" group-title="CANAIS = SKY",Cine SKY 05
+http://dali-as.skin:80/live/728442553/408909078/1882621.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Campinas FHD" tvg-logo="http://www.fontedecanais.sh/logos/canais/band.png" group-title="CANAIS = BAND",Band Campinas FHD
+http://dali-as.skin:80/live/728442553/408909078/324352.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Campinas HD" tvg-logo="http://www.fontedecanais.sh/logos/canais/band.png" group-title="CANAIS = BAND",Band Campinas HD
+http://dali-as.skin:80/live/728442553/408909078/324353.ts
 
 ############################################################################ Canais | INFANTIL
 
@@ -967,862 +982,361 @@ https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
 
 ############################################################################ 24 HORAS
 
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas 4 Amigos Canal YouTube" tvg-logo="http://alt.playmaster.top:80/images/157bd447ab75d1d9a5f1aac7d5f14438.jpg" group-title="24 Horas - Youtube",24 Horas 4 Amigos Canal YouTube
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433019.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas A Casa do Mickey Mouse" tvg-logo="http://alt.playmaster.top:80/images/b3a1d80e315cf6451e653b24ad86c6ac.jpg" group-title="24 Horas - Desenhos",24 Horas A Casa do Mickey Mouse
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432997.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas A Casa Mágica da Gabby" tvg-logo="http://alt.playmaster.top:80/images/e277b8acb13f1f3edb665a7eb485fba5.png" group-title="24 Horas - Desenhos",24 Horas A Casa Mágica da Gabby
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433087.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas A Pantera Cor-de-Rosa" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQLbUPZaBPcwzxCSsHrvltGUQq4OFhrN76wlotThhMpbQqleWI" group-title="24 Horas - Desenhos",24 Horas A Pantera Cor-de-Rosa
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432960.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Aladdin" tvg-logo="http://alt.playmaster.top:80/images/7db361b78d2839a7f8306897b9161404.jpg" group-title="24 Horas - Desenhos",24 Horas Aladdin
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432958.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas As Aventuras de Jackie Chan" tvg-logo="http://alt.playmaster.top:80/images/ec79c66fc9cc21c2fe08edb76c6b905a.jpg" group-title="24 Horas - Desenhos",24 Horas As Aventuras de Jackie Chan
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432974.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas As Meninas Superpoderosas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRui2jxmv63K_bEPGnAkYpx3KbvTP9XxTmon8MG_A5gkyopQprT" group-title="24 Horas - Desenhos",24 Horas As Meninas Superpoderosas
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432980.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Baby Looney Tunes" tvg-logo="http://alt.playmaster.top:80/images/1f9bb3c96f800022aca68d4d2ef5c38c.jpg" group-title="24 Horas - Desenhos",24 Horas Baby Looney Tunes
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432993.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Badin Canal YouTube" tvg-logo="http://alt.playmaster.top:80/images/62e241a871f78bae2e7fd672f580e0d8.png" group-title="24 Horas - Youtube",24 Horas Badin Canal YouTube
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433021.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Batman e Robin" tvg-logo="http://alt.playmaster.top:80/images/68ff0db30b201ff8e144fa7fb8b9e39a.jpg" group-title="24 Horas - Desenhos",24 Horas Batman e Robin
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433008.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Ben 10" tvg-logo="http://alt.playmaster.top:80/images/e6463e7987372c0eb24fdfc41c5d05cb.jpg" group-title="24 Horas - Desenhos",24 Horas Ben 10
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432981.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Beyblade" tvg-logo="http://alt.playmaster.top:80/images/b8d2365b24101fc6ecd1bd6dc9701697.jpg" group-title="24 Horas - Desenhos",24 Horas Beyblade
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432983.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Bob Esponja" tvg-logo="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=4259515&qld=90&l=830&a=-1=1007943217" group-title="24 Horas - Desenhos",24 Horas Bob Esponja
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432978.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Bob Zoom" tvg-logo="http://alt.playmaster.top:80/images/884268653abd480d75f493ab046ea9c7.png" group-title="24 Horas - Desenhos",24 Horas Bob Zoom
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432988.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas CanalCanalha YouTube" tvg-logo="https://yt3.ggpht.com/t1DH-v5JrbFcj_47zo5XvtUb1cd0imcwDLXANN2dRgjjZjWXh2d-fUchS2njCJu7e2u5xrLceQ=w640-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj" group-title="24 Horas - Youtube",24 Horas CanalCanalha YouTube
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433032.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Capitão Planeta" tvg-logo="http://alt.playmaster.top:80/images/e835ec8f07c6b97584bd308f14ddd06a.jpg" group-title="24 Horas - Desenhos",24 Horas Capitão Planeta
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432984.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Castelo Rá-Tim-Bum" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqn_rzB44ZxE7ahbcXlaXqIvmaWszq8UoXEkNqwJ-k7LqoiVdR" group-title="24 Horas - Desenhos",24 Horas Castelo Rá-Tim-Bum
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432961.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Caverna do Dragão" tvg-logo="http://alt.playmaster.top:80/images/0cf5e8ae0e3650252a0bd6b507baecbe.jpg" group-title="24 Horas - Desenhos",24 Horas Caverna do Dragão
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432956.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Chapolin" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ72QbL0t5hzHTxN-vKJTEFhwWgwSngJ-Hyg2MahDlymXi5MSIE" group-title="24 Horas - Desenhos",24 Horas Chapolin
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432951.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Chaves Em Desenho Animado" tvg-logo="http://alt.playmaster.top:80/images/94321f278d3955acf0c0588e744e37bc.jpg" group-title="24 Horas - Desenhos",24 Horas Chaves Em Desenho Animado
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432982.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Coragem, o Cão Covarde" tvg-logo="http://alt.playmaster.top:80/images/b8d2365b24101fc6ecd1bd6dc9701697.jpg" group-title="24 Horas - Desenhos",24 Horas Coragem, o Cão Covarde
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432959.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Digimon" tvg-logo="http://alt.playmaster.top:80/images/8485286445132de23b8052239f75c2b3.png" group-title="24 Horas - Desenhos",24 Horas Digimon
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432990.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Dora a Aventureira" tvg-logo="https://assetsgn.nowonline.com.br/assets/p186113_b_v7_bb.jpg?api_key=snfwq54bnzvgucd7cqvgt86r" group-title="24 Horas - Desenhos",24 Horas Dora a Aventureira
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432987.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Doug" tvg-logo="http://alt.playmaster.top:80/images/b4d7bc3a720800b176c2cbb546efec81.jpg" group-title="24 Horas - Desenhos",24 Horas Doug
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432991.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Dragon Ball Super" tvg-logo="http://alt.playmaster.top:80/images/9346c7ace517b19f5ccf61f8d1f8853d.jpg" group-title="24 Horas - Desenhos",24 Horas Dragon Ball Super
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432953.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Edu Primitivo Canal YouTube" tvg-logo="https://yt3.ggpht.com/E9c66FXG9Pkl3VTBS_yXRHakNrkbI7RxUPy9yIUGmPPqd6cVfLSKrMXpppnleGXu_n6TTwHv=w640-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj" group-title="24 Horas - Youtube",24 Horas Edu Primitivo Canal YouTube
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433023.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Familia Dinoussauros" tvg-logo="" group-title="24 Horas - Desenhos",24 Horas Familia Dinoussauros
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433081.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Futurama" tvg-logo="https://vignette.wikia.nocookie.net/en.futurama/images/6/67/Futurama-01_0.jpg/revision/latest?cb=20141012181430" group-title="24 Horas - Desenhos",24 Horas Futurama
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432972.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Galinha Pintadinha" tvg-logo="http://alt.playmaster.top:80/images/3f10a22949f0f15dd9b70f8b6f84acfb.jpg" group-title="24 Horas - Desenhos",24 Horas Galinha Pintadinha
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432950.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas He-Man" tvg-logo="http://alt.playmaster.top:80/images/bb7bc03c5315481fc4b3bef79563df65.jpg" group-title="24 Horas - Desenhos",24 Horas He-Man
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432973.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Homem-Aranha" tvg-logo="http://alt.playmaster.top:80/images/b8d2365b24101fc6ecd1bd6dc9701697.jpg" group-title="24 Horas - Desenhos",24 Horas Homem-Aranha
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432971.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Homens da Montanha/Gelo" tvg-logo="http://origemdasfontes.ga:80/images/7ebe48f12daebdb9b8bacb92ee0f1761.jpg" group-title="24 Horas - Desenhos",24 Horas Homens da Montanha/Gelo
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433031.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Hora de Aventura" tvg-logo="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9745412&qld=90&l=830&a=-1=1007943217" group-title="24 Horas - Desenhos",24 Horas Hora de Aventura
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432995.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Jiraiya" tvg-logo="https://i.pinimg.com/736x/99/f8/19/99f819e4b7804d7fca6e580788a22592.jpg" group-title="24 Horas - Animes",24 Horas Jiraiya
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433063.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Johnny Bravo" tvg-logo="http://alt.playmaster.top:80/images/475e08bd657f36a4b8f47b16f3b41f21.jpg" group-title="24 Horas - Desenhos",24 Horas Johnny Bravo
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432989.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Kenan e Kel" tvg-logo="http://alt.playmaster.top:80/images/9a08c6c912e9b75c1dcf6173f648fedf.jpg" group-title="24 Horas - Desenhos",24 Horas Kenan e Kel
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432962.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Little Angel - Joãozinho" tvg-logo="http://alt.playmaster.top:80/images/220851885ddd33ecf8ecdacb3be249c1.png" group-title="24 Horas - Desenhos",24 Horas Little Angel - Joãozinho
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433082.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Little Baby Bum" tvg-logo="http://alt.playmaster.top:80/images/23294d0025ce2077cf5074a419675d6d.jpg" group-title="24 Horas - Desenhos",24 Horas Little Baby Bum
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433084.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Luluzinha" tvg-logo="https://vignette.wikia.nocookie.net/turmadaluluzinha/images/0/07/Luluzinha.jpg" group-title="24 Horas - Desenhos",24 Horas Luluzinha
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432992.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Lutas" tvg-logo="http://alt.playmaster.top:80/images/1e0dbb918ad81c02c6980a4c14d06240.jpg" group-title="24 Horas - Desenhos",24 Horas Lutas
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433085.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas MacGyver" tvg-logo="http://alt.playmaster.top:80/images/1ff8d0820d7c1a15e7838876186398fa.jpg" group-title="24 Horas - Desenhos",24 Horas MacGyver
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433004.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Masha e o Urso" tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSFPVbGMG__22kg1FELRxABjy0k2wdnYpCYCwXlPsj0mZlxdpg0_z8fO92WzM5C3CMClWoXa9gNcfoeOPTBJo81YiFr9DyK55aYW4wVx1FXm.png?r=a11" group-title="24 Horas - Desenhos",24 Horas Masha e o Urso
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433086.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Medabots" tvg-logo="http://alt.playmaster.top:80/images/68a3c694e21671b2d720a86bdf1c5984.jpg" group-title="24 Horas - Desenhos",24 Horas Medabots
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432955.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Mickey Mouse" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRS4yQG1NkMVW5PCdOteJiPpL51RmI4RPH50g&usqp=CAU" group-title="24 Horas - Desenhos",24 Horas Mickey Mouse
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432996.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Mundo Bita" tvg-logo="http://alt.playmaster.top:80/images/bf8ad2e583c81edfd7f97d579c12ba12.jpg" group-title="24 Horas - Desenhos",24 Horas Mundo Bita
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432975.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela A Dona do Pedaço" tvg-logo="http://alt.playmaster.top:80/images/198040ae22456a4a83d6ffd218e4da16.jpg" group-title="24 Horas - Novelas",24 Horas Novela A Dona do Pedaço
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433056.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Amor de Mãe" tvg-logo="http://alt.playmaster.top:80/images/bffaa3051fad3d16f7b8881531655011.jpg" group-title="24 Horas - Novelas",24 Horas Novela Amor de Mãe
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433068.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Amor à Vida" tvg-logo="http://alt.playmaster.top:80/images/0ff77ffa24aa712fe6c41367d991ad59.jpg" group-title="24 Horas - Novelas",24 Horas Novela Amor à Vida
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433043.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Apocalipse" tvg-logo="http://alt.playmaster.top:80/images/ef0bed33cf7bf230e73edd5c76c9866f.jpg" group-title="24 Horas - Novelas",24 Horas Novela Apocalipse
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433076.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Avenida Brasil" tvg-logo="http://alt.playmaster.top:80/images/dceb739a18257473fd4ecde3e70eb476.jpg" group-title="24 Horas - Novelas",24 Horas Novela Avenida Brasil
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433042.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Bom Sucesso" tvg-logo="http://alt.playmaster.top:80/images/82885ffb986f5d8657dacbc6336d6045.jpg" group-title="24 Horas - Novelas",24 Horas Novela Bom Sucesso
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433067.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Cabocla" tvg-logo="http://alt.playmaster.top:80/images/6a2d56f2be5f0bb3b46d9cc5b77c1f3f.JPG" group-title="24 Horas - Novelas",24 Horas Novela Cabocla
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433069.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Caminho das Índias" tvg-logo="http://alt.playmaster.top:80/images/f2e46e511493559db9009551271a4463.jpg" group-title="24 Horas - Novelas",24 Horas Novela Caminho das Índias
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433044.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Fina Estampa" tvg-logo="http://alt.playmaster.top:80/images/a798f47ff7eaa8b41ff98b01511dfa70.png" group-title="24 Horas - Novelas",24 Horas Novela Fina Estampa
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433072.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Flor do Caribe" tvg-logo="https://lh3.googleusercontent.com/proxy/nvywOMTxhOz495O6wcfCZDDYdgNotmRLhYE_WmRYA2dIr1Csr1oCF4dIvXU6behGlvAl7wq8eJKTZWUlWyRmD5zLjo5jAybAOs_x8dEcsq2MKFmsybLmulGKfGj97gbEoA" group-title="24 Horas - Novelas",24 Horas Novela Flor do Caribe
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433073.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Jesus" tvg-logo="http://alt.playmaster.top:80/images/1802835dbdaa1cd6e0a7060ea9a91c0a.jpg" group-title="24 Horas - Novelas",24 Horas Novela Jesus
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433077.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Jezebel" tvg-logo="https://img.r7.com/images/jezabel-01042019184608236?dimensions=660x360" group-title="24 Horas - Novelas",24 Horas Novela Jezebel
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433078.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela José do Egito" tvg-logo="http://alt.playmaster.top:80/images/2461d49ae28a8dc7c935b654ee163f28.jpg" group-title="24 Horas - Novelas",24 Horas Novela José do Egito
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433074.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Laços de Família" tvg-logo="http://alt.playmaster.top:80/images/5378b02c17095ad894ea7a5705c288f9.jpg" group-title="24 Horas - Novelas",24 Horas Novela Laços de Família
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433075.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Novo Mundo" tvg-logo="http://alt.playmaster.top:80/images/88203dee455d610dd5a7bf961e8cb81f.png" group-title="24 Horas - Novelas",24 Horas Novela Novo Mundo
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433080.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela O Clone" tvg-logo="http://alt.playmaster.top:80/images/44733dff3064e42d26c6584d75cadf97.jpg" group-title="24 Horas - Novelas",24 Horas Novela O Clone
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433066.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Novela Éramos Seis" tvg-logo="http://alt.playmaster.top:80/images/67f53914c74c648765c5e49ce4722f27.jpg" group-title="24 Horas - Novelas",24 Horas Novela Éramos Seis
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433070.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas O Máskara" tvg-logo="http://alt.playmaster.top:80/images/c23fdb6b3ee0d82dcb75e770923a1be9.jpg" group-title="24 Horas - Desenhos",24 Horas O Máskara
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432963.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas O Show da Luna" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM3W_dXn1mnFFSXib5-DgEH244S-8A6XJ9IJ7d1fr48cWZYP5x" group-title="24 Horas - Desenhos",24 Horas O Show da Luna
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432999.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Os Cavaleiros do Zodiaco" tvg-logo="http://alt.playmaster.top:80/images/b8d2365b24101fc6ecd1bd6dc9701697.jpg" group-title="24 Horas - Desenhos",24 Horas Os Cavaleiros do Zodiaco
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432998.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Os Caçadores de Mitos" tvg-logo="http://alt.playmaster.top:80/images/f0b6d49d8ea318cd49cf2445b171f756.jpg" group-title="24 Horas - Desenhos",24 Horas Os Caçadores de Mitos
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433012.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Os Flintstones" tvg-logo="http://alt.playmaster.top:80/images/b11c16467f93c499527544a09fd0e70a.jpg" group-title="24 Horas - Desenhos",24 Horas Os Flintstones
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433041.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Os Padrinhos Mágicos" tvg-logo="http://alt.playmaster.top:80/images/c09d6e2fbebf95ae6fde1994781d2712.jpg" group-title="24 Horas - Desenhos",24 Horas Os Padrinhos Mágicos
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432964.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Pagode da Ofensa Canal YouTube" tvg-logo="http://alt.playmaster.top:80/images/1490e856e767afc8a9e76d66fe7a0a59.png" group-title="24 Horas - Youtube",24 Horas Pagode da Ofensa Canal YouTube
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433024.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Parafernalha YouTube" tvg-logo="http://alt.playmaster.top:80/images/302bfb3b1b02be9afd0a997c8ffdc96f.jpg" group-title="24 Horas - Youtube",24 Horas Parafernalha YouTube
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433033.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Patrulha Canina" tvg-logo="https://bumerangbrinquedos.vteximg.com.br/arquivos/ids/174954/PATRULHA-CANINA-M.jpg?v=636756496116330000" group-title="24 Horas - Desenhos",24 Horas Patrulha Canina
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432966.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Pegadinhas da RedeTV YouTube" tvg-logo="https://yt3.ggpht.com/a/AATXAJxnNh91CVNV5Ogru8QN06MP8HWEfXoqW9kCF0Tl=s100-c-k-c0xffffffff-no-rj-mo" group-title="24 Horas - Youtube",24 Horas Pegadinhas da RedeTV YouTube
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433029.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Peppa Pig" tvg-logo="http://alt.playmaster.top:80/images/d1185a19b90ad9114180ba71352f54ef.jpg" group-title="24 Horas - Desenhos",24 Horas Peppa Pig
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432954.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Pica-Pau" tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/222546/1004444042.jpg?v=636968229968770000" group-title="24 Horas - Desenhos",24 Horas Pica-Pau
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432994.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Pokémon" tvg-logo="https://secureservercdn.net/198.71.233.254/dd2.a4b.myftpupload.com/wp-content/uploads/2017/08/https-2F2Fs3-ap-southeast-2.amazonaws.com2Fvms-tv-images-prod2F20172F022F586222FPOKE_Pokemon_1920.jpg?time=1587665537" group-title="24 Horas - Desenhos",24 Horas Pokémon
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433000.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Popeye" tvg-logo="https://cdn.mensagenscomamor.com/content/images/p000005342.jpg?v=0&w=400&h=225&c=1" group-title="24 Horas - Desenhos",24 Horas Popeye
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432977.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Porta dos Fundos Canal YouTube" tvg-logo="http://alt.playmaster.top:80/images/80161288b3a416b955cf18519a08bc0a.jpg" group-title="24 Horas - Youtube",24 Horas Porta dos Fundos Canal YouTube
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433022.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Power Rangers" tvg-logo="https://i1.wp.com/www.theilluminerdi.com/wp-content/uploads/2020/02/mighty-morphin-power-rangers-reunion.jpg?resize=1200%2C640&ssl=1" group-title="24 Horas - Desenhos",24 Horas Power Rangers
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433009.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Primitive Technology Canal YouTube" tvg-logo="http://alt.playmaster.top:80/images/0121a79b368cbe0fca4d33637e1bc392.jpg" group-title="24 Horas - Youtube",24 Horas Primitive Technology Canal YouTube
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433037.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Scooby-Doo" tvg-logo="http://alt.playmaster.top:80/images/895338cfc4431633c7ca7df531835c81.jpg" group-title="24 Horas - Desenhos",24 Horas Scooby-Doo
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432970.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Sítio do Picapau Amarelo" tvg-logo="http://origemdasfontes.ga:80/images/e784135842680652895ca0cdc385f237.jpg" group-title="24 Horas - Desenhos",24 Horas Sítio do Picapau Amarelo
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433011.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas The Noite Canal YouTube" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfoFCwoxnqbVlkecxv6fmp4Gt58JZ8adjn_GWAtPiUm7L4gG-8" group-title="24 Horas - Youtube",24 Horas The Noite Canal YouTube
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433026.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Timão e Pumba" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaqBLB3cjQx-854LvQNe7qPFTw7t6MGWfCTMBgtn1BOjmKCgMk" group-title="24 Horas - Desenhos",24 Horas Timão e Pumba
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433001.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Tio Patinhas" tvg-logo="http://alt.playmaster.top:80/images/d9fae0900f6b6afc812a86193a0b42c7.jpg" group-title="24 Horas - Desenhos",24 Horas Tio Patinhas
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433058.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Tom e Jerry" tvg-logo="http://alt.playmaster.top:80/images/f189d05ef4b396d32317e476b4bd7b22.jpg" group-title="24 Horas - Desenhos",24 Horas Tom e Jerry
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432976.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Turma da Mônica" tvg-logo="http://alt.playmaster.top:80/images/8b3c0317a0ae053a85fff031ff482e95.jpg" group-title="24 Horas - Desenhos",24 Horas Turma da Mônica
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432957.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas TuTiTu" tvg-logo="http://alt.playmaster.top:80/images/e27417ba962c565b275a0d60ed239ab4.png" group-title="24 Horas - Desenhos",24 Horas TuTiTu
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433083.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Você na TV Canal YouTube" tvg-logo="http://alt.playmaster.top:80/images/b8d2365b24101fc6ecd1bd6dc9701697.jpg" group-title="24 Horas - Youtube",24 Horas Você na TV Canal YouTube
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433020.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Você Sabia? YouTube" tvg-logo="http://alt.playmaster.top:80/images/b8d2365b24101fc6ecd1bd6dc9701697.jpg" group-title="24 Horas - Youtube",24 Horas Você Sabia? YouTube
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433038.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Webbully Canal YouTube" tvg-logo="http://alt.playmaster.top:80/images/0b7c3f00271d75e59ab600bdda3bb0b5.jpg" group-title="24 Horas - Youtube",24 Horas Webbully Canal YouTube
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433027.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Yu Yu Hakusho" tvg-logo="http://alt.playmaster.top:80/images/57bf83ad9208f9e13b7ec47289d7168a.jpg" group-title="24 Horas - Animes",24 Horas Yu Yu Hakusho
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433060.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Êta Mundo Bom!" tvg-logo="http://origemdasfontes.ga:80/images/7a4ba5fe4b82a09a6bf9c1eda981cec0.png" group-title="24 Horas - Desenhos",24 Horas Êta Mundo Bom!
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433071.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Alienigenas do Passado" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ba4ctlbX5ndP3J4xiBX7ZVgexEjZpMyj5g&s" group-title="24 Horas - Discovery",24 [HR] Alienigenas do Passado
-http://seven7play.top:80/JOTAXVI123/Senha1234/1864532.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] As Visões da Raven" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyms5TL2d1z2hU12l_kKwgrKJoKijV5TlSHQ&s" group-title="24 Horas - Séries",24 [HR] As Visões da Raven
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433016.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Chaves 1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqqwDQOdWTLqyjXQuD5jltYu2nqFuSqsziBzZ1KTaIevD_lBVh" group-title="24 Horas - Séries",24 [HR] Chaves 1
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432947.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Dois Homens e Meio" tvg-logo="https://images.justwatch.com/poster/132075259/s592" group-title="24 Horas - Séries",24 [HR] Dois Homens e Meio
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433002.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Dragon Ball GT" tvg-logo="https://vignette.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest?cb=20200613013335&path-prefix=pt-br" group-title="24 Horas - Animes",24 [HR] Dragon Ball GT
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432952.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Dragon Ball Kai" tvg-logo="http://origemdasfontes.ga:80/images/cc6b85c5986c9abbcd209d081c83c0a5.jpg" group-title="24 Horas - Animes",24 [HR] Dragon Ball Kai
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433018.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Escolinha do professor Raimundo" tvg-logo="http://alt.playmaster.top:80/images/0d8e5c71a1391b46c080601cc0b73514.jpg" group-title="24 Horas - Séries",24 [HR] Escolinha do professor Raimundo
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433062.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Eu, a Patroa e as Crianças" tvg-logo="http://alt.playmaster.top:80/images/79c7f3967fbc34101e5fef60ba474172.jpg" group-title="24 Horas - Séries",24 [HR] Eu, a Patroa e as Crianças
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432949.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Globo Repórter" tvg-logo="http://alt.playmaster.top:80/images/848e6a1cee156803e740e365d7c6eea3.jpg" group-title="24 Horas - Séries",24 [HR] Globo Repórter
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433057.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] iCarly" tvg-logo="https://m.media-amazon.com/images/I/91IHnobEyuL._UF894,1000_QL80_.jpg" group-title="24 Horas - Séries",24 [HR] iCarly
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432985.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] InuYasha" tvg-logo="http://alt.playmaster.top:80/images/0863d652200f4216ab306f3efd0ce325.jpg" group-title="24 Horas - Animes",24 [HR] InuYasha
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433064.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] La Casa de Papel 1" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c3/2019/06/13/foto-de-divulgacao-da-terceira-parte-de-la-casa-de-papel-que-chega-a-netflix-em-19-de-julho-1560453250469_v2_3x4.jpg" group-title="24 Horas - Séries",24 [HR] La Casa de Papel 1
-http://seven7play.top:80/JOTAXVI123/Senha1234/1864554.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] La Casa de Papel 2" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c3/2019/06/13/foto-de-divulgacao-da-terceira-parte-de-la-casa-de-papel-que-chega-a-netflix-em-19-de-julho-1560453250469_v2_3x4.jpg" group-title="24 Horas - Séries",24 [HR] La Casa de Papel 2
-http://seven7play.top:80/JOTAXVI123/Senha1234/1864555.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Largados e Pelados 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGQbSrWa77MXwz5J5IZXzoiTe_6xil_iX_g&s" group-title="24 Horas - Discovery",24 [HR] Largados e Pelados 1
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433003.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] MasterChef Brasil" tvg-logo="http://alt.playmaster.top:80/images/80335e14b9297b521084b7b826e19dd6.jpg" group-title="24 Horas - Séries",24 [HR] MasterChef Brasil
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433005.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Mr. Bean" tvg-logo="http://alt.playmaster.top:80/images/ea5d2456ff0c393bcdf3a4f517161728.jpg" group-title="24 Horas - Séries",24 [HR] Mr. Bean
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433006.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Naruto" tvg-logo="http://alt.playmaster.top:80/images/3a215b803a0bd4937d567ad42fd37843.jpg" group-title="24 Horas - Séries",24 [HR] Naruto
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432967.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] O Sócio" tvg-logo="http://alt.playmaster.top:80/images/e982a7a70681cf5dfb8e27cb1f69a21b.jpg" group-title="24 Horas - Séries",24 [HR] O Sócio
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433013.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Os Cavaleiros do Zodiaco - Saint Seiya" tvg-logo="http://alt.playmaster.top:80/images/52acfc0301ea28c8d7ea2614dd323f83.jpg" group-title="24 Horas - Animes",24 [HR] Os Cavaleiros do Zodiaco - Saint Seiya
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433059.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Os Jetsons" tvg-logo="http://alt.playmaster.top:80/images/17bea06aeb32fe682bd6ba7dfcad5c52.jpg" group-title="24 Horas - Séries",24 [HR] Os Jetsons
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433061.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Os Simpson (Antigo)" tvg-logo="http://alt.playmaster.top:80/images/b284a193c5d1d9a0ed6c56f788c8994e.jpg" group-title="24 Horas - Séries",24 [HR] Os Simpson (Antigo)
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433065.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Os Simpsons 1" tvg-logo="http://alt.playmaster.top:80/images/6a028953b6e5a395f678a8adbf6e9bea.jpg" group-title="24 Horas - Séries",24 [HR] Os Simpsons 1
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432965.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Os Trapalhões" tvg-logo="http://alt.playmaster.top:80/images/7ff0e6007a105260e595b8616a8c17e1.jpg" group-title="24 Horas - Séries",24 [HR] Os Trapalhões
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432979.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Policia 24h" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH4I5UZIKzU-oBjPmSboMi0s7wvX8fVc3bpqPTDbAPK-OTyxVB" group-title="24 Horas - Séries",24 [HR] Policia 24h
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433030.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Rick and Morty" tvg-logo="http://alt.playmaster.top:80/images/27d9bcda33ee2339ce07592c157c7539.jpg" group-title="24 Horas - Séries",24 [HR] Rick and Morty
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432968.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Round 6 T1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vOWEKyx0-wP9neQLo4eTIhlojzpO7XO5ug&s" group-title="24 Horas - Séries",24 [HR] Round 6 T1
-http://seven7play.top:80/JOTAXVI123/Senha1234/1864556.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Round 6 T2" tvg-logo="https://static.wikia.nocookie.net/round-6/images/e/ef/P%C3%B4ster_da_Temporada_1.png/revision/latest?cb=20250111190532&path-prefix=pt-br" group-title="24 Horas - Séries",24 [HR] Round 6 T2
-http://seven7play.top:80/JOTAXVI123/Senha1234/1864557.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Round 6 T3" tvg-logo="https://static.wikia.nocookie.net/round-6/images/e/ef/P%C3%B4ster_da_Temporada_1.png/revision/latest?cb=20250111190532&path-prefix=pt-br" group-title="24 Horas - Séries",24 [HR] Round 6 T3
-http://seven7play.top:80/JOTAXVI123/Senha1234/1864558.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Sobrenatural T 01" tvg-logo="https://mnnxx30291.top/uploads/1/Sobrenatural.jpg" group-title="24 Horas - Séries",24 [HR] Sobrenatural T 01
-http://seven7play.top:80/JOTAXVI123/Senha1234/1864533.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Sobrenatural T 02" tvg-logo="https://i0.wp.com/abacstallion.com/wp-content/uploads/2019/04/Supernatural-Poster.jpg?fit=2000%2C3000&ssl=1" group-title="24 Horas - Séries",24 [HR] Sobrenatural T 02
-http://seven7play.top:80/JOTAXVI123/Senha1234/1864534.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Sobrenatural T 03" tvg-logo="https://i0.wp.com/abacstallion.com/wp-content/uploads/2019/04/Supernatural-Poster.jpg?fit=2000%2C3000&ssl=1" group-title="24 Horas - Séries",24 [HR] Sobrenatural T 03
-http://seven7play.top:80/JOTAXVI123/Senha1234/1864535.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] South Park" tvg-logo="http://alt.playmaster.top:80/images/694cf7f2562d8220011c2b931813cc9c.jpg" group-title="24 Horas - Séries",24 [HR] South Park
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432969.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] The Big Bang Theory" tvg-logo="https://m.media-amazon.com/images/I/71qKFGIrv2L._UF894,1000_QL80_.jpg" group-title="24 Horas - Séries",24 [HR] The Big Bang Theory
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433014.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Todo Mundo Odeia o Chris" tvg-logo="http://alt.playmaster.top:80/images/5ba673e4597177d87c04f96fd9d3e326.jpg" group-title="24 Horas - Séries",24 [HR] Todo Mundo Odeia o Chris
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432946.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Todo Mundo Odeia o Chris T 01" tvg-logo="http://mnnxx30291.top//uploads/1/Todo_Mundo_Odeia_Chris.jpeg" group-title="24 Horas - Séries",24 [HR] Todo Mundo Odeia o Chris T 01
-http://seven7play.top:80/JOTAXVI123/Senha1234/1864536.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Todo Mundo Odeia o Chris T 02" tvg-logo="http://mnnxx30291.top//uploads/1/Todo_Mundo_Odeia_Chris.jpeg" group-title="24 Horas - Séries",24 [HR] Todo Mundo Odeia o Chris T 02
-http://seven7play.top:80/JOTAXVI123/Senha1234/1864537.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Todo Mundo Odeia o Chris T 03" tvg-logo="http://mnnxx30291.top//uploads/1/Todo_Mundo_Odeia_Chris.jpeg" group-title="24 Horas - Séries",24 [HR] Todo Mundo Odeia o Chris T 03
-http://seven7play.top:80/JOTAXVI123/Senha1234/1864538.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Todo Mundo Odeia o Chris T 04" tvg-logo="http://mnnxx30291.top//uploads/1/Todo_Mundo_Odeia_Chris.jpeg" group-title="24 Horas - Séries",24 [HR] Todo Mundo Odeia o Chris T 04
-http://seven7play.top:80/JOTAXVI123/Senha1234/1864539.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Trato Feito" tvg-logo="http://alt.playmaster.top:80/images/124d5a8127ffc101b8deaf5ef1e22179.jpg" group-title="24 Horas - Discovery",24 [HR] Trato Feito
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433028.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] TV Pirata" tvg-logo="http://alt.playmaster.top:80/images/89f56d6b0b4cca6b8d87eed071427630.jpg" group-title="24 Horas - Séries",24 [HR] TV Pirata
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433017.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Tô de Graça" tvg-logo="http://alt.playmaster.top:80/images/7ebe48f12daebdb9b8bacb92ee0f1761.jpg" group-title="24 Horas - Séries",24 [HR] Tô de Graça
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433025.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Um Maluco no Pedaço" tvg-logo="http://alt.playmaster.top:80/images/a19228dba0b86f5bfff5c42c7d197b3f.jpg" group-title="24 Horas - Séries",24 [HR] Um Maluco no Pedaço
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432948.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR] Vai Que Cola" tvg-logo="http://alt.playmaster.top:80/images/49ab25598dfcd75912d095ec00ccad46.jpg" group-title="24 Horas - Séries",24 [HR] Vai Que Cola
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433010.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR]Horas Irmãos à Obra" tvg-logo="http://alt.playmaster.top:80/images/6bfddef32d571ca205a7f20abb02ec09.jpg" group-title="24 Horas - Discovery",24 [HR]Horas Irmãos à Obra
-http://seven7play.top:80/JOTAXVI123/Senha1234/1432986.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 [HR]Pesadelo na Cozinha" tvg-logo="https://yt3.googleusercontent.com/qUDWox9hBGLfR779vdwIq4PjL74Ra43e0OyK7WMz6hqyLXg565QYRiXnpe-B0rFE0Ys-Rwd9EPc=s900-c-k-c0x00ffffff-no-rj" group-title="24 Horas - Séries",24 [HR]Pesadelo na Cozinha
-http://seven7play.top:80/JOTAXVI123/Senha1234/1433007.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H  A Grande Família 1" tvg-logo="http://mnnxx30291.top//uploads/1/agrandefamilia.jpg" group-title="24 Horas - Séries",24H  A Grande Família 1
-http://seven7play.top:80/JOTAXVI123/Senha1234/1864590.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H A Grande Família 2" tvg-logo="http://mnnxx30291.top//uploads/1/agrandefamilia.jpg" group-title="24 Horas - Séries",24H A Grande Família 2
-http://seven7play.top:80/JOTAXVI123/Senha1234/1864591.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H A Grande FamÍlia 3" tvg-logo="http://mnnxx30291.top//uploads/1/agrandefamilia.jpg" group-title="24 Horas - Séries",24H A Grande FamÍlia 3
-http://seven7play.top:80/JOTAXVI123/Senha1234/2040745.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Aeroporto Área Restrita" tvg-logo="http://mnnxx30291.top//uploads/1/arearestrita.jpg" group-title="24 Horas - Séries",24H Aeroporto Área Restrita
-http://seven7play.top:80/JOTAXVI123/Senha1234/2040746.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H • 90 Dias Para Casar A Última Chance" tvg-logo="" group-title="24 Horas - Discovery",24H • 90 Dias Para Casar A Última Chance
-http://seven7play.top:80/JOTAXVI123/Senha1234/2040804.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H • Dupla do Barulho" tvg-logo="" group-title="24 Horas - Discovery",24H • Dupla do Barulho
-http://seven7play.top:80/JOTAXVI123/Senha1234/2040823.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H • Febre do Ouro Corredeiras do Alasca" tvg-logo="" group-title="24 Horas - Discovery",24H • Febre do Ouro Corredeiras do Alasca
-http://seven7play.top:80/JOTAXVI123/Senha1234/2040824.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H • Irmãos A Obra" tvg-logo="" group-title="24 Horas - Discovery",24H • Irmãos A Obra
-http://seven7play.top:80/JOTAXVI123/Senha1234/2040827.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H • Pesca Mortal Aventura no Sangue" tvg-logo="" group-title="24 Horas - Discovery",24H • Pesca Mortal Aventura no Sangue
-http://seven7play.top:80/JOTAXVI123/Senha1234/2040845.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H • Quilos Mortais: Como Eles Estão Agora" tvg-logo="" group-title="24 Horas - Discovery",24H • Quilos Mortais: Como Eles Estão Agora
-http://seven7play.top:80/JOTAXVI123/Senha1234/2040848.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",Um Maluco no Pedaço 24h
-http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",Os Trapalhões 24h
-http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",2 Homens e Meio 24h
-http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",Todo Mundo Odeia O Cris 24h
-http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",Pegadinhas Silvio Santos 24h
-http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8?token=a4A2wbotS3 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",As Visões da Raven 24h
-http://24hrs.homelinux.com:80/24H-asvisoesdaraven/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",A Grande Família 24h
-http://24hrs.homelinux.com:80/24H-O.Album.da.Grande.Familia.S01/video.m3u8?token=a4A2wbotS3
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",Escolinha Raimundo 24h
-http://24hrs.homelinux.com:80/24H-escolinhaold/video.m3u8?token=a4A2wbotS3
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",Eu a Patroa e as Crianças 24h
-http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/video.m3u8?token=a4A2wbotS3
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="COMÉDIA",Tô d Graça 24h
-http://24hrs.homelinux.com:80/24H-todegraca/video.m3u8?token=a4A2wbotS3
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS: ESPECIAL DE HALLOWEEN 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",OS SIMPSONS: ESPECIAL DE HALLOWEEN 01
+http://dali-as.skin:80/live/728442553/408909078/5298946.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS: ESPECIAL DE HALLOWEEN 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",OS SIMPSONS: ESPECIAL DE HALLOWEEN 02
+http://dali-as.skin:80/live/728442553/408909078/5298947.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS: ESPECIAL DE HALLOWEEN 03" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",OS SIMPSONS: ESPECIAL DE HALLOWEEN 03
+http://dali-as.skin:80/live/728442553/408909078/5298948.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS: ESPECIAL DE HALLOWEEN 04" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",OS SIMPSONS: ESPECIAL DE HALLOWEEN 04
+http://dali-as.skin:80/live/728442553/408909078/5298949.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS SMURFS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",OS SMURFS
+http://dali-as.skin:80/live/728442553/408909078/5298950.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAPA LEGUAS E O COIOTE" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",PAPA LEGUAS E O COIOTE
+http://dali-as.skin:80/live/728442553/408909078/5298951.ts
+#EXTINF:-1 tvg-id="Patati e Patata 24H" tvg-name="PATATI PATATA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",PATATI PATATA
+http://dali-as.skin:80/live/728442553/408909078/5298952.ts
+#EXTINF:-1 tvg-id="" tvg-name="PATO DONALD" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",PATO DONALD
+http://dali-as.skin:80/live/728442553/408909078/5298953.ts
+#EXTINF:-1 tvg-id="" tvg-name="PATOLINO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",PATOLINO
+http://dali-as.skin:80/live/728442553/408909078/5298954.ts
+#EXTINF:-1 tvg-id="Patrula Canina 24H" tvg-name="PATRULHA CANINA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",PATRULHA CANINA
+http://dali-as.skin:80/live/728442553/408909078/5298955.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEIXONAUTA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",PEIXONAUTA
+http://dali-as.skin:80/live/728442553/408909078/5298956.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERDIDO NAS ESTRELAS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",PERDIDO NAS ESTRELAS
+http://dali-as.skin:80/live/728442553/408909078/5298957.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",PERNALONGA
+http://dali-as.skin:80/live/728442553/408909078/5298958.ts
+#EXTINF:-1 tvg-id="Pica Pau 24H" tvg-name="PICA-PAU" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",PICA-PAU
+http://dali-as.skin:80/live/728442553/408909078/5298959.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK E O CEREBRO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",PINK E O CEREBRO
+http://dali-as.skin:80/live/728442553/408909078/5298960.ts
+#EXTINF:-1 tvg-id="PJ Masks 24H" tvg-name="PJ MASKS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",PJ MASKS
+http://dali-as.skin:80/live/728442553/408909078/5298961.ts
+#EXTINF:-1 tvg-id="" tvg-name="POCOYO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",POCOYO
+http://dali-as.skin:80/live/728442553/408909078/5298962.ts
+#EXTINF:-1 tvg-id="Pole Position 24H" tvg-name="POLE POSITION" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",POLE POSITION
+http://dali-as.skin:80/live/728442553/408909078/5298963.ts
+#EXTINF:-1 tvg-id="" tvg-name="POLLY POCKET" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",POLLY POCKET
+http://dali-as.skin:80/live/728442553/408909078/5298964.ts
+#EXTINF:-1 tvg-id="Popeye 24H" tvg-name="POPEYE" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",POPEYE
+http://dali-as.skin:80/live/728442553/408909078/5298965.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUCCA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",PUCCA
+http://dali-as.skin:80/live/728442553/408909078/5298966.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUNK BREWSTER" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",PUNK BREWSTER
+http://dali-as.skin:80/live/728442553/408909078/5298967.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAMBO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",RAMBO
+http://dali-as.skin:80/live/728442553/408909078/5298968.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAPUNZEL" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",RAPUNZEL
+http://dali-as.skin:80/live/728442553/408909078/5298969.ts
+#EXTINF:-1 tvg-id="" tvg-name="RICKY SUPER RAPIDO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",RICKY SUPER RAPIDO
+http://dali-as.skin:80/live/728442553/408909078/5298970.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROBCOCAR POLI" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",ROBCOCAR POLI
+http://dali-as.skin:80/live/728442553/408909078/5298971.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROBOCOP" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",ROBOCOP
+http://dali-as.skin:80/live/728442553/408909078/5298972.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAKURA CARDS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SAKURA CARDS
+http://dali-as.skin:80/live/728442553/408909078/5298973.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAMURAI JACK" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SAMURAI JACK
+http://dali-as.skin:80/live/728442553/408909078/5298974.ts
+#EXTINF:-1 tvg-id="Scooby Doo 24H" tvg-name="SCOOBY-DOO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SCOOBY-DOO 01
+http://dali-as.skin:80/live/728442553/408909078/5298975.ts
+#EXTINF:-1 tvg-id="Scooby Doo 24H" tvg-name="SCOOBY-DOO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SCOOBY-DOO 02
+http://dali-as.skin:80/live/728442553/408909078/5298976.ts
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO: CADE VOCE" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SCOOBY-DOO: CADE VOCE
+http://dali-as.skin:80/live/728442553/408909078/5298977.ts
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO: MISTERIO S.A" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SCOOBY-DOO: MISTERIO S.A
+http://dali-as.skin:80/live/728442553/408909078/5298978.ts
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO: O QUE HA DE NOVO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SCOOBY-DOO: O QUE HA DE NOVO
+http://dali-as.skin:80/live/728442553/408909078/5298979.ts
+#EXTINF:-1 tvg-id="" tvg-name="SENDOKAI" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SENDOKAI
+http://dali-as.skin:80/live/728442553/408909078/5298980.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHAMAN KING" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SHAMAN KING
+http://dali-as.skin:80/live/728442553/408909078/5298981.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHAUN O CARNEIRO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SHAUN O CARNEIRO
+http://dali-as.skin:80/live/728442553/408909078/5298982.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHE-RA E AS PRINCESAS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SHE-RA E AS PRINCESAS
+http://dali-as.skin:80/live/728442553/408909078/5298983.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHURATO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SHURATO
+http://dali-as.skin:80/live/728442553/408909078/5298984.ts
+#EXTINF:-1 tvg-id="" tvg-name="SITIO DO PICA-PAU AMARELO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SITIO DO PICA-PAU AMARELO
+http://dali-as.skin:80/live/728442553/408909078/5298985.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONIC" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SONIC
+http://dali-as.skin:80/live/728442553/408909078/5298986.ts
+#EXTINF:-1 tvg-id="South Parks 24H" tvg-name="SOUTH PARK 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SOUTH PARK 01
+http://dali-as.skin:80/live/728442553/408909078/5298987.ts
+#EXTINF:-1 tvg-id="South Parks 24H" tvg-name="SOUTH PARK 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SOUTH PARK 02
+http://dali-as.skin:80/live/728442553/408909078/5298988.ts
+#EXTINF:-1 tvg-id="" tvg-name="STREET FIGHT" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",STREET FIGHT
+http://dali-as.skin:80/live/728442553/408909078/5298989.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUPA STRIKAS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SUPA STRIKAS
+http://dali-as.skin:80/live/728442553/408909078/5298990.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CAMPEOES" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SUPER CAMPEOES
+http://dali-as.skin:80/live/728442553/408909078/5298991.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CHOQUE" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SUPER CHOQUE
+http://dali-as.skin:80/live/728442553/408909078/5298992.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUPER IMA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",SUPER IMA
+http://dali-as.skin:80/live/728442553/408909078/5298993.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAZ MANIA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",TAZ MANIA
+http://dali-as.skin:80/live/728442553/408909078/5298994.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELETUBBIES" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",TELETUBBIES
+http://dali-as.skin:80/live/728442553/408909078/5298995.ts
+#EXTINF:-1 tvg-id="Tom e Jerry 24H" tvg-name="TOM E JERRY 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",TOM E JERRY 01
+http://dali-as.skin:80/live/728442553/408909078/5298996.ts
+#EXTINF:-1 tvg-id="Tom e Jerry 24H" tvg-name="TOM E JERRY 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",TOM E JERRY 02
+http://dali-as.skin:80/live/728442553/408909078/5298997.ts
+#EXTINF:-1 tvg-id="Tom e Jerry 24H" tvg-name="TOM E JERRY 03" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",TOM E JERRY 03
+http://dali-as.skin:80/live/728442553/408909078/5298998.ts
+#EXTINF:-1 tvg-id="Tom e Jerry 24H" tvg-name="TOM E JERRY 04" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",TOM E JERRY 04
+http://dali-as.skin:80/live/728442553/408909078/5298999.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRANSFORMERS PRIME" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",TRANSFORMERS PRIME
+http://dali-as.skin:80/live/728442553/408909078/5299000.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRANSFORMERS RESCUE BOTS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",TRANSFORMERS RESCUE BOTS
+http://dali-as.skin:80/live/728442553/408909078/5299001.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRES ESPIAS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",TRES ESPIAS
+http://dali-as.skin:80/live/728442553/408909078/5299002.ts
+#EXTINF:-1 tvg-id="TR Turma da Monica" tvg-name="TURMA DA MONICA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",TURMA DA MONICA
+http://dali-as.skin:80/live/728442553/408909078/5299003.ts
+#EXTINF:-1 tvg-id="" tvg-name="TURMA DO RONALDINHO GAUCHO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",TURMA DO RONALDINHO GAUCHO
+http://dali-as.skin:80/live/728442553/408909078/5299004.ts
+#EXTINF:-1 tvg-id="Familia da Pesada (Family Guy) 24H" tvg-name="UMA FAMILIA DA PESADA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",UMA FAMILIA DA PESADA 01
+http://dali-as.skin:80/live/728442553/408909078/5299005.ts
+#EXTINF:-1 tvg-id="Familia da Pesada (Family Guy) 24H" tvg-name="UMA FAMILIA DA PESADA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",UMA FAMILIA DA PESADA 02
+http://dali-as.skin:80/live/728442553/408909078/5299006.ts
+#EXTINF:-1 tvg-id="A Fazenda" tvg-name="UMA FAZENDA MALUCA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",UMA FAZENDA MALUCA
+http://dali-as.skin:80/live/728442553/408909078/5299007.ts
+#EXTINF:-1 tvg-id="" tvg-name="URSINHOS CARINHOSOS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",URSINHOS CARINHOSOS
+http://dali-as.skin:80/live/728442553/408909078/5299008.ts
+#EXTINF:-1 tvg-id="" tvg-name="URSO SEM CURSO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",URSO SEM CURSO
+http://dali-as.skin:80/live/728442553/408909078/5299009.ts
+#EXTINF:-1 tvg-id="" tvg-name="VELMA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",VELMA
+http://dali-as.skin:80/live/728442553/408909078/5299010.ts
+#EXTINF:-1 tvg-id="" tvg-name="VELOZES E FURIOSOS: ESPIOES DO ASFALTO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",VELOZES E FURIOSOS: ESPIOES DO ASFALTO
+http://dali-as.skin:80/live/728442553/408909078/5299011.ts
+#EXTINF:-1 tvg-id="" tvg-name="VERA E O REINO DO ARCO IRIS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",VERA E O REINO DO ARCO IRIS
+http://dali-as.skin:80/live/728442553/408909078/5299012.ts
+#EXTINF:-1 tvg-id="" tvg-name="VINGADORES OS SUPER HEROIS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",VINGADORES OS SUPER HEROIS
+http://dali-as.skin:80/live/728442553/408909078/5299013.ts
+#EXTINF:-1 tvg-id="" tvg-name="VINGADORES UNIDOS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",VINGADORES UNIDOS
+http://dali-as.skin:80/live/728442553/408909078/5299014.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOVO SMURF" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",VOVO SMURF
+http://dali-as.skin:80/live/728442553/408909078/5299015.ts
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN A SERIE" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",X-MEN A SERIE
+http://dali-as.skin:80/live/728442553/408909078/5299016.ts
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN EVOLUTION" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",X-MEN EVOLUTION
+http://dali-as.skin:80/live/728442553/408909078/5299017.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZUZUBALANDIA" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS = DESENHOS",ZUZUBALANDIA
+http://dali-as.skin:80/live/728442553/408909078/5299018.ts
+#EXTINF:-1 tvg-id="" tvg-name="A ESCRAVA ISAURA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A ESCRAVA ISAURA 01
+http://dali-as.skin:80/live/728442553/408909078/5297990.ts
+#EXTINF:-1 tvg-id="" tvg-name="A ESCRAVA ISAURA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A ESCRAVA ISAURA 02
+http://dali-as.skin:80/live/728442553/408909078/5297991.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAVORITA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A FAVORITA 01
+http://dali-as.skin:80/live/728442553/408909078/5297992.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAVORITA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A FAVORITA 02
+http://dali-as.skin:80/live/728442553/408909078/5297993.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FORCA DO QUERER 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A FORCA DO QUERER 01
+http://dali-as.skin:80/live/728442553/408909078/5297994.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FORCA DO QUERER 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A FORCA DO QUERER 02
+http://dali-as.skin:80/live/728442553/408909078/5297995.ts
+#EXTINF:-1 tvg-id="" tvg-name="A TERRA PROMETIDA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A TERRA PROMETIDA 01
+http://dali-as.skin:80/live/728442553/408909078/5297996.ts
+#EXTINF:-1 tvg-id="" tvg-name="A TERRA PROMETIDA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A TERRA PROMETIDA 02
+http://dali-as.skin:80/live/728442553/408909078/5297997.ts
+#EXTINF:-1 tvg-id="" tvg-name="A USURPADORA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A USURPADORA 01
+http://dali-as.skin:80/live/728442553/408909078/5297998.ts
+#EXTINF:-1 tvg-id="" tvg-name="A USURPADORA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A USURPADORA 02
+http://dali-as.skin:80/live/728442553/408909078/5297999.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMOR DE MAE 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",AMOR DE MAE 01
+http://dali-as.skin:80/live/728442553/408909078/5298000.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMOR DE MAE 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",AMOR DE MAE 02
+http://dali-as.skin:80/live/728442553/408909078/5298001.ts
+#EXTINF:-1 tvg-id="" tvg-name="AVENIDA BRASIL 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",AVENIDA BRASIL 01
+http://dali-as.skin:80/live/728442553/408909078/5298002.ts
+#EXTINF:-1 tvg-id="" tvg-name="AVENIDA BRASIL 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",AVENIDA BRASIL 02
+http://dali-as.skin:80/live/728442553/408909078/5298003.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHEIAS DE CHARME 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",CHEIAS DE CHARME 01
+http://dali-as.skin:80/live/728442553/408909078/5298004.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHEIAS DE CHARME 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",CHEIAS DE CHARME 02
+http://dali-as.skin:80/live/728442553/408909078/5298005.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHIQUITITAS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",CHIQUITITAS 01
+http://dali-as.skin:80/live/728442553/408909078/5298006.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHIQUITITAS 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",CHIQUITITAS 02
+http://dali-as.skin:80/live/728442553/408909078/5298007.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHOCOLATE COM PIMENTA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",CHOCOLATE COM PIMENTA 01
+http://dali-as.skin:80/live/728442553/408909078/5298008.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHOCOLATE COM PIMENTA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",CHOCOLATE COM PIMENTA 02
+http://dali-as.skin:80/live/728442553/408909078/5298009.ts
+#EXTINF:-1 tvg-id="" tvg-name="DA COR DO PECADO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",DA COR DO PECADO 01
+http://dali-as.skin:80/live/728442553/408909078/5298010.ts
+#EXTINF:-1 tvg-id="" tvg-name="DA COR DO PECADO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",DA COR DO PECADO 02
+http://dali-as.skin:80/live/728442553/408909078/5298011.ts
+#EXTINF:-1 tvg-id="" tvg-name="GENESIS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",GENESIS 01
+http://dali-as.skin:80/live/728442553/408909078/5298012.ts
+#EXTINF:-1 tvg-id="" tvg-name="GENESIS 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",GENESIS 02
+http://dali-as.skin:80/live/728442553/408909078/5298013.ts
+#EXTINF:-1 tvg-id="" tvg-name="KUBANACAN 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",KUBANACAN 01
+http://dali-as.skin:80/live/728442553/408909078/5298014.ts
+#EXTINF:-1 tvg-id="" tvg-name="KUBANACAN 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",KUBANACAN 02
+http://dali-as.skin:80/live/728442553/408909078/5298015.ts
+#EXTINF:-1 tvg-id="" tvg-name="LACOS DE FAMILIA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",LACOS DE FAMILIA 01
+http://dali-as.skin:80/live/728442553/408909078/5298016.ts
+#EXTINF:-1 tvg-id="" tvg-name="LACOS DE FAMILIA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",LACOS DE FAMILIA 02
+http://dali-as.skin:80/live/728442553/408909078/5298017.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARIA DO BAIRRO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",MARIA DO BAIRRO 01
+http://dali-as.skin:80/live/728442553/408909078/5298018.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARIA DO BAIRRO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",MARIA DO BAIRRO 02
+http://dali-as.skin:80/live/728442553/408909078/5298019.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS TURCAS" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",NOVELAS TURCAS
+http://dali-as.skin:80/live/728442553/408909078/5298020.ts
+#EXTINF:-1 tvg-id="" tvg-name="O BEIJO DO VAMPIRO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",O BEIJO DO VAMPIRO 01
+http://dali-as.skin:80/live/728442553/408909078/5298021.ts
+#EXTINF:-1 tvg-id="" tvg-name="O BEIJO DO VAMPIRO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",O BEIJO DO VAMPIRO 02
+http://dali-as.skin:80/live/728442553/408909078/5298022.ts
+#EXTINF:-1 tvg-id="" tvg-name="O BEIJO DO VAMPIRO 03" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",O BEIJO DO VAMPIRO 03
+http://dali-as.skin:80/live/728442553/408909078/5298023.ts
+#EXTINF:-1 tvg-id="" tvg-name="O CLONE 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",O CLONE 01
+http://dali-as.skin:80/live/728442553/408909078/5298024.ts
+#EXTINF:-1 tvg-id="" tvg-name="O CLONE 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",O CLONE 02
+http://dali-as.skin:80/live/728442553/408909078/5298025.ts
+#EXTINF:-1 tvg-id="" tvg-name="O REI DO GADO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",O REI DO GADO 01
+http://dali-as.skin:80/live/728442553/408909078/5298026.ts
+#EXTINF:-1 tvg-id="" tvg-name="O REI DO GADO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",O REI DO GADO 02
+http://dali-as.skin:80/live/728442553/408909078/5298027.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS DEZ MANDAMENTOS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",OS DEZ MANDAMENTOS 01
+http://dali-as.skin:80/live/728442553/408909078/5298028.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS DEZ MANDAMENTOS 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",OS DEZ MANDAMENTOS 02
+http://dali-as.skin:80/live/728442553/408909078/5298029.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS DEZ MANDAMENTOS 03" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",OS DEZ MANDAMENTOS 03
+http://dali-as.skin:80/live/728442553/408909078/5298030.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS DEZ MANDAMENTOS 04" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",OS DEZ MANDAMENTOS 04
+http://dali-as.skin:80/live/728442553/408909078/5298031.ts
+#EXTINF:-1 tvg-id="" tvg-name="PANTANAL 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",PANTANAL 01
+http://dali-as.skin:80/live/728442553/408909078/5298032.ts
+#EXTINF:-1 tvg-id="" tvg-name="PANTANAL 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",PANTANAL 02
+http://dali-as.skin:80/live/728442553/408909078/5298033.ts
+#EXTINF:-1 tvg-id="" tvg-name="REBELDE 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",REBELDE 01
+http://dali-as.skin:80/live/728442553/408909078/5298034.ts
+#EXTINF:-1 tvg-id="" tvg-name="REBELDE 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",REBELDE 02
+http://dali-as.skin:80/live/728442553/408909078/5298035.ts
+#EXTINF:-1 tvg-id="" tvg-name="REBELDE 03" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",REBELDE 03
+http://dali-as.skin:80/live/728442553/408909078/5298036.ts
+#EXTINF:-1 tvg-id="" tvg-name="TERRA E PAIXAO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",TERRA E PAIXAO 01
+http://dali-as.skin:80/live/728442553/408909078/5298037.ts
+#EXTINF:-1 tvg-id="" tvg-name="TERRA E PAIXAO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",TERRA E PAIXAO 02
+http://dali-as.skin:80/live/728442553/408909078/5298038.ts
+#EXTINF:-1 tvg-id="" tvg-name="VAMP 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",VAMP 01
+http://dali-as.skin:80/live/728442553/408909078/5298039.ts
+#EXTINF:-1 tvg-id="" tvg-name="VAMP 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",VAMP 02
+http://dali-as.skin:80/live/728442553/408909078/5298040.ts
+#EXTINF:-1 tvg-id="" tvg-name="VERDADES SECRETAS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",VERDADES SECRETAS 01
+http://dali-as.skin:80/live/728442553/408909078/5298041.ts
+#EXTINF:-1 tvg-id="" tvg-name="VERDADES SECRETAS 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",VERDADES SECRETAS 02
+http://dali-as.skin:80/live/728442553/408909078/5298042.ts
+#EXTINF:-1 tvg-id="" tvg-name="VERDADES SECRETAS 03" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",VERDADES SECRETAS 03
+http://dali-as.skin:80/live/728442553/408909078/5298043.ts
+#EXTINF:-1 tvg-id="" tvg-name="VERDADES SECRETAS 04" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",VERDADES SECRETAS 04
+http://dali-as.skin:80/live/728442553/408909078/5298044.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",DOIS HOMENS E MEIO 01
+http://dali-as.skin:80/live/728442553/408909078/5298466.ts
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANCAS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",EU A PATROA E AS CRIANCAS 01
+http://dali-as.skin:80/live/728442553/408909078/5298478.ts
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1: 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",9-1-1: 01
+http://dali-as.skin:80/live/728442553/408909078/5298487.ts
+#EXTINF:-1 tvg-id="" tvg-name="A ESCOLINHA DO PROFESSOR RAIMUNDO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",A ESCOLINHA DO PROFESSOR RAIMUNDO
+http://dali-as.skin:80/live/728442553/408909078/5298495.ts
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",A GRANDE FAMILIA 01
+http://dali-as.skin:80/live/728442553/408909078/5298496.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALICE IN BORDERLAND 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",ALICE IN BORDERLAND 01
+http://dali-as.skin:80/live/728442553/408909078/5298505.ts
+#EXTINF:-1 tvg-id="Chapolin 24H" tvg-name="CHAPOLIN 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",CHAPOLIN 01
+http://dali-as.skin:80/live/728442553/408909078/5298508.ts
+#EXTINF:-1 tvg-id="Chaves 24H" tvg-name="CHAVES 00" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",CHAVES 00
+http://dali-as.skin:80/live/728442553/408909078/5298515.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEXTER 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",DEXTER 01
+http://dali-as.skin:80/live/728442553/408909078/5298524.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEXTER 09: SANGUE NOVO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",DEXTER 09: SANGUE NOVO
+http://dali-as.skin:80/live/728442553/408909078/5298532.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEXTER 10: PECADO ORIGINAL" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",DEXTER 10: PECADO ORIGINAL
+http://dali-as.skin:80/live/728442553/408909078/5298533.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEXTER 11: RESSURREICAO" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",DEXTER 11: RESSURREICAO
+http://dali-as.skin:80/live/728442553/408909078/5298534.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELITE 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",ELITE 01
+http://dali-as.skin:80/live/728442553/408909078/5298535.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXPRESSO DO AMANHA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",EXPRESSO DO AMANHA 01
+http://dali-as.skin:80/live/728442553/408909078/5298543.ts
+#EXTINF:-1 tvg-id="" tvg-name="GAME OF THRONES 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",GAME OF THRONES 01
+http://dali-as.skin:80/live/728442553/408909078/5298550.ts
+#EXTINF:-1 tvg-id="" tvg-name="GREYS ANATOMY" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",GREYS ANATOMY
+http://dali-as.skin:80/live/728442553/408909078/5298558.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOUSE 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",HOUSE 01
+http://dali-as.skin:80/live/728442553/408909078/5298559.ts
+#EXTINF:-1 tvg-id="Jaspion 24H" tvg-name="JASPION" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",JASPION
+http://dali-as.skin:80/live/728442553/408909078/5298567.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE PAPEL 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",LA CASA DE PAPEL 01
+http://dali-as.skin:80/live/728442553/408909078/5298568.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOST 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",LOST 01
+http://dali-as.skin:80/live/728442553/408909078/5298574.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARIA CLARA E JP" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",MARIA CLARA E JP
+http://dali-as.skin:80/live/728442553/408909078/5298580.ts
+#EXTINF:-1 tvg-id="Mr. Bean 24H" tvg-name="MR. BEAN" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",MR. BEAN
+http://dali-as.skin:80/live/728442553/408909078/5298581.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO DE BEAKEMAN 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",MUNDO DE BEAKEMAN 01
+http://dali-as.skin:80/live/728442553/408909078/5298582.ts
+#EXTINF:-1 tvg-id="" tvg-name="ORIGEM 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",ORIGEM 01
+http://dali-as.skin:80/live/728442553/408909078/5298586.ts
+#EXTINF:-1 tvg-id="Os Trapalhões 24H" tvg-name="OS TRAPALHOES" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",OS TRAPALHOES
+http://dali-as.skin:80/live/728442553/408909078/5298589.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRISON BREAKE 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",PRISON BREAKE 01
+http://dali-as.skin:80/live/728442553/408909078/5298590.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROUND SIX 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",ROUND SIX 01
+http://dali-as.skin:80/live/728442553/408909078/5298595.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",SAI DE BAIXO 01
+http://dali-as.skin:80/live/728442553/408909078/5298598.ts
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",SMALLVILLE 01
+http://dali-as.skin:80/live/728442553/408909078/5298605.ts
+#EXTINF:-1 tvg-id="" tvg-name="STRANGER THINGS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",STRANGER THINGS 01
+http://dali-as.skin:80/live/728442553/408909078/5298615.ts
+#EXTINF:-1 tvg-id="" tvg-name="STRANGER THINGS 05: PARTE 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",STRANGER THINGS 05: PARTE 01
+http://dali-as.skin:80/live/728442553/408909078/5298619.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",SUPERNATURAL 01
+http://dali-as.skin:80/live/728442553/408909078/5298621.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE BIG BANG 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",THE BIG BANG 01
+http://dali-as.skin:80/live/728442553/408909078/5298631.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE BOYS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",THE BOYS 01
+http://dali-as.skin:80/live/728442553/408909078/5298643.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE BOYS 06 - GEN V 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",THE BOYS 06 - GEN V 01
+http://dali-as.skin:80/live/728442553/408909078/5298647.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE GOOD DOCTOR 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",THE GOOD DOCTOR 01
+http://dali-as.skin:80/live/728442553/408909078/5298649.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE LAST OF US 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",THE LAST OF US 01
+http://dali-as.skin:80/live/728442553/408909078/5298656.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE MIDDLE 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",THE MIDDLE 01
+http://dali-as.skin:80/live/728442553/408909078/5298658.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE VAMPIRES 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",THE VAMPIRES 01
+http://dali-as.skin:80/live/728442553/408909078/5298668.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE VAMPIRES: OS ORIGINAIS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",THE VAMPIRES: OS ORIGINAIS 01
+http://dali-as.skin:80/live/728442553/408909078/5298676.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",THE WALKING DEAD
+http://dali-as.skin:80/live/728442553/408909078/5298685.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",THE WALKING DEAD 01
+http://dali-as.skin:80/live/728442553/408909078/5298686.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD - RICK GRIMES" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",THE WALKING DEAD - RICK GRIMES
+http://dali-as.skin:80/live/728442553/408909078/5298705.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD - TALES OF" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",THE WALKING DEAD - TALES OF
+http://dali-as.skin:80/live/728442553/408909078/5298706.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD: FEAR 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",THE WALKING DEAD: FEAR 01
+http://dali-as.skin:80/live/728442553/408909078/5298707.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD: MUNDO NOVO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",THE WALKING DEAD: MUNDO NOVO 01
+http://dali-as.skin:80/live/728442553/408909078/5298714.ts
+#EXTINF:-1 tvg-id="" tvg-name="WANDINHA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",WANDINHA 01
+http://dali-as.skin:80/live/728442553/408909078/5298716.ts
+#EXTINF:-1 tvg-id="" tvg-name="YOUNG SHELDON 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  SERIADOS",YOUNG SHELDON 01
+http://dali-as.skin:80/live/728442553/408909078/5298718.ts
 
 
-#EXTINF:-1,24H 3 PALAVRINHAS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96566
-#EXTINF:-1,24H 44 GATOS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96567
-#EXTINF:-1,24H XODÓ DA VOVÓ
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96568
-#EXTINF:-1,24H A CASA DO MICKEY MOUSE
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96569
-#EXTINF:-1,24H V A BATALHA FINAL
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96570
-#EXTINF:-1,24H A TURMA DA PANTERA COR DE ROSA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96571
-#EXTINF:-1,24H A TURMA DO ZÉ COLMÉIA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96572
-#EXTINF:-1,24H A VACA E O FRANGO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96573
-#EXTINF:-1,24H MR. MARKER
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96574
-#EXTINF:-1,24H ANIMANIACS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96576
-#EXTINF:-1,24H ANIMAZOO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96577
-#EXTINF:-1,24H KIDS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96578
-#EXTINF:-1,24H AS AVENTURAS DE TOM & JERRY
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96579
-#EXTINF:-1,24H AS AVENTURAS DE KIPO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96580
-#EXTINF:-1,24H As Novas Aventuras do Superman
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96581
-#EXTINF:-1,24H As Aventuras de Jackie Chan
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96582
-#EXTINF:-1,24H JASPION
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96583
-#EXTINF:-1,24H BABY LOONEY TUNES
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96584
-#EXTINF:-1,24H BANANAS DE PIJAMAS DESENHO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96585
-#EXTINF:-1,24H BATMAN E ROBIN CLASSICO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96586
-#EXTINF:-1,24H AQUAMAN
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96587
-#EXTINF:-1,24H BEN 10
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96588
-#EXTINF:-1,24H BEN 10 OMNIVERSE
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96589
-#EXTINF:-1,24H BLACK KAMEN RIDER
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96590
-#EXTINF:-1,24H BOB CONSTRUTOR 1999
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96591
-#EXTINF:-1,24H BOB ESPONJA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96593
-#EXTINF:-1,24H Bob Esponja T09 a 12
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96594
-#EXTINF:-1,24H BOB ZOOM
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96595
-#EXTINF:-1,24H O MASKARA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96597
-#EXTINF:-1,24H MARINHEIRO POPEYE
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96598
-#EXTINF:-1,24H BREAKING BAD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96599
-#EXTINF:-1,24H VAI QUE COLA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96600
-#EXTINF:-1,24H Hey Arnold
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96602
-#EXTINF:-1,24H CAVERNA DO DRAGÃO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96603
-#EXTINF:-1,24H Medabots
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96604
-#EXTINF:-1,24H CARGA PESADA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96605
-#EXTINF:-1,24H CASTORES PIRADOS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96606
-#EXTINF:-1,24H CAVALO DE FOGO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96607
-#EXTINF:-1,24H CAVERNA DO DRAGÃO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96608
-#EXTINF:-1,24H CHANGEMAN
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96609
-#EXTINF:-1,24H Chapolin T01 a 03
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96610
-#EXTINF:-1,24H Chapolin T04 a 07
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96611
-#EXTINF:-1,24H UM MALUCO NO PEDAÇO 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96612
-#EXTINF:-1,24H CHAVES DESENHO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96613
-#EXTINF:-1,24H Aeroporto Área Restrita
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96614
-#EXTINF:-1,24H CHAVES TEMPORADA 07
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96617
-#EXTINF:-1,24H MIGTHOR 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96618
-#EXTINF:-1,24H CLARÊNCIO O OTIMISTA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96619
-#EXTINF:-1,24H CONTOS ASSUSTADORES DA MASHA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96621
-#EXTINF:-1,24H CORAGEM O CÃO COVARDE
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96622
-#EXTINF:-1,24H Mega-man
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96623
-#EXTINF:-1,24H O Coisa
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96624
-#EXTINF:-1,24H Cuphead a Série
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96625
-#EXTINF:-1,24H CYBERCOPS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96626
-#EXTINF:-1,24H TURMA DA MONICA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96627
-#EXTINF:-1,24H DE VOLTA PARA O FUTURO DESENHO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96628
-#EXTINF:-1,24H Denis o Pimentinhas
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96629
-#EXTINF:-1,24H Os Sete monstrinhos
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96630
-#EXTINF:-1,24H DESENCANTO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96631
-#EXTINF:-1,24H DESENHOS BIBLICOS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96632
-#EXTINF:-1,24H DIGIMON
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96633
-#EXTINF:-1,24H DOUG
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96635
-#EXTINF:-1,24H DOUTORA BRINQUEDO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96636
-#EXTINF:-1,24H DR.STONE (ANIME)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96637
-#EXTINF:-1,24H DRAGON BALL LONGAS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96638
-#EXTINF:-1,24H DRAGONBALL CLASSICO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96639
-#EXTINF:-1,24H DRAGONBALL SUPER
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96640
-#EXTINF:-1,24H DRAGONBALL Z SAGA ANDROIDES
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96641
-#EXTINF:-1,24H DRAGONBALL Z SAGA BABIDI
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96642
-#EXTINF:-1,24H Os Pinguins de Madagascar
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96643
-#EXTINF:-1,24H Phineas e Ferb 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96645
-#EXTINF:-1,24H DRAGONBALL Z SAGA NAMEKUSEI
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96646
-#EXTINF:-1,24H DRAGONBALL Z SAGA SAYAJIN
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96647
-#EXTINF:-1,24H Ilha dos Desafios
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96648
-#EXTINF:-1,24H Jambo e Ruvião
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96649
-#EXTINF:-1,24H Homem de Ferro
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96650
-#EXTINF:-1,24H DUCK DODGERS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96651
-#EXTINF:-1,24H DUCK TALES CLÁSSICO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96652
-#EXTINF:-1,24H ESCOLINHA PROFESSOR RAIMUNDO ANOS 90
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96653
-#EXTINF:-1,24H EU SOU O MAXIMO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96654
-#EXTINF:-1,24H FAISCA & FUMAÇA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96655
-#EXTINF:-1,24H Delvin o Motoqueiro
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96656
-#EXTINF:-1,24H FORMIGA ATÔMICA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96657
-#EXTINF:-1,24H FRANKSTEIN JR E OS IMPOSSIVEÍS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96658
-#EXTINF:-1,24H FREAKAZOID
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96659
-#EXTINF:-1,24H FUTURAMA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96660
-#EXTINF:-1,24H FÁBULAS DA DISNEY
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96661
-#EXTINF:-1,24H GALINHA BABY
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96662
-#EXTINF:-1,24H GALINHA PINTADINHA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96663
-#EXTINF:-1,24H Happy Tree Frieds
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96664
-#EXTINF:-1,24H GATO FELIX
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96665
-#EXTINF:-1,24H G. I. Joe: Sigma 6
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96666
-#EXTINF:-1,24H GOOGLE FIVE
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96667
-#EXTINF:-1,24H HE-MAN
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96669
-#EXTINF:-1,24H HENRY DANGER
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96670
-#EXTINF:-1,24H Hercules Disney
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96671
-#EXTINF:-1,24H Fantasminhas Legal
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96672
-#EXTINF:-1,24H Fantomas
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96673
-#EXTINF:-1,24H AMERICAN HOUSEWIFE
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96674
-#EXTINF:-1,24H iCARLY
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96675
-#EXTINF:-1,24H INUYASHA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96676
-#EXTINF:-1,24H Duelo Xiaolin
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96677
-#EXTINF:-1,24H IRMÃO DO JOREL
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96678
-#EXTINF:-1,24H JAKE E OS PIRATAS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96679
-#EXTINF:-1,24H Comichão e Cocadinha
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96680
-#EXTINF:-1,24H JIBAN
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96681
-#EXTINF:-1,24H Jurassic World Acampamento Jurássico
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96682
-#EXTINF:-1,24H LARGADOS E PELADOS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96683
-#EXTINF:-1,24H LARGADOS E PELADOS A TRIBO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96684
-#EXTINF:-1,24H Charlie Chan 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96685
-#EXTINF:-1,24H LEGO UMA AVENTURA NA CIDADE
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96686
-#EXTINF:-1,24H CAPITÃO LENTO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96687
-#EXTINF:-1,24H Luluzinha
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96688
-#EXTINF:-1,24H BATMAN GOTHAM KNIGHT
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96689
-#EXTINF:-1,24H BATMAN DO FUTURO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96690
-#EXTINF:-1,24H BATMAN
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96691
-#EXTINF:-1,24H MANNY MÃOS À OBRA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96692
-#EXTINF:-1,24H MARIA MAGDALENA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96693
-#EXTINF:-1,24H Batfino
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96694
-#EXTINF:-1,24H MARVEL DEMOLIDOR
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96695
-#EXTINF:-1,24H MEGAMAN CLASSICO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96696
-#EXTINF:-1,24H MEU AMIGÃOZÃO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96697
-#EXTINF:-1,24H Miami Vice
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96698
-#EXTINF:-1,24H MICKEY CLASSICO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96699
-#EXTINF:-1,24H Mickey Donald e Pateta
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96700
-#EXTINF:-1,24H As Meninas Superpoderosas Geração Z
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96701
-#EXTINF:-1,24H MORANGUINHO AVENTURAS EM TUTTI FRUTI
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96702
-#EXTINF:-1,24H MUCHA LUTA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96703
-#EXTINF:-1,24H MUMIAS VIVAS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96704
-#EXTINF:-1,24H MUNDO BITA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96705
-#EXTINF:-1,24H NARUTO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96706
-#EXTINF:-1,24H O INCRÍVEL MUNDO DE GUMBALL
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96707
-#EXTINF:-1,24H O MANDALORIANO T01
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96708
-#EXTINF:-1,24H O Maskara
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96709
-#EXTINF:-1,24H O PEQUENO SCOOBY-DOO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96710
-#EXTINF:-1,24H O PEQUENO URSO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96711
-#EXTINF:-1,24H O PODEROSO MIGTHOR
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96712
-#EXTINF:-1,24H A Terríveis Aventuras de Billy e Mandy
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96713
-#EXTINF:-1,24H O SHOW DOS LOONEY TUNES
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96714
-#EXTINF:-1,24H A Turma do Bairro
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96715
-#EXTINF:-1,24H OGGY E AS BARATAS TONTAS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96716
-#EXTINF:-1,24H OQUE HÁ DE NOVO SCOOBY DOO?
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96717
-#EXTINF:-1,24H OS 7A
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96718
-#EXTINF:-1,24H OS BACKYARDIGANS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96719
-#EXTINF:-1,24H A Turma do Pato Bill
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96720
-#EXTINF:-1,24H OS CAÇA FANTASMA DESENHO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96721
-#EXTINF:-1,24H WANDINHA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96722
-#EXTINF:-1,24H Os Flintstones
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96723
-#EXTINF:-1,24H OS GÁRGULAS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96724
-#EXTINF:-1,24H Bacamarte e Chumbinho
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96725
-#EXTINF:-1,24H OS JETSONS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96726
-#EXTINF:-1,24H OS JOVENS TITÃS EM AÇÃO T-01 Á 04
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96727
-#EXTINF:-1,24H OS JOVENS TITÃS EM AÇÃO T05
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96728
-#EXTINF:-1,24H Os Jovens Titãs em Ação T06
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96729
-#EXTINF:-1,24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96730
-#EXTINF:-1,24H A FAMÍLIA DRACULA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96731
-#EXTINF:-1,24H OS RONI
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96732
-#EXTINF:-1,24H OS SIMPSON 2000/2010
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96733
-#EXTINF:-1,24H OS SIMPSONS T31
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96734
-#EXTINF:-1,24H Os Simpsons 34° Temporada
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96735
-#EXTINF:-1,24H OS SIMPSONS T.35
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96736
-#EXTINF:-1,24H OS SMURFS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96737
-#EXTINF:-1,24H A MULHER MARAVILHA 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96738
-#EXTINF:-1,24H OS TRAPALHÕES
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96739
-#EXTINF:-1,24H OS URSINHOS CARINHOSOS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96740
-#EXTINF:-1,24H AS MENINAS SUPERPODEROSAS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96742
-#EXTINF:-1,24H A FAMÍLIA ADAMS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96743
-#EXTINF:-1,24H PATO DONALD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96744
-#EXTINF:-1,24H PATRULHA CANINA T01
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96745
-#EXTINF:-1,24H PATRULHA CANINA T02
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96746
-#EXTINF:-1,24H PATRULHA CANINA T03
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96747
-#EXTINF:-1,24H PATRULHA CANINA T04
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96748
-#EXTINF:-1,24H PATRULHA CANINA T05
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96749
-#EXTINF:-1,24H PEPPA PIG
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96751
-#EXTINF:-1,24H PERDIDO NAS ESTRELAS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96752
-#EXTINF:-1,24H Pernalonga e Seus Amigos
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96753
-#EXTINF:-1,24H PICA- PAU
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96754
-#EXTINF:-1,24H PINK E O CEREBRO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96755
-#EXTINF:-1,24H PLIC & PLOC
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96756
-#EXTINF:-1,24H POLE POSITION
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96757
-#EXTINF:-1,24H PEPPA PIG
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96758
-#EXTINF:-1,24H A CORRIDA ESPACIAL
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96759
-#EXTINF:-1,24H POWER RANGERS CLASSICO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96760
-#EXTINF:-1,24H PUNKY A LEVADA DA BRECA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96761
-#EXTINF:-1,24H QUE LEGAL SCOOBY DOO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96762
-#EXTINF:-1,24H RAMBO DESENHO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96763
-#EXTINF:-1,24H CARDILLACS E DINOSSAURO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96764
-#EXTINF:-1,24H REN & STIMPY
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96765
-#EXTINF:-1,24H ROBOCOP DESENHO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96766
-#EXTINF:-1,24H BIBO PAI E BOB FILHO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96767
-#EXTINF:-1,24H SAMURAI JACK
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96768
-#EXTINF:-1,24H DR. HOUSE T07 & T08
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96769
-#EXTINF:-1,24H DR. HOUSE T05 & T06
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96770
-#EXTINF:-1,24H SEE
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96771
-#EXTINF:-1,24H SHAMAN KING (ANIME)
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96772
-#EXTINF:-1,24H SHAUN O CARNEIRO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96773
-#EXTINF:-1,24H DR. HOUSE T03 & T04
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96774
-#EXTINF:-1,24H SHE-RA CLASSICA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96775
-#EXTINF:-1,24H SILVERHAWKS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96776
-#EXTINF:-1,24H EU A PATROA E AS CRIANÇAS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96778
-#EXTINF:-1,24H DR. HOUSE T01 & T02
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96779
-#EXTINF:-1,24H BEN 10 FORÇA ALIENÍGENA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96780
-#EXTINF:-1,24H STREET FIGHTER
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96781
-#EXTINF:-1,24H SUPER CHOQUE
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96782
-#EXTINF:-1,24H Super Dragonball Heroes
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96783
-#EXTINF:-1,24H Super Homem Anos 40
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96784
-#EXTINF:-1,24H SUPERAMIGOS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96785
-#EXTINF:-1,24H SUPERCAMPEÕES
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96786
-#EXTINF:-1,24H SUPERNATURAL T01 A 05
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96787
-#EXTINF:-1,24H SURFISTA PRATEADO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96788
-#EXTINF:-1,24H TARZAN
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96789
-#EXTINF:-1,24H TAZ MANIA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96790
-#EXTINF:-1,24H Teletubbies
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96791
-#EXTINF:-1,24H Thundercats
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96792
-#EXTINF:-1,24H TODO MUNDO ODEIA O CHRIS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96793
-#EXTINF:-1,24H TOM & JERRY CLASSICO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96794
-#EXTINF:-1,24H Tom & Jerry New York
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96795
-#EXTINF:-1,24H TRANSFORMERS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96796
-#EXTINF:-1,24H OS SIMPSONS T32
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96797
-#EXTINF:-1,24H TURMA DO RONALDINHO GAUCHO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96798
-#EXTINF:-1,24H TV COLOSSO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96799
-#EXTINF:-1,24H TÁ CHOVENDO HAMBURGUER
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96801
-#EXTINF:-1,24H OS FEITICEIROS DE WARVELY PLACE
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96802
-#EXTINF:-1,24H HOUSE OF CARDS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96803
-#EXTINF:-1,24H BIG BANG: A Teoria
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96804
-#EXTINF:-1,24H VINGADORES OS SUPER HERÓIS MAIS PODEROSOS DA TERRA
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96805
-#EXTINF:-1,24H WOLVERINE E OS X-MEN
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96806
-#EXTINF:-1,24H SHAZAAM
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96807
-#EXTINF:-1,24H IRMÃOS A OBRA 
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96808
-#EXTINF:-1,24H HILDA FURACÃO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96809
-#EXTINF:-1,24H ZORRO CLASSICO
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96810
-#EXTINF:-1,24HR A FAMÍLIA HATHAWAYS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96811
-#EXTINF:-1,24H THUNDERCATS
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/430208
-#EXTINF:-1,24H Dois Homens e Meio
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/431406
-
-
-#EXTINF:-1 tvg-id="" tvg-name="24H Os Simpsons" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Os Simpsons
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38000.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Chaves" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Chaves
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38001.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Chapolin Colorado" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Chapolin Colorado
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38002.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Eu, a Patroa e as Crianças" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Eu, a Patroa e as Crianças
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38003.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Dois Homens e Meio" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Dois Homens e Meio
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38004.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Bob Esponja Calça Quadrada" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Bob Esponja Calça Quadrada
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38005.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Naruto Uzumaki" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Naruto Uzumaki
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38006.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Naruto Shippuden" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Naruto Shippuden
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38007.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Um Maluco no Pedaço" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Um Maluco no Pedaço
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38008.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H iCarly Revival" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H iCarly Revival
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38009.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H South Park" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H South Park
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38010.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Steven Universo" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Steven Universo
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38011.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Truques da Mente" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Truques da Mente
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38012.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Largados e Pelados" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Largados e Pelados
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38013.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Todo Mundo Odeia o Chris" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Todo Mundo Odeia o Chris
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38014.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Dragon Ball Z" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Dragon Ball Z
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38015.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Digimon Adventure" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Digimon Adventure
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38016.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Snoopy" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Snoopy
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38017.ts
-#EXTINF:-1 tvg-id="" tvg-name="24h Big Bang: A Teoria" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24h Big Bang: A Teoria
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38018.ts
-#EXTINF:-1 tvg-id="" tvg-name="24h Boku no Hero Academia" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24h Boku no Hero Academia
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38019.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Apenas um Show" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Apenas um Show
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38020.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H BoJack Horseman" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H BoJack Horseman
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38021.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Galinha Pintadinha" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Galinha Pintadinha
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38022.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Futurama" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Futurama
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38023.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H DPA - Detetives do Predio Azul" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H DPA - Detetives do Predio Azul
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38024.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Familia Dinoussauros" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Familia Dinoussauros
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38025.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Aeroporto Area Restrita" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Aeroporto Area Restrita
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38026.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H As Visões da Raven" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H As Visões da Raven
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38027.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Ação" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Ação
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38028.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Animação Infantil" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Animação Infantil
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38029.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Comédia" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Comédia
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38030.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Drama" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Drama
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38031.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Romance" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Romance
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38032.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Suspense" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Suspense
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38033.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Lancamentos" tvg-logo="http://www.fontedecanais.io/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Lancamentos
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/38034.ts
+#####################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 1 - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIMCfztNwx2rA6XWGaJhcqdG7Wt.jpg" group-title="Filmes | Ação",Velozes e Furiosos 1 - 2001
 http://hubby.bz:80/movie/atvRibeiro-vods/dcl9DH5rnV/32977.mp4
