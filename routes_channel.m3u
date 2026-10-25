@@ -112,21 +112,28 @@ https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jogo Bahia" tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="2 - ⚽   ESPORTES",Jogo Bahia Opção 3
 http://kobe.kaseline.shop:2095/live5/sportv/chunks.m3u8?token=1755481925_182eca944b0799fe7dfe68d39fe8f8c32bf1ca8c
 #EXTINF:-1 tvg-id="6" tvg-name="Band News HD" tvg-logo="http://www.fontedecanais.org/logos/canais/bandnews.png" group-title="3 - 🗞️ NOTICIAS 24H",Band News OPÇÃO 1
-https://dns.p2.wtf/rogerio55x/24992611250/296335
+http://dali-as.skin:80/live/728442553/408909078/5298071.ts
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="BR| BAND NEWS HD" tvg-logo="https://lo1.in/BR/banns1.png" group-title="3 - 🗞️ NOTICIAS 24H",Band News OPÇÃO 2
 https://aovivo.doozytv.com.br/31025556/10160454/chunks.m3u8
 #EXTINF:-1 tvg-id="182" tvg-name="Record News HD" tvg-logo="http://www.fontedecanais.org/logos/canais/recordnews.png" group-title="3 - 🗞️ NOTICIAS 24H",Record News OPÇÃO 1
-https://dns.p2.wtf/rogerio55x/24992611250/296346
+http://dali-as.skin:80/live/728442553/408909078/5298084.ts
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="BR| RECORD NEWS HD" tvg-logo="https://lo1.in/BR/rcord.png" group-title="3 - 🗞️ NOTICIAS 24H",Record News OPÇÃO 2
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162484.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="Globo News HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globonews.png" group-title="3 - 🗞️ NOTICIAS 24H",Globo News OPÇÃO 1
-https://dns.p2.wtf/rogerio55x/24992611250/296342
+http://dali-as.skin:80/live/728442553/408909078/5298078.ts
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="BR| GLOBO NEWS HD" tvg-logo="https://lo1.in/BR/globi.png" group-title="3 - 🗞️ NOTICIAS 24H",Globo News OPÇÃO 2
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162406.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="CNN Brasil HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cnnbrasil.png" group-title="3 - 🗞️ NOTICIAS 24H",CNN Brasil OPÇÃO 1
-https://dns.p2.wtf/rogerio55x/24992611250/296350
+http://dali-as.skin:80/live/728442553/408909078/5298074.ts
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="BR| CNN BRASIL HD" tvg-logo="https://lo1.in/BR/cnnbrs.png" group-title="3 - 🗞️ NOTICIAS 24H",CNN Brasil OPÇÃO 2
-https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8#EXTINF:-1 tvg-id="jovempannews" tvg-name="Jovem Pan News FHD" tvg-logo="http://www.fontedecanais.sh/logos/canais/jpnews.png"  group-title="3 - 🗞️ NOTICIAS 24H",Jovem Pan News Opção 1
+http://dali-as.skin:80/live/728442553/408909078/5298080.ts
+#EXTINF:-1 tvg-id="jovempannews" tvg-name="Jovem Pan News HD" tvg-logo="http://www.fontedecanais.sh/logos/canais/jpnews.png"  group-title="3 - 🗞️ NOTICIAS 24H",Jovem Pan News Opção 2
+http://dali-as.skin:80/live/728442553/408909078/5298081.ts
+#EXTINF:-1 tvg-id="sbtnews" tvg-name="SBT News FHD" tvg-logo="http://www.fontedecanais.sh/logos/canais/sbtnews.png" group-title="3 - 🗞️ NOTICIAS 24H",SBT News Opção 1
+http://dali-as.skin:80/live/728442553/408909078/5298086.ts
+#EXTINF:-1 tvg-id="sbtnews" tvg-name="SBT News HD" tvg-logo="http://www.fontedecanais.sh/logos/canais/sbtnews.png" group-title="3 - 🗞️ NOTICIAS 24H",SBT News Opção 2
+http://dali-as.skin:80/live/728442553/408909078/5298087.ts
 #EXTINF:-1 tvg-id="7" tvg-name="Discovery Channel HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Channel OPÇÃO 1
 http://dali-as.skin:80/live/728442553/408909078/297937.ts
 #EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="BR| DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/BR/disch.png" group-title="4 - 📹   DOCUMENTÁRIOS",Discovery Channel OPÇÃO 2
